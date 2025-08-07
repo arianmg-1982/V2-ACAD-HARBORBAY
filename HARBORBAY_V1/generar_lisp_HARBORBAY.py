@@ -45,7 +45,7 @@ def cargar_configuracion():
         raise
 
 def cargar_datos_csv():
-    """Carga y procesa los datos desde el archivo CSV."""
+    """Carga y procesa los datos desde el archivo CSV de forma robusta."""
     if not os.path.exists(CSV_INPUT_FILE):
         logging.error(f"Error crítico: El archivo de datos '{CSV_INPUT_FILE}' no fue encontrado.")
         raise FileNotFoundError(f"No se encontró {CSV_INPUT_FILE}")
@@ -54,8 +54,21 @@ def cargar_datos_csv():
         "nombre": "",
         "niveles": defaultdict(dict),
         "switches": {},
-        "modelos_sw": {}
     })
+
+    # Columnas que representan cantidades de dispositivos
+    qty_columns = ['apQty', 'telQty', 'tvQty', 'camQty', 'datQty']
+
+    # Mapeo de columnas de switch en el CSV a nombres de switch internos
+    switch_column_map = {
+        'switch_FIREWALL': 'SW-FIREWALL',
+        'switch_CORE': 'SW-CORE',
+        'switch_wifi': 'SW-WIFI',
+        'switch_tel': 'SW-TEL',
+        'switch_iptv': 'SW-IPTV',
+        'switch_cctv': 'SW-CCTV',
+        'switch_data': 'SW-DATA',
+    }
 
     with open(CSV_INPUT_FILE, mode='r', encoding=ENCODING) as csvfile:
         reader = csv.DictReader(csvfile)
@@ -64,25 +77,35 @@ def cargar_datos_csv():
                 torre_id = int(row['TORRE'])
                 nivel_id = int(row['NIVEL'])
 
-                torres[torre_id]['nombre'] = row['torre_nombre']
+                torre = torres[torre_id]
+                if not torre['nombre']: # Asignar nombre solo una vez
+                    torre['nombre'] = row['torre_nombre']
 
-                # Almacenar datos del nivel
+                nivel_data = torre['niveles'][nivel_id]
+
+                # Copiar todos los datos de la fila al diccionario de nivel
                 for key, value in row.items():
-                    # Convertir cantidades a enteros, manejando celdas vacías
-                    if 'Qty' in key or 'switch_' in key and '_modelo' not in key:
-                         try:
-                            torres[torre_id]['niveles'][nivel_id][key] = int(value or 0)
-                         except (ValueError, TypeError):
-                            torres[torre_id]['niveles'][nivel_id][key] = 0
-                    else:
-                        torres[torre_id]['niveles'][nivel_id][key] = value
+                    nivel_data[key] = value
 
-                # Consolidar switches y modelos por torre
-                for sw_key in row:
-                    if sw_key.startswith('switch_') and '_modelo' not in sw_key and (row[sw_key] or '0') != '0':
-                        sw_name = "SW-" + sw_key.split('_')[1].upper()
-                        modelo_key = sw_key + "_modelo"
-                        torres[torre_id]['switches'][sw_name] = row.get(modelo_key, '')
+                # Convertir explícitamente las cantidades a enteros
+                for col in qty_columns:
+                    try:
+                        nivel_data[col] = int(row.get(col) or 0)
+                    except (ValueError, TypeError):
+                        logging.warning(f"Valor no numérico para '{col}' en la fila {reader.line_num}. Se usará 0.")
+                        nivel_data[col] = 0
+
+                # Consolidar switches y modelos por torre de forma explícita
+                for csv_col, sw_name in switch_column_map.items():
+                    if (row.get(csv_col) or '0') != '0':
+                        modelo_col = f"{csv_col}_modelo"
+                        torre['switches'][sw_name] = row.get(modelo_col, '')
+
+                # Replicar el comportamiento original de tratar la UPS como un switch en los datos
+                # para mantener la salida del dibujo sin cambios.
+                if (row.get('switch_UPS') or '0') != '0':
+                    torre['switches']['SW-UPS'] = row.get('switch_UPS_modelo', '')
+
 
             except (ValueError, KeyError) as e:
                 logging.error(f"Error procesando fila del CSV: {row}. Error: {e}")
@@ -544,6 +567,13 @@ def main():
             return
 
         generar_lisp(config, datos_torres)
+
+        # Eliminar el switch 'SW-UPS' de los datos antes de generar el BOM
+        # para que no aparezca en el listado de materiales de switches.
+        for torre in datos_torres:
+            if 'SW-UPS' in torre.get('switches', {}):
+                del torre['switches']['SW-UPS']
+
         generar_bom(config, datos_torres)
 
         logging.info("--- PROCESO COMPLETADO EXITOSAMENTE ---")
