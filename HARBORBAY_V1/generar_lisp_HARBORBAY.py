@@ -336,7 +336,6 @@ def dibujar_cableado_fibra(f, cfg, torres, coords):
     """Dibuja el cableado de fibra óptica desde el MDF a los IDFs con el nuevo enrutamiento."""
     lisp_escribir(f, "\n; === DIBUJAR CABLES DE FIBRA OPTICA ===")
     lisp_escribir(f, '(princ "\\nDibujando cables de Fibra Optica...")')
-    lisp_seleccionar_capa_y_color(f, "Fibra_Data", 2) # Amarillo para todas las fibras
 
     mdf_torre = torres[0]
     idfs = [t for t in torres if t['id'] != 0]
@@ -354,6 +353,12 @@ def dibujar_cableado_fibra(f, cfg, torres, coords):
         if not idfs_con_switch: continue
 
         y_bandeja = y_bandeja_start - y_offset
+
+        # Seleccionar capa y color basado en el tipo de switch/fibra
+        capa_fibra = f"Fibra_{sw_tipo.replace('SW-', '')}"
+        if capa_fibra not in cfg['CAPAS']:
+            capa_fibra = "Fibra_Data" # Fallback
+        lisp_seleccionar_capa_y_color(f, capa_fibra, cfg['CAPAS'][capa_fibra])
 
         p_mdf_sw = coords[0]['switches'][sw_tipo]
         p_start_mdf = (p_mdf_sw[0] + cfg['SWITCH_ANCHO'], p_mdf_sw[1] + cfg['SWITCH_ALTO'] / 2)
@@ -503,12 +508,14 @@ def generar_lisp(cfg, torres):
             y_cursor = y_sotano - 50
             coords[torre_id]['switches'] = {}
 
-            # Dibujar UPS primero si existe en el MDF
+            # Almacenar la posición de la UPS para dibujarla después de los switches
+            ups_info = None
             if 'SW-UPS' in torres[0]['switches'] and torre_id == 0:
-                y_cursor -= cfg['UPS_ALTO']
-                dibujar_ups(f, cfg, x_pos, y_cursor)
-                coords[torre_id]['switches']['SW-UPS'] = (x_pos, y_cursor)
-                y_cursor -= cfg.get('UPS_SWITCH_GAP', 30)
+                ups_y = y_cursor - cfg['UPS_ALTO']
+                ups_info = {'x': x_pos, 'y': ups_y}
+                coords[torre_id]['switches']['SW-UPS'] = (x_pos, ups_y)
+                y_cursor = ups_y - cfg.get('UPS_SWITCH_GAP', 30)
+
 
             # Dibujar el resto de los switches
             draw_order = cfg['SWITCH_DRAW_ORDER']
@@ -519,6 +526,10 @@ def generar_lisp(cfg, torres):
                 dibujar_switch(f, cfg, x_pos, y_cursor, item_nombre, torre['switches'].get(item_nombre, ''))
                 coords[torre_id]['switches'][item_nombre] = (x_pos, y_cursor)
                 y_cursor -= cfg['SWITCH_VERTICAL_SPACING']
+
+            # Ahora dibuja la UPS si existe
+            if ups_info:
+                dibujar_ups(f, cfg, ups_info['x'], ups_info['y'])
             lisp_escribir(f, '(princ "DONE.")')
 
             # Dibujar Dispositivos por nivel en orden vertical

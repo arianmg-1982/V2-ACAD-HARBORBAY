@@ -2,6 +2,7 @@
       LISTADO DE MATERIALES (BOM) - PROYECTO HARBORBAY
 ============================================================
 
+
 --- RESUMEN DEL PROYECTO ---
 Total de Torres (MDF+IDF): 16
 Total de Puntos de Red:    1224
