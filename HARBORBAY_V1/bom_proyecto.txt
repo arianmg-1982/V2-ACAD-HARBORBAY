@@ -1,18 +1,17 @@
 ============================================================
       LISTADO DE MATERIALES (BOM) - PROYECTO HARBORBAY
 ============================================================
-Fecha de Generación: 2025-08-07 05:51:23
 
 --- RESUMEN DEL PROYECTO ---
 Total de Torres (MDF+IDF): 16
-Total de Puntos de Red:    2263
+Total de Puntos de Red:    1224
 
 --- TOTAL DE DISPOSITIVOS ---
-- AP        : 401 unidades
-- TEL       : 439 unidades
-- TV        : 233 unidades
-- CCTV      : 139 unidades
-- DATO      : 1051 unidades
+- AP        : 390 unidades
+- TEL       : 186 unidades
+- TV        : 648 unidades
+- CCTV      : 0 unidades
+- DATO      : 0 unidades
 
 --- TOTAL DE SWITCHES POR TIPO Y MODELO ---
 - SW-CCTV        : 16 unidades
@@ -27,7 +26,7 @@ Total de Puntos de Red:    2263
     - Modelo: Meraki MS225 (16 uds)
 
 --- ESTIMACIÓN DE CABLEADO ---
-- Cable UTP CAT6A: ~33,945 metros
+- Cable UTP CAT6A: ~18,360 metros
 - Fibra Óptica:    ~5,250 metros (estimación bruta)
 
 --- OBSERVACIONES ---

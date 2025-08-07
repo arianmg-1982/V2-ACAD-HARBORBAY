@@ -1,0 +1,13 @@
+tipo_apartamento,dispositivo,cantidad,modelo
+1H,telefono,1,Yealink T46S
+1H,AP,2,Meraki MR46
+1H,TV,2,Apple TV 4K
+2H,telefono,1,Yealink T46S
+2H,AP,2,Meraki MR46
+2H,TV,3,Apple TV 4K
+3H,telefono,1,Yealink T46S
+3H,AP,2,Meraki MR46
+3H,TV,4,Apple TV 4K
+4H,telefono,1,Yealink T46S
+4H,AP,3,Meraki MR46
+4H,TV,5,Apple TV 4K
