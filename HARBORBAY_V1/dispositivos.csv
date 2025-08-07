@@ -1,1225 +1,1225 @@
 id_dispositivo,tipo,modelo,id_apartamento,torre_nombre,nivel_nombre,ubicacion
-TEL-1-1,telefono,Yealink T46S,1,IDF15,NIVEL3,Apartamento 1 - Teléfono 1
-AP-1-1,AP,Meraki MR46,1,IDF15,NIVEL3,Apartamento 1 - AP 1
-AP-1-2,AP,Meraki MR46,1,IDF15,NIVEL3,Apartamento 1 - AP 2
-TV-1-1,TV,Apple TV 4K,1,IDF15,NIVEL3,Apartamento 1 - TV 1
-TV-1-2,TV,Apple TV 4K,1,IDF15,NIVEL3,Apartamento 1 - TV 2
-TV-1-3,TV,Apple TV 4K,1,IDF15,NIVEL3,Apartamento 1 - TV 3
-TEL-2-1,telefono,Yealink T46S,2,IDF5,NIVEL3,Apartamento 2 - Teléfono 1
-AP-2-1,AP,Meraki MR46,2,IDF5,NIVEL3,Apartamento 2 - AP 1
-AP-2-2,AP,Meraki MR46,2,IDF5,NIVEL3,Apartamento 2 - AP 2
-TV-2-1,TV,Apple TV 4K,2,IDF5,NIVEL3,Apartamento 2 - TV 1
-TV-2-2,TV,Apple TV 4K,2,IDF5,NIVEL3,Apartamento 2 - TV 2
-TV-2-3,TV,Apple TV 4K,2,IDF5,NIVEL3,Apartamento 2 - TV 3
-TEL-3-1,telefono,Yealink T46S,3,IDF8,NIVEL3,Apartamento 3 - Teléfono 1
-AP-3-1,AP,Meraki MR46,3,IDF8,NIVEL3,Apartamento 3 - AP 1
-AP-3-2,AP,Meraki MR46,3,IDF8,NIVEL3,Apartamento 3 - AP 2
-TV-3-1,TV,Apple TV 4K,3,IDF8,NIVEL3,Apartamento 3 - TV 1
-TV-3-2,TV,Apple TV 4K,3,IDF8,NIVEL3,Apartamento 3 - TV 2
-TV-3-3,TV,Apple TV 4K,3,IDF8,NIVEL3,Apartamento 3 - TV 3
-TV-3-4,TV,Apple TV 4K,3,IDF8,NIVEL3,Apartamento 3 - TV 4
-TEL-4-1,telefono,Yealink T46S,4,IDF11,NIVEL1,Apartamento 4 - Teléfono 1
-AP-4-1,AP,Meraki MR46,4,IDF11,NIVEL1,Apartamento 4 - AP 1
-AP-4-2,AP,Meraki MR46,4,IDF11,NIVEL1,Apartamento 4 - AP 2
-TV-4-1,TV,Apple TV 4K,4,IDF11,NIVEL1,Apartamento 4 - TV 1
-TV-4-2,TV,Apple TV 4K,4,IDF11,NIVEL1,Apartamento 4 - TV 2
-TV-4-3,TV,Apple TV 4K,4,IDF11,NIVEL1,Apartamento 4 - TV 3
-TV-4-4,TV,Apple TV 4K,4,IDF11,NIVEL1,Apartamento 4 - TV 4
-TEL-5-1,telefono,Yealink T46S,5,IDF4,NIVEL2,Apartamento 5 - Teléfono 1
-AP-5-1,AP,Meraki MR46,5,IDF4,NIVEL2,Apartamento 5 - AP 1
-AP-5-2,AP,Meraki MR46,5,IDF4,NIVEL2,Apartamento 5 - AP 2
-TV-5-1,TV,Apple TV 4K,5,IDF4,NIVEL2,Apartamento 5 - TV 1
-TV-5-2,TV,Apple TV 4K,5,IDF4,NIVEL2,Apartamento 5 - TV 2
-TEL-6-1,telefono,Yealink T46S,6,IDF4,NIVEL6,Apartamento 6 - Teléfono 1
-AP-6-1,AP,Meraki MR46,6,IDF4,NIVEL6,Apartamento 6 - AP 1
-AP-6-2,AP,Meraki MR46,6,IDF4,NIVEL6,Apartamento 6 - AP 2
-TV-6-1,TV,Apple TV 4K,6,IDF4,NIVEL6,Apartamento 6 - TV 1
-TV-6-2,TV,Apple TV 4K,6,IDF4,NIVEL6,Apartamento 6 - TV 2
-TV-6-3,TV,Apple TV 4K,6,IDF4,NIVEL6,Apartamento 6 - TV 3
-TEL-7-1,telefono,Yealink T46S,7,IDF10,NIVEL6,Apartamento 7 - Teléfono 1
-AP-7-1,AP,Meraki MR46,7,IDF10,NIVEL6,Apartamento 7 - AP 1
-AP-7-2,AP,Meraki MR46,7,IDF10,NIVEL6,Apartamento 7 - AP 2
-TV-7-1,TV,Apple TV 4K,7,IDF10,NIVEL6,Apartamento 7 - TV 1
-TV-7-2,TV,Apple TV 4K,7,IDF10,NIVEL6,Apartamento 7 - TV 2
-TV-7-3,TV,Apple TV 4K,7,IDF10,NIVEL6,Apartamento 7 - TV 3
-TV-7-4,TV,Apple TV 4K,7,IDF10,NIVEL6,Apartamento 7 - TV 4
+TEL-1-1,telefono,Yealink T46S,1,IDF1,NIVEL4,Apartamento 1 - Teléfono 1
+AP-1-1,AP,Meraki MR46,1,IDF1,NIVEL4,Apartamento 1 - AP 1
+AP-1-2,AP,Meraki MR46,1,IDF1,NIVEL4,Apartamento 1 - AP 2
+TV-1-1,TV,Apple TV 4K,1,IDF1,NIVEL4,Apartamento 1 - TV 1
+TV-1-2,TV,Apple TV 4K,1,IDF1,NIVEL4,Apartamento 1 - TV 2
+TV-1-3,TV,Apple TV 4K,1,IDF1,NIVEL4,Apartamento 1 - TV 3
+TEL-2-1,telefono,Yealink T46S,2,IDF6,NIVEL1,Apartamento 2 - Teléfono 1
+AP-2-1,AP,Meraki MR46,2,IDF6,NIVEL1,Apartamento 2 - AP 1
+AP-2-2,AP,Meraki MR46,2,IDF6,NIVEL1,Apartamento 2 - AP 2
+TV-2-1,TV,Apple TV 4K,2,IDF6,NIVEL1,Apartamento 2 - TV 1
+TV-2-2,TV,Apple TV 4K,2,IDF6,NIVEL1,Apartamento 2 - TV 2
+TV-2-3,TV,Apple TV 4K,2,IDF6,NIVEL1,Apartamento 2 - TV 3
+TEL-3-1,telefono,Yealink T46S,3,IDF5,NIVEL2,Apartamento 3 - Teléfono 1
+AP-3-1,AP,Meraki MR46,3,IDF5,NIVEL2,Apartamento 3 - AP 1
+AP-3-2,AP,Meraki MR46,3,IDF5,NIVEL2,Apartamento 3 - AP 2
+TV-3-1,TV,Apple TV 4K,3,IDF5,NIVEL2,Apartamento 3 - TV 1
+TV-3-2,TV,Apple TV 4K,3,IDF5,NIVEL2,Apartamento 3 - TV 2
+TV-3-3,TV,Apple TV 4K,3,IDF5,NIVEL2,Apartamento 3 - TV 3
+TEL-4-1,telefono,Yealink T46S,4,IDF11,NIVEL6,Apartamento 4 - Teléfono 1
+AP-4-1,AP,Meraki MR46,4,IDF11,NIVEL6,Apartamento 4 - AP 1
+AP-4-2,AP,Meraki MR46,4,IDF11,NIVEL6,Apartamento 4 - AP 2
+TV-4-1,TV,Apple TV 4K,4,IDF11,NIVEL6,Apartamento 4 - TV 1
+TV-4-2,TV,Apple TV 4K,4,IDF11,NIVEL6,Apartamento 4 - TV 2
+TV-4-3,TV,Apple TV 4K,4,IDF11,NIVEL6,Apartamento 4 - TV 3
+TEL-5-1,telefono,Yealink T46S,5,IDF7,NIVEL7,Apartamento 5 - Teléfono 1
+AP-5-1,AP,Meraki MR46,5,IDF7,NIVEL7,Apartamento 5 - AP 1
+AP-5-2,AP,Meraki MR46,5,IDF7,NIVEL7,Apartamento 5 - AP 2
+TV-5-1,TV,Apple TV 4K,5,IDF7,NIVEL7,Apartamento 5 - TV 1
+TV-5-2,TV,Apple TV 4K,5,IDF7,NIVEL7,Apartamento 5 - TV 2
+TV-5-3,TV,Apple TV 4K,5,IDF7,NIVEL7,Apartamento 5 - TV 3
+TEL-6-1,telefono,Yealink T46S,6,IDF6,NIVEL5,Apartamento 6 - Teléfono 1
+AP-6-1,AP,Meraki MR46,6,IDF6,NIVEL5,Apartamento 6 - AP 1
+AP-6-2,AP,Meraki MR46,6,IDF6,NIVEL5,Apartamento 6 - AP 2
+TV-6-1,TV,Apple TV 4K,6,IDF6,NIVEL5,Apartamento 6 - TV 1
+TV-6-2,TV,Apple TV 4K,6,IDF6,NIVEL5,Apartamento 6 - TV 2
+TV-6-3,TV,Apple TV 4K,6,IDF6,NIVEL5,Apartamento 6 - TV 3
+TV-6-4,TV,Apple TV 4K,6,IDF6,NIVEL5,Apartamento 6 - TV 4
+TEL-7-1,telefono,Yealink T46S,7,IDF4,NIVEL2,Apartamento 7 - Teléfono 1
+AP-7-1,AP,Meraki MR46,7,IDF4,NIVEL2,Apartamento 7 - AP 1
+AP-7-2,AP,Meraki MR46,7,IDF4,NIVEL2,Apartamento 7 - AP 2
+AP-7-3,AP,Meraki MR46,7,IDF4,NIVEL2,Apartamento 7 - AP 3
+TV-7-1,TV,Apple TV 4K,7,IDF4,NIVEL2,Apartamento 7 - TV 1
+TV-7-2,TV,Apple TV 4K,7,IDF4,NIVEL2,Apartamento 7 - TV 2
+TV-7-3,TV,Apple TV 4K,7,IDF4,NIVEL2,Apartamento 7 - TV 3
+TV-7-4,TV,Apple TV 4K,7,IDF4,NIVEL2,Apartamento 7 - TV 4
+TV-7-5,TV,Apple TV 4K,7,IDF4,NIVEL2,Apartamento 7 - TV 5
 TEL-8-1,telefono,Yealink T46S,8,IDF1,NIVEL3,Apartamento 8 - Teléfono 1
 AP-8-1,AP,Meraki MR46,8,IDF1,NIVEL3,Apartamento 8 - AP 1
 AP-8-2,AP,Meraki MR46,8,IDF1,NIVEL3,Apartamento 8 - AP 2
 TV-8-1,TV,Apple TV 4K,8,IDF1,NIVEL3,Apartamento 8 - TV 1
 TV-8-2,TV,Apple TV 4K,8,IDF1,NIVEL3,Apartamento 8 - TV 2
 TV-8-3,TV,Apple TV 4K,8,IDF1,NIVEL3,Apartamento 8 - TV 3
-TEL-9-1,telefono,Yealink T46S,9,IDF13,NIVEL2,Apartamento 9 - Teléfono 1
-AP-9-1,AP,Meraki MR46,9,IDF13,NIVEL2,Apartamento 9 - AP 1
-AP-9-2,AP,Meraki MR46,9,IDF13,NIVEL2,Apartamento 9 - AP 2
-TV-9-1,TV,Apple TV 4K,9,IDF13,NIVEL2,Apartamento 9 - TV 1
-TV-9-2,TV,Apple TV 4K,9,IDF13,NIVEL2,Apartamento 9 - TV 2
-TV-9-3,TV,Apple TV 4K,9,IDF13,NIVEL2,Apartamento 9 - TV 3
-TV-9-4,TV,Apple TV 4K,9,IDF13,NIVEL2,Apartamento 9 - TV 4
-TEL-10-1,telefono,Yealink T46S,10,IDF2,NIVEL6,Apartamento 10 - Teléfono 1
-AP-10-1,AP,Meraki MR46,10,IDF2,NIVEL6,Apartamento 10 - AP 1
-AP-10-2,AP,Meraki MR46,10,IDF2,NIVEL6,Apartamento 10 - AP 2
-TV-10-1,TV,Apple TV 4K,10,IDF2,NIVEL6,Apartamento 10 - TV 1
-TV-10-2,TV,Apple TV 4K,10,IDF2,NIVEL6,Apartamento 10 - TV 2
-TV-10-3,TV,Apple TV 4K,10,IDF2,NIVEL6,Apartamento 10 - TV 3
-TEL-11-1,telefono,Yealink T46S,11,IDF14,NIVEL7,Apartamento 11 - Teléfono 1
-AP-11-1,AP,Meraki MR46,11,IDF14,NIVEL7,Apartamento 11 - AP 1
-AP-11-2,AP,Meraki MR46,11,IDF14,NIVEL7,Apartamento 11 - AP 2
-AP-11-3,AP,Meraki MR46,11,IDF14,NIVEL7,Apartamento 11 - AP 3
-TV-11-1,TV,Apple TV 4K,11,IDF14,NIVEL7,Apartamento 11 - TV 1
-TV-11-2,TV,Apple TV 4K,11,IDF14,NIVEL7,Apartamento 11 - TV 2
-TV-11-3,TV,Apple TV 4K,11,IDF14,NIVEL7,Apartamento 11 - TV 3
-TV-11-4,TV,Apple TV 4K,11,IDF14,NIVEL7,Apartamento 11 - TV 4
-TV-11-5,TV,Apple TV 4K,11,IDF14,NIVEL7,Apartamento 11 - TV 5
-TEL-12-1,telefono,Yealink T46S,12,IDF7,NIVEL4,Apartamento 12 - Teléfono 1
-AP-12-1,AP,Meraki MR46,12,IDF7,NIVEL4,Apartamento 12 - AP 1
-AP-12-2,AP,Meraki MR46,12,IDF7,NIVEL4,Apartamento 12 - AP 2
-TV-12-1,TV,Apple TV 4K,12,IDF7,NIVEL4,Apartamento 12 - TV 1
-TV-12-2,TV,Apple TV 4K,12,IDF7,NIVEL4,Apartamento 12 - TV 2
-TV-12-3,TV,Apple TV 4K,12,IDF7,NIVEL4,Apartamento 12 - TV 3
-TV-12-4,TV,Apple TV 4K,12,IDF7,NIVEL4,Apartamento 12 - TV 4
-TEL-13-1,telefono,Yealink T46S,13,IDF5,NIVEL3,Apartamento 13 - Teléfono 1
-AP-13-1,AP,Meraki MR46,13,IDF5,NIVEL3,Apartamento 13 - AP 1
-AP-13-2,AP,Meraki MR46,13,IDF5,NIVEL3,Apartamento 13 - AP 2
-TV-13-1,TV,Apple TV 4K,13,IDF5,NIVEL3,Apartamento 13 - TV 1
-TV-13-2,TV,Apple TV 4K,13,IDF5,NIVEL3,Apartamento 13 - TV 2
-TV-13-3,TV,Apple TV 4K,13,IDF5,NIVEL3,Apartamento 13 - TV 3
-TV-13-4,TV,Apple TV 4K,13,IDF5,NIVEL3,Apartamento 13 - TV 4
-TEL-14-1,telefono,Yealink T46S,14,IDF9,NIVEL4,Apartamento 14 - Teléfono 1
-AP-14-1,AP,Meraki MR46,14,IDF9,NIVEL4,Apartamento 14 - AP 1
-AP-14-2,AP,Meraki MR46,14,IDF9,NIVEL4,Apartamento 14 - AP 2
-TV-14-1,TV,Apple TV 4K,14,IDF9,NIVEL4,Apartamento 14 - TV 1
-TV-14-2,TV,Apple TV 4K,14,IDF9,NIVEL4,Apartamento 14 - TV 2
-TEL-15-1,telefono,Yealink T46S,15,IDF6,NIVEL7,Apartamento 15 - Teléfono 1
-AP-15-1,AP,Meraki MR46,15,IDF6,NIVEL7,Apartamento 15 - AP 1
-AP-15-2,AP,Meraki MR46,15,IDF6,NIVEL7,Apartamento 15 - AP 2
-TV-15-1,TV,Apple TV 4K,15,IDF6,NIVEL7,Apartamento 15 - TV 1
-TV-15-2,TV,Apple TV 4K,15,IDF6,NIVEL7,Apartamento 15 - TV 2
-TV-15-3,TV,Apple TV 4K,15,IDF6,NIVEL7,Apartamento 15 - TV 3
-TV-15-4,TV,Apple TV 4K,15,IDF6,NIVEL7,Apartamento 15 - TV 4
-TEL-16-1,telefono,Yealink T46S,16,IDF6,NIVEL5,Apartamento 16 - Teléfono 1
-AP-16-1,AP,Meraki MR46,16,IDF6,NIVEL5,Apartamento 16 - AP 1
-AP-16-2,AP,Meraki MR46,16,IDF6,NIVEL5,Apartamento 16 - AP 2
-TV-16-1,TV,Apple TV 4K,16,IDF6,NIVEL5,Apartamento 16 - TV 1
-TV-16-2,TV,Apple TV 4K,16,IDF6,NIVEL5,Apartamento 16 - TV 2
-TV-16-3,TV,Apple TV 4K,16,IDF6,NIVEL5,Apartamento 16 - TV 3
-TEL-17-1,telefono,Yealink T46S,17,IDF1,NIVEL3,Apartamento 17 - Teléfono 1
-AP-17-1,AP,Meraki MR46,17,IDF1,NIVEL3,Apartamento 17 - AP 1
-AP-17-2,AP,Meraki MR46,17,IDF1,NIVEL3,Apartamento 17 - AP 2
-TV-17-1,TV,Apple TV 4K,17,IDF1,NIVEL3,Apartamento 17 - TV 1
-TV-17-2,TV,Apple TV 4K,17,IDF1,NIVEL3,Apartamento 17 - TV 2
-TV-17-3,TV,Apple TV 4K,17,IDF1,NIVEL3,Apartamento 17 - TV 3
-TEL-18-1,telefono,Yealink T46S,18,IDF6,NIVEL4,Apartamento 18 - Teléfono 1
-AP-18-1,AP,Meraki MR46,18,IDF6,NIVEL4,Apartamento 18 - AP 1
-AP-18-2,AP,Meraki MR46,18,IDF6,NIVEL4,Apartamento 18 - AP 2
-TV-18-1,TV,Apple TV 4K,18,IDF6,NIVEL4,Apartamento 18 - TV 1
-TV-18-2,TV,Apple TV 4K,18,IDF6,NIVEL4,Apartamento 18 - TV 2
-TV-18-3,TV,Apple TV 4K,18,IDF6,NIVEL4,Apartamento 18 - TV 3
-TEL-19-1,telefono,Yealink T46S,19,IDF7,NIVEL4,Apartamento 19 - Teléfono 1
-AP-19-1,AP,Meraki MR46,19,IDF7,NIVEL4,Apartamento 19 - AP 1
-AP-19-2,AP,Meraki MR46,19,IDF7,NIVEL4,Apartamento 19 - AP 2
-TV-19-1,TV,Apple TV 4K,19,IDF7,NIVEL4,Apartamento 19 - TV 1
-TV-19-2,TV,Apple TV 4K,19,IDF7,NIVEL4,Apartamento 19 - TV 2
-TEL-20-1,telefono,Yealink T46S,20,IDF4,NIVEL7,Apartamento 20 - Teléfono 1
-AP-20-1,AP,Meraki MR46,20,IDF4,NIVEL7,Apartamento 20 - AP 1
-AP-20-2,AP,Meraki MR46,20,IDF4,NIVEL7,Apartamento 20 - AP 2
-TV-20-1,TV,Apple TV 4K,20,IDF4,NIVEL7,Apartamento 20 - TV 1
-TV-20-2,TV,Apple TV 4K,20,IDF4,NIVEL7,Apartamento 20 - TV 2
-TV-20-3,TV,Apple TV 4K,20,IDF4,NIVEL7,Apartamento 20 - TV 3
-TEL-21-1,telefono,Yealink T46S,21,IDF4,NIVEL6,Apartamento 21 - Teléfono 1
-AP-21-1,AP,Meraki MR46,21,IDF4,NIVEL6,Apartamento 21 - AP 1
-AP-21-2,AP,Meraki MR46,21,IDF4,NIVEL6,Apartamento 21 - AP 2
-TV-21-1,TV,Apple TV 4K,21,IDF4,NIVEL6,Apartamento 21 - TV 1
-TV-21-2,TV,Apple TV 4K,21,IDF4,NIVEL6,Apartamento 21 - TV 2
-TV-21-3,TV,Apple TV 4K,21,IDF4,NIVEL6,Apartamento 21 - TV 3
-TEL-22-1,telefono,Yealink T46S,22,IDF6,NIVEL4,Apartamento 22 - Teléfono 1
-AP-22-1,AP,Meraki MR46,22,IDF6,NIVEL4,Apartamento 22 - AP 1
-AP-22-2,AP,Meraki MR46,22,IDF6,NIVEL4,Apartamento 22 - AP 2
-TV-22-1,TV,Apple TV 4K,22,IDF6,NIVEL4,Apartamento 22 - TV 1
-TV-22-2,TV,Apple TV 4K,22,IDF6,NIVEL4,Apartamento 22 - TV 2
-TV-22-3,TV,Apple TV 4K,22,IDF6,NIVEL4,Apartamento 22 - TV 3
-TEL-23-1,telefono,Yealink T46S,23,IDF9,NIVEL7,Apartamento 23 - Teléfono 1
-AP-23-1,AP,Meraki MR46,23,IDF9,NIVEL7,Apartamento 23 - AP 1
-AP-23-2,AP,Meraki MR46,23,IDF9,NIVEL7,Apartamento 23 - AP 2
-TV-23-1,TV,Apple TV 4K,23,IDF9,NIVEL7,Apartamento 23 - TV 1
-TV-23-2,TV,Apple TV 4K,23,IDF9,NIVEL7,Apartamento 23 - TV 2
-TV-23-3,TV,Apple TV 4K,23,IDF9,NIVEL7,Apartamento 23 - TV 3
-TV-23-4,TV,Apple TV 4K,23,IDF9,NIVEL7,Apartamento 23 - TV 4
-TEL-24-1,telefono,Yealink T46S,24,IDF6,NIVEL2,Apartamento 24 - Teléfono 1
-AP-24-1,AP,Meraki MR46,24,IDF6,NIVEL2,Apartamento 24 - AP 1
-AP-24-2,AP,Meraki MR46,24,IDF6,NIVEL2,Apartamento 24 - AP 2
-TV-24-1,TV,Apple TV 4K,24,IDF6,NIVEL2,Apartamento 24 - TV 1
-TV-24-2,TV,Apple TV 4K,24,IDF6,NIVEL2,Apartamento 24 - TV 2
-TV-24-3,TV,Apple TV 4K,24,IDF6,NIVEL2,Apartamento 24 - TV 3
-TV-24-4,TV,Apple TV 4K,24,IDF6,NIVEL2,Apartamento 24 - TV 4
-TEL-25-1,telefono,Yealink T46S,25,IDF9,NIVEL2,Apartamento 25 - Teléfono 1
-AP-25-1,AP,Meraki MR46,25,IDF9,NIVEL2,Apartamento 25 - AP 1
-AP-25-2,AP,Meraki MR46,25,IDF9,NIVEL2,Apartamento 25 - AP 2
-TV-25-1,TV,Apple TV 4K,25,IDF9,NIVEL2,Apartamento 25 - TV 1
-TV-25-2,TV,Apple TV 4K,25,IDF9,NIVEL2,Apartamento 25 - TV 2
-TV-25-3,TV,Apple TV 4K,25,IDF9,NIVEL2,Apartamento 25 - TV 3
-TEL-26-1,telefono,Yealink T46S,26,IDF13,NIVEL4,Apartamento 26 - Teléfono 1
-AP-26-1,AP,Meraki MR46,26,IDF13,NIVEL4,Apartamento 26 - AP 1
-AP-26-2,AP,Meraki MR46,26,IDF13,NIVEL4,Apartamento 26 - AP 2
-TV-26-1,TV,Apple TV 4K,26,IDF13,NIVEL4,Apartamento 26 - TV 1
-TV-26-2,TV,Apple TV 4K,26,IDF13,NIVEL4,Apartamento 26 - TV 2
-TV-26-3,TV,Apple TV 4K,26,IDF13,NIVEL4,Apartamento 26 - TV 3
-TV-26-4,TV,Apple TV 4K,26,IDF13,NIVEL4,Apartamento 26 - TV 4
-TEL-27-1,telefono,Yealink T46S,27,IDF8,NIVEL3,Apartamento 27 - Teléfono 1
-AP-27-1,AP,Meraki MR46,27,IDF8,NIVEL3,Apartamento 27 - AP 1
-AP-27-2,AP,Meraki MR46,27,IDF8,NIVEL3,Apartamento 27 - AP 2
-TV-27-1,TV,Apple TV 4K,27,IDF8,NIVEL3,Apartamento 27 - TV 1
-TV-27-2,TV,Apple TV 4K,27,IDF8,NIVEL3,Apartamento 27 - TV 2
-TV-27-3,TV,Apple TV 4K,27,IDF8,NIVEL3,Apartamento 27 - TV 3
-TEL-28-1,telefono,Yealink T46S,28,IDF10,NIVEL6,Apartamento 28 - Teléfono 1
-AP-28-1,AP,Meraki MR46,28,IDF10,NIVEL6,Apartamento 28 - AP 1
-AP-28-2,AP,Meraki MR46,28,IDF10,NIVEL6,Apartamento 28 - AP 2
-TV-28-1,TV,Apple TV 4K,28,IDF10,NIVEL6,Apartamento 28 - TV 1
-TV-28-2,TV,Apple TV 4K,28,IDF10,NIVEL6,Apartamento 28 - TV 2
-TV-28-3,TV,Apple TV 4K,28,IDF10,NIVEL6,Apartamento 28 - TV 3
-TEL-29-1,telefono,Yealink T46S,29,IDF11,NIVEL2,Apartamento 29 - Teléfono 1
-AP-29-1,AP,Meraki MR46,29,IDF11,NIVEL2,Apartamento 29 - AP 1
-AP-29-2,AP,Meraki MR46,29,IDF11,NIVEL2,Apartamento 29 - AP 2
-AP-29-3,AP,Meraki MR46,29,IDF11,NIVEL2,Apartamento 29 - AP 3
-TV-29-1,TV,Apple TV 4K,29,IDF11,NIVEL2,Apartamento 29 - TV 1
-TV-29-2,TV,Apple TV 4K,29,IDF11,NIVEL2,Apartamento 29 - TV 2
-TV-29-3,TV,Apple TV 4K,29,IDF11,NIVEL2,Apartamento 29 - TV 3
-TV-29-4,TV,Apple TV 4K,29,IDF11,NIVEL2,Apartamento 29 - TV 4
-TV-29-5,TV,Apple TV 4K,29,IDF11,NIVEL2,Apartamento 29 - TV 5
-TEL-30-1,telefono,Yealink T46S,30,IDF4,NIVEL1,Apartamento 30 - Teléfono 1
-AP-30-1,AP,Meraki MR46,30,IDF4,NIVEL1,Apartamento 30 - AP 1
-AP-30-2,AP,Meraki MR46,30,IDF4,NIVEL1,Apartamento 30 - AP 2
-TV-30-1,TV,Apple TV 4K,30,IDF4,NIVEL1,Apartamento 30 - TV 1
-TV-30-2,TV,Apple TV 4K,30,IDF4,NIVEL1,Apartamento 30 - TV 2
-TV-30-3,TV,Apple TV 4K,30,IDF4,NIVEL1,Apartamento 30 - TV 3
-TEL-31-1,telefono,Yealink T46S,31,IDF12,NIVEL2,Apartamento 31 - Teléfono 1
-AP-31-1,AP,Meraki MR46,31,IDF12,NIVEL2,Apartamento 31 - AP 1
-AP-31-2,AP,Meraki MR46,31,IDF12,NIVEL2,Apartamento 31 - AP 2
-TV-31-1,TV,Apple TV 4K,31,IDF12,NIVEL2,Apartamento 31 - TV 1
-TV-31-2,TV,Apple TV 4K,31,IDF12,NIVEL2,Apartamento 31 - TV 2
-TV-31-3,TV,Apple TV 4K,31,IDF12,NIVEL2,Apartamento 31 - TV 3
-TEL-32-1,telefono,Yealink T46S,32,IDF10,NIVEL5,Apartamento 32 - Teléfono 1
-AP-32-1,AP,Meraki MR46,32,IDF10,NIVEL5,Apartamento 32 - AP 1
-AP-32-2,AP,Meraki MR46,32,IDF10,NIVEL5,Apartamento 32 - AP 2
-TV-32-1,TV,Apple TV 4K,32,IDF10,NIVEL5,Apartamento 32 - TV 1
-TV-32-2,TV,Apple TV 4K,32,IDF10,NIVEL5,Apartamento 32 - TV 2
-TV-32-3,TV,Apple TV 4K,32,IDF10,NIVEL5,Apartamento 32 - TV 3
-TV-32-4,TV,Apple TV 4K,32,IDF10,NIVEL5,Apartamento 32 - TV 4
-TEL-33-1,telefono,Yealink T46S,33,IDF14,NIVEL6,Apartamento 33 - Teléfono 1
-AP-33-1,AP,Meraki MR46,33,IDF14,NIVEL6,Apartamento 33 - AP 1
-AP-33-2,AP,Meraki MR46,33,IDF14,NIVEL6,Apartamento 33 - AP 2
-TV-33-1,TV,Apple TV 4K,33,IDF14,NIVEL6,Apartamento 33 - TV 1
-TV-33-2,TV,Apple TV 4K,33,IDF14,NIVEL6,Apartamento 33 - TV 2
-TV-33-3,TV,Apple TV 4K,33,IDF14,NIVEL6,Apartamento 33 - TV 3
-TEL-34-1,telefono,Yealink T46S,34,IDF3,NIVEL5,Apartamento 34 - Teléfono 1
-AP-34-1,AP,Meraki MR46,34,IDF3,NIVEL5,Apartamento 34 - AP 1
-AP-34-2,AP,Meraki MR46,34,IDF3,NIVEL5,Apartamento 34 - AP 2
-TV-34-1,TV,Apple TV 4K,34,IDF3,NIVEL5,Apartamento 34 - TV 1
-TV-34-2,TV,Apple TV 4K,34,IDF3,NIVEL5,Apartamento 34 - TV 2
-TV-34-3,TV,Apple TV 4K,34,IDF3,NIVEL5,Apartamento 34 - TV 3
-TEL-35-1,telefono,Yealink T46S,35,IDF14,NIVEL2,Apartamento 35 - Teléfono 1
-AP-35-1,AP,Meraki MR46,35,IDF14,NIVEL2,Apartamento 35 - AP 1
-AP-35-2,AP,Meraki MR46,35,IDF14,NIVEL2,Apartamento 35 - AP 2
-TV-35-1,TV,Apple TV 4K,35,IDF14,NIVEL2,Apartamento 35 - TV 1
-TV-35-2,TV,Apple TV 4K,35,IDF14,NIVEL2,Apartamento 35 - TV 2
-TV-35-3,TV,Apple TV 4K,35,IDF14,NIVEL2,Apartamento 35 - TV 3
-TEL-36-1,telefono,Yealink T46S,36,IDF15,NIVEL3,Apartamento 36 - Teléfono 1
-AP-36-1,AP,Meraki MR46,36,IDF15,NIVEL3,Apartamento 36 - AP 1
-AP-36-2,AP,Meraki MR46,36,IDF15,NIVEL3,Apartamento 36 - AP 2
-TV-36-1,TV,Apple TV 4K,36,IDF15,NIVEL3,Apartamento 36 - TV 1
-TV-36-2,TV,Apple TV 4K,36,IDF15,NIVEL3,Apartamento 36 - TV 2
-TV-36-3,TV,Apple TV 4K,36,IDF15,NIVEL3,Apartamento 36 - TV 3
-TV-36-4,TV,Apple TV 4K,36,IDF15,NIVEL3,Apartamento 36 - TV 4
-TEL-37-1,telefono,Yealink T46S,37,IDF7,NIVEL2,Apartamento 37 - Teléfono 1
-AP-37-1,AP,Meraki MR46,37,IDF7,NIVEL2,Apartamento 37 - AP 1
-AP-37-2,AP,Meraki MR46,37,IDF7,NIVEL2,Apartamento 37 - AP 2
-TV-37-1,TV,Apple TV 4K,37,IDF7,NIVEL2,Apartamento 37 - TV 1
-TV-37-2,TV,Apple TV 4K,37,IDF7,NIVEL2,Apartamento 37 - TV 2
-TV-37-3,TV,Apple TV 4K,37,IDF7,NIVEL2,Apartamento 37 - TV 3
-TV-37-4,TV,Apple TV 4K,37,IDF7,NIVEL2,Apartamento 37 - TV 4
-TEL-38-1,telefono,Yealink T46S,38,IDF13,NIVEL4,Apartamento 38 - Teléfono 1
-AP-38-1,AP,Meraki MR46,38,IDF13,NIVEL4,Apartamento 38 - AP 1
-AP-38-2,AP,Meraki MR46,38,IDF13,NIVEL4,Apartamento 38 - AP 2
-TV-38-1,TV,Apple TV 4K,38,IDF13,NIVEL4,Apartamento 38 - TV 1
-TV-38-2,TV,Apple TV 4K,38,IDF13,NIVEL4,Apartamento 38 - TV 2
-TV-38-3,TV,Apple TV 4K,38,IDF13,NIVEL4,Apartamento 38 - TV 3
-TEL-39-1,telefono,Yealink T46S,39,IDF1,NIVEL2,Apartamento 39 - Teléfono 1
-AP-39-1,AP,Meraki MR46,39,IDF1,NIVEL2,Apartamento 39 - AP 1
-AP-39-2,AP,Meraki MR46,39,IDF1,NIVEL2,Apartamento 39 - AP 2
-TV-39-1,TV,Apple TV 4K,39,IDF1,NIVEL2,Apartamento 39 - TV 1
-TV-39-2,TV,Apple TV 4K,39,IDF1,NIVEL2,Apartamento 39 - TV 2
-TV-39-3,TV,Apple TV 4K,39,IDF1,NIVEL2,Apartamento 39 - TV 3
-TEL-40-1,telefono,Yealink T46S,40,IDF15,NIVEL1,Apartamento 40 - Teléfono 1
-AP-40-1,AP,Meraki MR46,40,IDF15,NIVEL1,Apartamento 40 - AP 1
-AP-40-2,AP,Meraki MR46,40,IDF15,NIVEL1,Apartamento 40 - AP 2
-TV-40-1,TV,Apple TV 4K,40,IDF15,NIVEL1,Apartamento 40 - TV 1
-TV-40-2,TV,Apple TV 4K,40,IDF15,NIVEL1,Apartamento 40 - TV 2
-TV-40-3,TV,Apple TV 4K,40,IDF15,NIVEL1,Apartamento 40 - TV 3
-TEL-41-1,telefono,Yealink T46S,41,IDF15,NIVEL4,Apartamento 41 - Teléfono 1
-AP-41-1,AP,Meraki MR46,41,IDF15,NIVEL4,Apartamento 41 - AP 1
-AP-41-2,AP,Meraki MR46,41,IDF15,NIVEL4,Apartamento 41 - AP 2
-TV-41-1,TV,Apple TV 4K,41,IDF15,NIVEL4,Apartamento 41 - TV 1
-TV-41-2,TV,Apple TV 4K,41,IDF15,NIVEL4,Apartamento 41 - TV 2
-TV-41-3,TV,Apple TV 4K,41,IDF15,NIVEL4,Apartamento 41 - TV 3
-TV-41-4,TV,Apple TV 4K,41,IDF15,NIVEL4,Apartamento 41 - TV 4
-TEL-42-1,telefono,Yealink T46S,42,IDF7,NIVEL7,Apartamento 42 - Teléfono 1
-AP-42-1,AP,Meraki MR46,42,IDF7,NIVEL7,Apartamento 42 - AP 1
-AP-42-2,AP,Meraki MR46,42,IDF7,NIVEL7,Apartamento 42 - AP 2
-TV-42-1,TV,Apple TV 4K,42,IDF7,NIVEL7,Apartamento 42 - TV 1
-TV-42-2,TV,Apple TV 4K,42,IDF7,NIVEL7,Apartamento 42 - TV 2
-TV-42-3,TV,Apple TV 4K,42,IDF7,NIVEL7,Apartamento 42 - TV 3
-TEL-43-1,telefono,Yealink T46S,43,IDF9,NIVEL3,Apartamento 43 - Teléfono 1
-AP-43-1,AP,Meraki MR46,43,IDF9,NIVEL3,Apartamento 43 - AP 1
-AP-43-2,AP,Meraki MR46,43,IDF9,NIVEL3,Apartamento 43 - AP 2
-TV-43-1,TV,Apple TV 4K,43,IDF9,NIVEL3,Apartamento 43 - TV 1
-TV-43-2,TV,Apple TV 4K,43,IDF9,NIVEL3,Apartamento 43 - TV 2
-TV-43-3,TV,Apple TV 4K,43,IDF9,NIVEL3,Apartamento 43 - TV 3
-TEL-44-1,telefono,Yealink T46S,44,IDF12,NIVEL3,Apartamento 44 - Teléfono 1
-AP-44-1,AP,Meraki MR46,44,IDF12,NIVEL3,Apartamento 44 - AP 1
-AP-44-2,AP,Meraki MR46,44,IDF12,NIVEL3,Apartamento 44 - AP 2
-TV-44-1,TV,Apple TV 4K,44,IDF12,NIVEL3,Apartamento 44 - TV 1
-TV-44-2,TV,Apple TV 4K,44,IDF12,NIVEL3,Apartamento 44 - TV 2
-TV-44-3,TV,Apple TV 4K,44,IDF12,NIVEL3,Apartamento 44 - TV 3
-TV-44-4,TV,Apple TV 4K,44,IDF12,NIVEL3,Apartamento 44 - TV 4
-TEL-45-1,telefono,Yealink T46S,45,IDF10,NIVEL3,Apartamento 45 - Teléfono 1
-AP-45-1,AP,Meraki MR46,45,IDF10,NIVEL3,Apartamento 45 - AP 1
-AP-45-2,AP,Meraki MR46,45,IDF10,NIVEL3,Apartamento 45 - AP 2
-AP-45-3,AP,Meraki MR46,45,IDF10,NIVEL3,Apartamento 45 - AP 3
-TV-45-1,TV,Apple TV 4K,45,IDF10,NIVEL3,Apartamento 45 - TV 1
-TV-45-2,TV,Apple TV 4K,45,IDF10,NIVEL3,Apartamento 45 - TV 2
-TV-45-3,TV,Apple TV 4K,45,IDF10,NIVEL3,Apartamento 45 - TV 3
-TV-45-4,TV,Apple TV 4K,45,IDF10,NIVEL3,Apartamento 45 - TV 4
-TV-45-5,TV,Apple TV 4K,45,IDF10,NIVEL3,Apartamento 45 - TV 5
-TEL-46-1,telefono,Yealink T46S,46,IDF9,NIVEL3,Apartamento 46 - Teléfono 1
-AP-46-1,AP,Meraki MR46,46,IDF9,NIVEL3,Apartamento 46 - AP 1
-AP-46-2,AP,Meraki MR46,46,IDF9,NIVEL3,Apartamento 46 - AP 2
-TV-46-1,TV,Apple TV 4K,46,IDF9,NIVEL3,Apartamento 46 - TV 1
-TV-46-2,TV,Apple TV 4K,46,IDF9,NIVEL3,Apartamento 46 - TV 2
-TV-46-3,TV,Apple TV 4K,46,IDF9,NIVEL3,Apartamento 46 - TV 3
-TV-46-4,TV,Apple TV 4K,46,IDF9,NIVEL3,Apartamento 46 - TV 4
-TEL-47-1,telefono,Yealink T46S,47,IDF9,NIVEL3,Apartamento 47 - Teléfono 1
-AP-47-1,AP,Meraki MR46,47,IDF9,NIVEL3,Apartamento 47 - AP 1
-AP-47-2,AP,Meraki MR46,47,IDF9,NIVEL3,Apartamento 47 - AP 2
-TV-47-1,TV,Apple TV 4K,47,IDF9,NIVEL3,Apartamento 47 - TV 1
-TV-47-2,TV,Apple TV 4K,47,IDF9,NIVEL3,Apartamento 47 - TV 2
-TV-47-3,TV,Apple TV 4K,47,IDF9,NIVEL3,Apartamento 47 - TV 3
-TEL-48-1,telefono,Yealink T46S,48,IDF2,NIVEL5,Apartamento 48 - Teléfono 1
-AP-48-1,AP,Meraki MR46,48,IDF2,NIVEL5,Apartamento 48 - AP 1
-AP-48-2,AP,Meraki MR46,48,IDF2,NIVEL5,Apartamento 48 - AP 2
-TV-48-1,TV,Apple TV 4K,48,IDF2,NIVEL5,Apartamento 48 - TV 1
-TV-48-2,TV,Apple TV 4K,48,IDF2,NIVEL5,Apartamento 48 - TV 2
-TV-48-3,TV,Apple TV 4K,48,IDF2,NIVEL5,Apartamento 48 - TV 3
-TEL-49-1,telefono,Yealink T46S,49,IDF8,NIVEL3,Apartamento 49 - Teléfono 1
-AP-49-1,AP,Meraki MR46,49,IDF8,NIVEL3,Apartamento 49 - AP 1
-AP-49-2,AP,Meraki MR46,49,IDF8,NIVEL3,Apartamento 49 - AP 2
-TV-49-1,TV,Apple TV 4K,49,IDF8,NIVEL3,Apartamento 49 - TV 1
-TV-49-2,TV,Apple TV 4K,49,IDF8,NIVEL3,Apartamento 49 - TV 2
-TV-49-3,TV,Apple TV 4K,49,IDF8,NIVEL3,Apartamento 49 - TV 3
-TEL-50-1,telefono,Yealink T46S,50,IDF6,NIVEL3,Apartamento 50 - Teléfono 1
-AP-50-1,AP,Meraki MR46,50,IDF6,NIVEL3,Apartamento 50 - AP 1
-AP-50-2,AP,Meraki MR46,50,IDF6,NIVEL3,Apartamento 50 - AP 2
-TV-50-1,TV,Apple TV 4K,50,IDF6,NIVEL3,Apartamento 50 - TV 1
-TV-50-2,TV,Apple TV 4K,50,IDF6,NIVEL3,Apartamento 50 - TV 2
-TV-50-3,TV,Apple TV 4K,50,IDF6,NIVEL3,Apartamento 50 - TV 3
-TEL-51-1,telefono,Yealink T46S,51,IDF15,NIVEL4,Apartamento 51 - Teléfono 1
-AP-51-1,AP,Meraki MR46,51,IDF15,NIVEL4,Apartamento 51 - AP 1
-AP-51-2,AP,Meraki MR46,51,IDF15,NIVEL4,Apartamento 51 - AP 2
-TV-51-1,TV,Apple TV 4K,51,IDF15,NIVEL4,Apartamento 51 - TV 1
-TV-51-2,TV,Apple TV 4K,51,IDF15,NIVEL4,Apartamento 51 - TV 2
-TV-51-3,TV,Apple TV 4K,51,IDF15,NIVEL4,Apartamento 51 - TV 3
-TEL-52-1,telefono,Yealink T46S,52,IDF4,NIVEL3,Apartamento 52 - Teléfono 1
-AP-52-1,AP,Meraki MR46,52,IDF4,NIVEL3,Apartamento 52 - AP 1
-AP-52-2,AP,Meraki MR46,52,IDF4,NIVEL3,Apartamento 52 - AP 2
-AP-52-3,AP,Meraki MR46,52,IDF4,NIVEL3,Apartamento 52 - AP 3
-TV-52-1,TV,Apple TV 4K,52,IDF4,NIVEL3,Apartamento 52 - TV 1
-TV-52-2,TV,Apple TV 4K,52,IDF4,NIVEL3,Apartamento 52 - TV 2
-TV-52-3,TV,Apple TV 4K,52,IDF4,NIVEL3,Apartamento 52 - TV 3
-TV-52-4,TV,Apple TV 4K,52,IDF4,NIVEL3,Apartamento 52 - TV 4
-TV-52-5,TV,Apple TV 4K,52,IDF4,NIVEL3,Apartamento 52 - TV 5
-TEL-53-1,telefono,Yealink T46S,53,IDF15,NIVEL7,Apartamento 53 - Teléfono 1
-AP-53-1,AP,Meraki MR46,53,IDF15,NIVEL7,Apartamento 53 - AP 1
-AP-53-2,AP,Meraki MR46,53,IDF15,NIVEL7,Apartamento 53 - AP 2
-TV-53-1,TV,Apple TV 4K,53,IDF15,NIVEL7,Apartamento 53 - TV 1
-TV-53-2,TV,Apple TV 4K,53,IDF15,NIVEL7,Apartamento 53 - TV 2
-TV-53-3,TV,Apple TV 4K,53,IDF15,NIVEL7,Apartamento 53 - TV 3
-TEL-54-1,telefono,Yealink T46S,54,IDF10,NIVEL5,Apartamento 54 - Teléfono 1
-AP-54-1,AP,Meraki MR46,54,IDF10,NIVEL5,Apartamento 54 - AP 1
-AP-54-2,AP,Meraki MR46,54,IDF10,NIVEL5,Apartamento 54 - AP 2
-TV-54-1,TV,Apple TV 4K,54,IDF10,NIVEL5,Apartamento 54 - TV 1
-TV-54-2,TV,Apple TV 4K,54,IDF10,NIVEL5,Apartamento 54 - TV 2
-TV-54-3,TV,Apple TV 4K,54,IDF10,NIVEL5,Apartamento 54 - TV 3
-TV-54-4,TV,Apple TV 4K,54,IDF10,NIVEL5,Apartamento 54 - TV 4
-TEL-55-1,telefono,Yealink T46S,55,IDF15,NIVEL2,Apartamento 55 - Teléfono 1
-AP-55-1,AP,Meraki MR46,55,IDF15,NIVEL2,Apartamento 55 - AP 1
-AP-55-2,AP,Meraki MR46,55,IDF15,NIVEL2,Apartamento 55 - AP 2
-AP-55-3,AP,Meraki MR46,55,IDF15,NIVEL2,Apartamento 55 - AP 3
-TV-55-1,TV,Apple TV 4K,55,IDF15,NIVEL2,Apartamento 55 - TV 1
-TV-55-2,TV,Apple TV 4K,55,IDF15,NIVEL2,Apartamento 55 - TV 2
-TV-55-3,TV,Apple TV 4K,55,IDF15,NIVEL2,Apartamento 55 - TV 3
-TV-55-4,TV,Apple TV 4K,55,IDF15,NIVEL2,Apartamento 55 - TV 4
-TV-55-5,TV,Apple TV 4K,55,IDF15,NIVEL2,Apartamento 55 - TV 5
-TEL-56-1,telefono,Yealink T46S,56,IDF11,NIVEL2,Apartamento 56 - Teléfono 1
-AP-56-1,AP,Meraki MR46,56,IDF11,NIVEL2,Apartamento 56 - AP 1
-AP-56-2,AP,Meraki MR46,56,IDF11,NIVEL2,Apartamento 56 - AP 2
-TV-56-1,TV,Apple TV 4K,56,IDF11,NIVEL2,Apartamento 56 - TV 1
-TV-56-2,TV,Apple TV 4K,56,IDF11,NIVEL2,Apartamento 56 - TV 2
-TV-56-3,TV,Apple TV 4K,56,IDF11,NIVEL2,Apartamento 56 - TV 3
-TEL-57-1,telefono,Yealink T46S,57,IDF13,NIVEL3,Apartamento 57 - Teléfono 1
-AP-57-1,AP,Meraki MR46,57,IDF13,NIVEL3,Apartamento 57 - AP 1
-AP-57-2,AP,Meraki MR46,57,IDF13,NIVEL3,Apartamento 57 - AP 2
-TV-57-1,TV,Apple TV 4K,57,IDF13,NIVEL3,Apartamento 57 - TV 1
-TV-57-2,TV,Apple TV 4K,57,IDF13,NIVEL3,Apartamento 57 - TV 2
-TV-57-3,TV,Apple TV 4K,57,IDF13,NIVEL3,Apartamento 57 - TV 3
-TEL-58-1,telefono,Yealink T46S,58,IDF14,NIVEL4,Apartamento 58 - Teléfono 1
-AP-58-1,AP,Meraki MR46,58,IDF14,NIVEL4,Apartamento 58 - AP 1
-AP-58-2,AP,Meraki MR46,58,IDF14,NIVEL4,Apartamento 58 - AP 2
-TV-58-1,TV,Apple TV 4K,58,IDF14,NIVEL4,Apartamento 58 - TV 1
-TV-58-2,TV,Apple TV 4K,58,IDF14,NIVEL4,Apartamento 58 - TV 2
-TV-58-3,TV,Apple TV 4K,58,IDF14,NIVEL4,Apartamento 58 - TV 3
-TV-58-4,TV,Apple TV 4K,58,IDF14,NIVEL4,Apartamento 58 - TV 4
-TEL-59-1,telefono,Yealink T46S,59,IDF15,NIVEL2,Apartamento 59 - Teléfono 1
-AP-59-1,AP,Meraki MR46,59,IDF15,NIVEL2,Apartamento 59 - AP 1
-AP-59-2,AP,Meraki MR46,59,IDF15,NIVEL2,Apartamento 59 - AP 2
-TV-59-1,TV,Apple TV 4K,59,IDF15,NIVEL2,Apartamento 59 - TV 1
-TV-59-2,TV,Apple TV 4K,59,IDF15,NIVEL2,Apartamento 59 - TV 2
-TV-59-3,TV,Apple TV 4K,59,IDF15,NIVEL2,Apartamento 59 - TV 3
-TV-59-4,TV,Apple TV 4K,59,IDF15,NIVEL2,Apartamento 59 - TV 4
-TEL-60-1,telefono,Yealink T46S,60,IDF5,NIVEL4,Apartamento 60 - Teléfono 1
-AP-60-1,AP,Meraki MR46,60,IDF5,NIVEL4,Apartamento 60 - AP 1
-AP-60-2,AP,Meraki MR46,60,IDF5,NIVEL4,Apartamento 60 - AP 2
-TV-60-1,TV,Apple TV 4K,60,IDF5,NIVEL4,Apartamento 60 - TV 1
-TV-60-2,TV,Apple TV 4K,60,IDF5,NIVEL4,Apartamento 60 - TV 2
-TV-60-3,TV,Apple TV 4K,60,IDF5,NIVEL4,Apartamento 60 - TV 3
-TEL-61-1,telefono,Yealink T46S,61,IDF7,NIVEL2,Apartamento 61 - Teléfono 1
-AP-61-1,AP,Meraki MR46,61,IDF7,NIVEL2,Apartamento 61 - AP 1
-AP-61-2,AP,Meraki MR46,61,IDF7,NIVEL2,Apartamento 61 - AP 2
-TV-61-1,TV,Apple TV 4K,61,IDF7,NIVEL2,Apartamento 61 - TV 1
-TV-61-2,TV,Apple TV 4K,61,IDF7,NIVEL2,Apartamento 61 - TV 2
-TV-61-3,TV,Apple TV 4K,61,IDF7,NIVEL2,Apartamento 61 - TV 3
-TEL-62-1,telefono,Yealink T46S,62,IDF13,NIVEL7,Apartamento 62 - Teléfono 1
-AP-62-1,AP,Meraki MR46,62,IDF13,NIVEL7,Apartamento 62 - AP 1
-AP-62-2,AP,Meraki MR46,62,IDF13,NIVEL7,Apartamento 62 - AP 2
-TV-62-1,TV,Apple TV 4K,62,IDF13,NIVEL7,Apartamento 62 - TV 1
-TV-62-2,TV,Apple TV 4K,62,IDF13,NIVEL7,Apartamento 62 - TV 2
-TV-62-3,TV,Apple TV 4K,62,IDF13,NIVEL7,Apartamento 62 - TV 3
-TEL-63-1,telefono,Yealink T46S,63,IDF9,NIVEL1,Apartamento 63 - Teléfono 1
-AP-63-1,AP,Meraki MR46,63,IDF9,NIVEL1,Apartamento 63 - AP 1
-AP-63-2,AP,Meraki MR46,63,IDF9,NIVEL1,Apartamento 63 - AP 2
-TV-63-1,TV,Apple TV 4K,63,IDF9,NIVEL1,Apartamento 63 - TV 1
-TV-63-2,TV,Apple TV 4K,63,IDF9,NIVEL1,Apartamento 63 - TV 2
-TV-63-3,TV,Apple TV 4K,63,IDF9,NIVEL1,Apartamento 63 - TV 3
-TEL-64-1,telefono,Yealink T46S,64,IDF3,NIVEL6,Apartamento 64 - Teléfono 1
-AP-64-1,AP,Meraki MR46,64,IDF3,NIVEL6,Apartamento 64 - AP 1
-AP-64-2,AP,Meraki MR46,64,IDF3,NIVEL6,Apartamento 64 - AP 2
-TV-64-1,TV,Apple TV 4K,64,IDF3,NIVEL6,Apartamento 64 - TV 1
-TV-64-2,TV,Apple TV 4K,64,IDF3,NIVEL6,Apartamento 64 - TV 2
-TV-64-3,TV,Apple TV 4K,64,IDF3,NIVEL6,Apartamento 64 - TV 3
-TEL-65-1,telefono,Yealink T46S,65,IDF7,NIVEL7,Apartamento 65 - Teléfono 1
-AP-65-1,AP,Meraki MR46,65,IDF7,NIVEL7,Apartamento 65 - AP 1
-AP-65-2,AP,Meraki MR46,65,IDF7,NIVEL7,Apartamento 65 - AP 2
-TV-65-1,TV,Apple TV 4K,65,IDF7,NIVEL7,Apartamento 65 - TV 1
-TV-65-2,TV,Apple TV 4K,65,IDF7,NIVEL7,Apartamento 65 - TV 2
-TV-65-3,TV,Apple TV 4K,65,IDF7,NIVEL7,Apartamento 65 - TV 3
-TV-65-4,TV,Apple TV 4K,65,IDF7,NIVEL7,Apartamento 65 - TV 4
-TEL-66-1,telefono,Yealink T46S,66,IDF2,NIVEL1,Apartamento 66 - Teléfono 1
-AP-66-1,AP,Meraki MR46,66,IDF2,NIVEL1,Apartamento 66 - AP 1
-AP-66-2,AP,Meraki MR46,66,IDF2,NIVEL1,Apartamento 66 - AP 2
-TV-66-1,TV,Apple TV 4K,66,IDF2,NIVEL1,Apartamento 66 - TV 1
-TV-66-2,TV,Apple TV 4K,66,IDF2,NIVEL1,Apartamento 66 - TV 2
-TV-66-3,TV,Apple TV 4K,66,IDF2,NIVEL1,Apartamento 66 - TV 3
-TEL-67-1,telefono,Yealink T46S,67,IDF8,NIVEL2,Apartamento 67 - Teléfono 1
-AP-67-1,AP,Meraki MR46,67,IDF8,NIVEL2,Apartamento 67 - AP 1
-AP-67-2,AP,Meraki MR46,67,IDF8,NIVEL2,Apartamento 67 - AP 2
-TV-67-1,TV,Apple TV 4K,67,IDF8,NIVEL2,Apartamento 67 - TV 1
-TV-67-2,TV,Apple TV 4K,67,IDF8,NIVEL2,Apartamento 67 - TV 2
-TV-67-3,TV,Apple TV 4K,67,IDF8,NIVEL2,Apartamento 67 - TV 3
-TEL-68-1,telefono,Yealink T46S,68,IDF14,NIVEL7,Apartamento 68 - Teléfono 1
-AP-68-1,AP,Meraki MR46,68,IDF14,NIVEL7,Apartamento 68 - AP 1
-AP-68-2,AP,Meraki MR46,68,IDF14,NIVEL7,Apartamento 68 - AP 2
-TV-68-1,TV,Apple TV 4K,68,IDF14,NIVEL7,Apartamento 68 - TV 1
-TV-68-2,TV,Apple TV 4K,68,IDF14,NIVEL7,Apartamento 68 - TV 2
-TV-68-3,TV,Apple TV 4K,68,IDF14,NIVEL7,Apartamento 68 - TV 3
-TEL-69-1,telefono,Yealink T46S,69,IDF14,NIVEL5,Apartamento 69 - Teléfono 1
-AP-69-1,AP,Meraki MR46,69,IDF14,NIVEL5,Apartamento 69 - AP 1
-AP-69-2,AP,Meraki MR46,69,IDF14,NIVEL5,Apartamento 69 - AP 2
-TV-69-1,TV,Apple TV 4K,69,IDF14,NIVEL5,Apartamento 69 - TV 1
-TV-69-2,TV,Apple TV 4K,69,IDF14,NIVEL5,Apartamento 69 - TV 2
-TV-69-3,TV,Apple TV 4K,69,IDF14,NIVEL5,Apartamento 69 - TV 3
-TV-69-4,TV,Apple TV 4K,69,IDF14,NIVEL5,Apartamento 69 - TV 4
-TEL-70-1,telefono,Yealink T46S,70,IDF8,NIVEL1,Apartamento 70 - Teléfono 1
-AP-70-1,AP,Meraki MR46,70,IDF8,NIVEL1,Apartamento 70 - AP 1
-AP-70-2,AP,Meraki MR46,70,IDF8,NIVEL1,Apartamento 70 - AP 2
-TV-70-1,TV,Apple TV 4K,70,IDF8,NIVEL1,Apartamento 70 - TV 1
-TV-70-2,TV,Apple TV 4K,70,IDF8,NIVEL1,Apartamento 70 - TV 2
-TV-70-3,TV,Apple TV 4K,70,IDF8,NIVEL1,Apartamento 70 - TV 3
-TEL-71-1,telefono,Yealink T46S,71,IDF9,NIVEL4,Apartamento 71 - Teléfono 1
-AP-71-1,AP,Meraki MR46,71,IDF9,NIVEL4,Apartamento 71 - AP 1
-AP-71-2,AP,Meraki MR46,71,IDF9,NIVEL4,Apartamento 71 - AP 2
-TV-71-1,TV,Apple TV 4K,71,IDF9,NIVEL4,Apartamento 71 - TV 1
-TV-71-2,TV,Apple TV 4K,71,IDF9,NIVEL4,Apartamento 71 - TV 2
-TV-71-3,TV,Apple TV 4K,71,IDF9,NIVEL4,Apartamento 71 - TV 3
-TEL-72-1,telefono,Yealink T46S,72,IDF13,NIVEL6,Apartamento 72 - Teléfono 1
-AP-72-1,AP,Meraki MR46,72,IDF13,NIVEL6,Apartamento 72 - AP 1
-AP-72-2,AP,Meraki MR46,72,IDF13,NIVEL6,Apartamento 72 - AP 2
-TV-72-1,TV,Apple TV 4K,72,IDF13,NIVEL6,Apartamento 72 - TV 1
-TV-72-2,TV,Apple TV 4K,72,IDF13,NIVEL6,Apartamento 72 - TV 2
-TV-72-3,TV,Apple TV 4K,72,IDF13,NIVEL6,Apartamento 72 - TV 3
-TEL-73-1,telefono,Yealink T46S,73,IDF9,NIVEL1,Apartamento 73 - Teléfono 1
-AP-73-1,AP,Meraki MR46,73,IDF9,NIVEL1,Apartamento 73 - AP 1
-AP-73-2,AP,Meraki MR46,73,IDF9,NIVEL1,Apartamento 73 - AP 2
-TV-73-1,TV,Apple TV 4K,73,IDF9,NIVEL1,Apartamento 73 - TV 1
-TV-73-2,TV,Apple TV 4K,73,IDF9,NIVEL1,Apartamento 73 - TV 2
-TV-73-3,TV,Apple TV 4K,73,IDF9,NIVEL1,Apartamento 73 - TV 3
-TEL-74-1,telefono,Yealink T46S,74,IDF8,NIVEL1,Apartamento 74 - Teléfono 1
-AP-74-1,AP,Meraki MR46,74,IDF8,NIVEL1,Apartamento 74 - AP 1
-AP-74-2,AP,Meraki MR46,74,IDF8,NIVEL1,Apartamento 74 - AP 2
-TV-74-1,TV,Apple TV 4K,74,IDF8,NIVEL1,Apartamento 74 - TV 1
-TV-74-2,TV,Apple TV 4K,74,IDF8,NIVEL1,Apartamento 74 - TV 2
-TV-74-3,TV,Apple TV 4K,74,IDF8,NIVEL1,Apartamento 74 - TV 3
-TEL-75-1,telefono,Yealink T46S,75,IDF10,NIVEL4,Apartamento 75 - Teléfono 1
-AP-75-1,AP,Meraki MR46,75,IDF10,NIVEL4,Apartamento 75 - AP 1
-AP-75-2,AP,Meraki MR46,75,IDF10,NIVEL4,Apartamento 75 - AP 2
-TV-75-1,TV,Apple TV 4K,75,IDF10,NIVEL4,Apartamento 75 - TV 1
-TV-75-2,TV,Apple TV 4K,75,IDF10,NIVEL4,Apartamento 75 - TV 2
-TV-75-3,TV,Apple TV 4K,75,IDF10,NIVEL4,Apartamento 75 - TV 3
-TEL-76-1,telefono,Yealink T46S,76,IDF12,NIVEL3,Apartamento 76 - Teléfono 1
-AP-76-1,AP,Meraki MR46,76,IDF12,NIVEL3,Apartamento 76 - AP 1
-AP-76-2,AP,Meraki MR46,76,IDF12,NIVEL3,Apartamento 76 - AP 2
-TV-76-1,TV,Apple TV 4K,76,IDF12,NIVEL3,Apartamento 76 - TV 1
-TV-76-2,TV,Apple TV 4K,76,IDF12,NIVEL3,Apartamento 76 - TV 2
-TV-76-3,TV,Apple TV 4K,76,IDF12,NIVEL3,Apartamento 76 - TV 3
-TEL-77-1,telefono,Yealink T46S,77,IDF14,NIVEL6,Apartamento 77 - Teléfono 1
-AP-77-1,AP,Meraki MR46,77,IDF14,NIVEL6,Apartamento 77 - AP 1
-AP-77-2,AP,Meraki MR46,77,IDF14,NIVEL6,Apartamento 77 - AP 2
-TV-77-1,TV,Apple TV 4K,77,IDF14,NIVEL6,Apartamento 77 - TV 1
-TV-77-2,TV,Apple TV 4K,77,IDF14,NIVEL6,Apartamento 77 - TV 2
-TV-77-3,TV,Apple TV 4K,77,IDF14,NIVEL6,Apartamento 77 - TV 3
-TV-77-4,TV,Apple TV 4K,77,IDF14,NIVEL6,Apartamento 77 - TV 4
-TEL-78-1,telefono,Yealink T46S,78,IDF2,NIVEL3,Apartamento 78 - Teléfono 1
-AP-78-1,AP,Meraki MR46,78,IDF2,NIVEL3,Apartamento 78 - AP 1
-AP-78-2,AP,Meraki MR46,78,IDF2,NIVEL3,Apartamento 78 - AP 2
-TV-78-1,TV,Apple TV 4K,78,IDF2,NIVEL3,Apartamento 78 - TV 1
-TV-78-2,TV,Apple TV 4K,78,IDF2,NIVEL3,Apartamento 78 - TV 2
-TV-78-3,TV,Apple TV 4K,78,IDF2,NIVEL3,Apartamento 78 - TV 3
-TV-78-4,TV,Apple TV 4K,78,IDF2,NIVEL3,Apartamento 78 - TV 4
-TEL-79-1,telefono,Yealink T46S,79,IDF3,NIVEL1,Apartamento 79 - Teléfono 1
-AP-79-1,AP,Meraki MR46,79,IDF3,NIVEL1,Apartamento 79 - AP 1
-AP-79-2,AP,Meraki MR46,79,IDF3,NIVEL1,Apartamento 79 - AP 2
-TV-79-1,TV,Apple TV 4K,79,IDF3,NIVEL1,Apartamento 79 - TV 1
-TV-79-2,TV,Apple TV 4K,79,IDF3,NIVEL1,Apartamento 79 - TV 2
-TV-79-3,TV,Apple TV 4K,79,IDF3,NIVEL1,Apartamento 79 - TV 3
-TEL-80-1,telefono,Yealink T46S,80,IDF8,NIVEL5,Apartamento 80 - Teléfono 1
-AP-80-1,AP,Meraki MR46,80,IDF8,NIVEL5,Apartamento 80 - AP 1
-AP-80-2,AP,Meraki MR46,80,IDF8,NIVEL5,Apartamento 80 - AP 2
-TV-80-1,TV,Apple TV 4K,80,IDF8,NIVEL5,Apartamento 80 - TV 1
-TV-80-2,TV,Apple TV 4K,80,IDF8,NIVEL5,Apartamento 80 - TV 2
-TV-80-3,TV,Apple TV 4K,80,IDF8,NIVEL5,Apartamento 80 - TV 3
-TEL-81-1,telefono,Yealink T46S,81,IDF4,NIVEL4,Apartamento 81 - Teléfono 1
-AP-81-1,AP,Meraki MR46,81,IDF4,NIVEL4,Apartamento 81 - AP 1
-AP-81-2,AP,Meraki MR46,81,IDF4,NIVEL4,Apartamento 81 - AP 2
-TV-81-1,TV,Apple TV 4K,81,IDF4,NIVEL4,Apartamento 81 - TV 1
-TV-81-2,TV,Apple TV 4K,81,IDF4,NIVEL4,Apartamento 81 - TV 2
-TV-81-3,TV,Apple TV 4K,81,IDF4,NIVEL4,Apartamento 81 - TV 3
-TEL-82-1,telefono,Yealink T46S,82,IDF15,NIVEL1,Apartamento 82 - Teléfono 1
-AP-82-1,AP,Meraki MR46,82,IDF15,NIVEL1,Apartamento 82 - AP 1
-AP-82-2,AP,Meraki MR46,82,IDF15,NIVEL1,Apartamento 82 - AP 2
-TV-82-1,TV,Apple TV 4K,82,IDF15,NIVEL1,Apartamento 82 - TV 1
-TV-82-2,TV,Apple TV 4K,82,IDF15,NIVEL1,Apartamento 82 - TV 2
-TV-82-3,TV,Apple TV 4K,82,IDF15,NIVEL1,Apartamento 82 - TV 3
-TEL-83-1,telefono,Yealink T46S,83,IDF1,NIVEL3,Apartamento 83 - Teléfono 1
-AP-83-1,AP,Meraki MR46,83,IDF1,NIVEL3,Apartamento 83 - AP 1
-AP-83-2,AP,Meraki MR46,83,IDF1,NIVEL3,Apartamento 83 - AP 2
-TV-83-1,TV,Apple TV 4K,83,IDF1,NIVEL3,Apartamento 83 - TV 1
-TV-83-2,TV,Apple TV 4K,83,IDF1,NIVEL3,Apartamento 83 - TV 2
-TV-83-3,TV,Apple TV 4K,83,IDF1,NIVEL3,Apartamento 83 - TV 3
-TV-83-4,TV,Apple TV 4K,83,IDF1,NIVEL3,Apartamento 83 - TV 4
-TEL-84-1,telefono,Yealink T46S,84,IDF13,NIVEL2,Apartamento 84 - Teléfono 1
-AP-84-1,AP,Meraki MR46,84,IDF13,NIVEL2,Apartamento 84 - AP 1
-AP-84-2,AP,Meraki MR46,84,IDF13,NIVEL2,Apartamento 84 - AP 2
-TV-84-1,TV,Apple TV 4K,84,IDF13,NIVEL2,Apartamento 84 - TV 1
-TV-84-2,TV,Apple TV 4K,84,IDF13,NIVEL2,Apartamento 84 - TV 2
-TV-84-3,TV,Apple TV 4K,84,IDF13,NIVEL2,Apartamento 84 - TV 3
-TEL-85-1,telefono,Yealink T46S,85,IDF12,NIVEL5,Apartamento 85 - Teléfono 1
-AP-85-1,AP,Meraki MR46,85,IDF12,NIVEL5,Apartamento 85 - AP 1
-AP-85-2,AP,Meraki MR46,85,IDF12,NIVEL5,Apartamento 85 - AP 2
-TV-85-1,TV,Apple TV 4K,85,IDF12,NIVEL5,Apartamento 85 - TV 1
-TV-85-2,TV,Apple TV 4K,85,IDF12,NIVEL5,Apartamento 85 - TV 2
-TV-85-3,TV,Apple TV 4K,85,IDF12,NIVEL5,Apartamento 85 - TV 3
-TEL-86-1,telefono,Yealink T46S,86,IDF12,NIVEL2,Apartamento 86 - Teléfono 1
-AP-86-1,AP,Meraki MR46,86,IDF12,NIVEL2,Apartamento 86 - AP 1
-AP-86-2,AP,Meraki MR46,86,IDF12,NIVEL2,Apartamento 86 - AP 2
-TV-86-1,TV,Apple TV 4K,86,IDF12,NIVEL2,Apartamento 86 - TV 1
-TV-86-2,TV,Apple TV 4K,86,IDF12,NIVEL2,Apartamento 86 - TV 2
-TV-86-3,TV,Apple TV 4K,86,IDF12,NIVEL2,Apartamento 86 - TV 3
-TV-86-4,TV,Apple TV 4K,86,IDF12,NIVEL2,Apartamento 86 - TV 4
-TEL-87-1,telefono,Yealink T46S,87,IDF5,NIVEL5,Apartamento 87 - Teléfono 1
-AP-87-1,AP,Meraki MR46,87,IDF5,NIVEL5,Apartamento 87 - AP 1
-AP-87-2,AP,Meraki MR46,87,IDF5,NIVEL5,Apartamento 87 - AP 2
-AP-87-3,AP,Meraki MR46,87,IDF5,NIVEL5,Apartamento 87 - AP 3
-TV-87-1,TV,Apple TV 4K,87,IDF5,NIVEL5,Apartamento 87 - TV 1
-TV-87-2,TV,Apple TV 4K,87,IDF5,NIVEL5,Apartamento 87 - TV 2
-TV-87-3,TV,Apple TV 4K,87,IDF5,NIVEL5,Apartamento 87 - TV 3
-TV-87-4,TV,Apple TV 4K,87,IDF5,NIVEL5,Apartamento 87 - TV 4
-TV-87-5,TV,Apple TV 4K,87,IDF5,NIVEL5,Apartamento 87 - TV 5
-TEL-88-1,telefono,Yealink T46S,88,IDF7,NIVEL4,Apartamento 88 - Teléfono 1
-AP-88-1,AP,Meraki MR46,88,IDF7,NIVEL4,Apartamento 88 - AP 1
-AP-88-2,AP,Meraki MR46,88,IDF7,NIVEL4,Apartamento 88 - AP 2
-TV-88-1,TV,Apple TV 4K,88,IDF7,NIVEL4,Apartamento 88 - TV 1
-TV-88-2,TV,Apple TV 4K,88,IDF7,NIVEL4,Apartamento 88 - TV 2
-TV-88-3,TV,Apple TV 4K,88,IDF7,NIVEL4,Apartamento 88 - TV 3
-TEL-89-1,telefono,Yealink T46S,89,IDF11,NIVEL1,Apartamento 89 - Teléfono 1
-AP-89-1,AP,Meraki MR46,89,IDF11,NIVEL1,Apartamento 89 - AP 1
-AP-89-2,AP,Meraki MR46,89,IDF11,NIVEL1,Apartamento 89 - AP 2
-TV-89-1,TV,Apple TV 4K,89,IDF11,NIVEL1,Apartamento 89 - TV 1
-TV-89-2,TV,Apple TV 4K,89,IDF11,NIVEL1,Apartamento 89 - TV 2
-TV-89-3,TV,Apple TV 4K,89,IDF11,NIVEL1,Apartamento 89 - TV 3
-TEL-90-1,telefono,Yealink T46S,90,IDF10,NIVEL5,Apartamento 90 - Teléfono 1
-AP-90-1,AP,Meraki MR46,90,IDF10,NIVEL5,Apartamento 90 - AP 1
-AP-90-2,AP,Meraki MR46,90,IDF10,NIVEL5,Apartamento 90 - AP 2
-TV-90-1,TV,Apple TV 4K,90,IDF10,NIVEL5,Apartamento 90 - TV 1
-TV-90-2,TV,Apple TV 4K,90,IDF10,NIVEL5,Apartamento 90 - TV 2
-TV-90-3,TV,Apple TV 4K,90,IDF10,NIVEL5,Apartamento 90 - TV 3
-TEL-91-1,telefono,Yealink T46S,91,IDF1,NIVEL7,Apartamento 91 - Teléfono 1
-AP-91-1,AP,Meraki MR46,91,IDF1,NIVEL7,Apartamento 91 - AP 1
-AP-91-2,AP,Meraki MR46,91,IDF1,NIVEL7,Apartamento 91 - AP 2
-TV-91-1,TV,Apple TV 4K,91,IDF1,NIVEL7,Apartamento 91 - TV 1
-TV-91-2,TV,Apple TV 4K,91,IDF1,NIVEL7,Apartamento 91 - TV 2
-TV-91-3,TV,Apple TV 4K,91,IDF1,NIVEL7,Apartamento 91 - TV 3
-TV-91-4,TV,Apple TV 4K,91,IDF1,NIVEL7,Apartamento 91 - TV 4
-TEL-92-1,telefono,Yealink T46S,92,IDF2,NIVEL6,Apartamento 92 - Teléfono 1
-AP-92-1,AP,Meraki MR46,92,IDF2,NIVEL6,Apartamento 92 - AP 1
-AP-92-2,AP,Meraki MR46,92,IDF2,NIVEL6,Apartamento 92 - AP 2
-TV-92-1,TV,Apple TV 4K,92,IDF2,NIVEL6,Apartamento 92 - TV 1
-TV-92-2,TV,Apple TV 4K,92,IDF2,NIVEL6,Apartamento 92 - TV 2
-TV-92-3,TV,Apple TV 4K,92,IDF2,NIVEL6,Apartamento 92 - TV 3
-TEL-93-1,telefono,Yealink T46S,93,IDF6,NIVEL5,Apartamento 93 - Teléfono 1
-AP-93-1,AP,Meraki MR46,93,IDF6,NIVEL5,Apartamento 93 - AP 1
-AP-93-2,AP,Meraki MR46,93,IDF6,NIVEL5,Apartamento 93 - AP 2
-TV-93-1,TV,Apple TV 4K,93,IDF6,NIVEL5,Apartamento 93 - TV 1
-TV-93-2,TV,Apple TV 4K,93,IDF6,NIVEL5,Apartamento 93 - TV 2
-TV-93-3,TV,Apple TV 4K,93,IDF6,NIVEL5,Apartamento 93 - TV 3
-TV-93-4,TV,Apple TV 4K,93,IDF6,NIVEL5,Apartamento 93 - TV 4
-TEL-94-1,telefono,Yealink T46S,94,IDF15,NIVEL5,Apartamento 94 - Teléfono 1
-AP-94-1,AP,Meraki MR46,94,IDF15,NIVEL5,Apartamento 94 - AP 1
-AP-94-2,AP,Meraki MR46,94,IDF15,NIVEL5,Apartamento 94 - AP 2
-TV-94-1,TV,Apple TV 4K,94,IDF15,NIVEL5,Apartamento 94 - TV 1
-TV-94-2,TV,Apple TV 4K,94,IDF15,NIVEL5,Apartamento 94 - TV 2
-TV-94-3,TV,Apple TV 4K,94,IDF15,NIVEL5,Apartamento 94 - TV 3
-TEL-95-1,telefono,Yealink T46S,95,IDF14,NIVEL6,Apartamento 95 - Teléfono 1
-AP-95-1,AP,Meraki MR46,95,IDF14,NIVEL6,Apartamento 95 - AP 1
-AP-95-2,AP,Meraki MR46,95,IDF14,NIVEL6,Apartamento 95 - AP 2
-TV-95-1,TV,Apple TV 4K,95,IDF14,NIVEL6,Apartamento 95 - TV 1
-TV-95-2,TV,Apple TV 4K,95,IDF14,NIVEL6,Apartamento 95 - TV 2
-TV-95-3,TV,Apple TV 4K,95,IDF14,NIVEL6,Apartamento 95 - TV 3
-TV-95-4,TV,Apple TV 4K,95,IDF14,NIVEL6,Apartamento 95 - TV 4
-TEL-96-1,telefono,Yealink T46S,96,IDF8,NIVEL5,Apartamento 96 - Teléfono 1
-AP-96-1,AP,Meraki MR46,96,IDF8,NIVEL5,Apartamento 96 - AP 1
-AP-96-2,AP,Meraki MR46,96,IDF8,NIVEL5,Apartamento 96 - AP 2
-TV-96-1,TV,Apple TV 4K,96,IDF8,NIVEL5,Apartamento 96 - TV 1
-TV-96-2,TV,Apple TV 4K,96,IDF8,NIVEL5,Apartamento 96 - TV 2
-TV-96-3,TV,Apple TV 4K,96,IDF8,NIVEL5,Apartamento 96 - TV 3
-TEL-97-1,telefono,Yealink T46S,97,IDF8,NIVEL6,Apartamento 97 - Teléfono 1
-AP-97-1,AP,Meraki MR46,97,IDF8,NIVEL6,Apartamento 97 - AP 1
-AP-97-2,AP,Meraki MR46,97,IDF8,NIVEL6,Apartamento 97 - AP 2
-AP-97-3,AP,Meraki MR46,97,IDF8,NIVEL6,Apartamento 97 - AP 3
-TV-97-1,TV,Apple TV 4K,97,IDF8,NIVEL6,Apartamento 97 - TV 1
-TV-97-2,TV,Apple TV 4K,97,IDF8,NIVEL6,Apartamento 97 - TV 2
-TV-97-3,TV,Apple TV 4K,97,IDF8,NIVEL6,Apartamento 97 - TV 3
-TV-97-4,TV,Apple TV 4K,97,IDF8,NIVEL6,Apartamento 97 - TV 4
-TV-97-5,TV,Apple TV 4K,97,IDF8,NIVEL6,Apartamento 97 - TV 5
-TEL-98-1,telefono,Yealink T46S,98,IDF5,NIVEL1,Apartamento 98 - Teléfono 1
-AP-98-1,AP,Meraki MR46,98,IDF5,NIVEL1,Apartamento 98 - AP 1
-AP-98-2,AP,Meraki MR46,98,IDF5,NIVEL1,Apartamento 98 - AP 2
-TV-98-1,TV,Apple TV 4K,98,IDF5,NIVEL1,Apartamento 98 - TV 1
-TV-98-2,TV,Apple TV 4K,98,IDF5,NIVEL1,Apartamento 98 - TV 2
-TV-98-3,TV,Apple TV 4K,98,IDF5,NIVEL1,Apartamento 98 - TV 3
-TEL-99-1,telefono,Yealink T46S,99,IDF14,NIVEL7,Apartamento 99 - Teléfono 1
-AP-99-1,AP,Meraki MR46,99,IDF14,NIVEL7,Apartamento 99 - AP 1
-AP-99-2,AP,Meraki MR46,99,IDF14,NIVEL7,Apartamento 99 - AP 2
-TV-99-1,TV,Apple TV 4K,99,IDF14,NIVEL7,Apartamento 99 - TV 1
-TV-99-2,TV,Apple TV 4K,99,IDF14,NIVEL7,Apartamento 99 - TV 2
-TV-99-3,TV,Apple TV 4K,99,IDF14,NIVEL7,Apartamento 99 - TV 3
-TEL-100-1,telefono,Yealink T46S,100,IDF13,NIVEL4,Apartamento 100 - Teléfono 1
-AP-100-1,AP,Meraki MR46,100,IDF13,NIVEL4,Apartamento 100 - AP 1
-AP-100-2,AP,Meraki MR46,100,IDF13,NIVEL4,Apartamento 100 - AP 2
-TV-100-1,TV,Apple TV 4K,100,IDF13,NIVEL4,Apartamento 100 - TV 1
-TV-100-2,TV,Apple TV 4K,100,IDF13,NIVEL4,Apartamento 100 - TV 2
-TV-100-3,TV,Apple TV 4K,100,IDF13,NIVEL4,Apartamento 100 - TV 3
-TV-100-4,TV,Apple TV 4K,100,IDF13,NIVEL4,Apartamento 100 - TV 4
-TEL-101-1,telefono,Yealink T46S,101,IDF10,NIVEL6,Apartamento 101 - Teléfono 1
-AP-101-1,AP,Meraki MR46,101,IDF10,NIVEL6,Apartamento 101 - AP 1
-AP-101-2,AP,Meraki MR46,101,IDF10,NIVEL6,Apartamento 101 - AP 2
-TV-101-1,TV,Apple TV 4K,101,IDF10,NIVEL6,Apartamento 101 - TV 1
-TV-101-2,TV,Apple TV 4K,101,IDF10,NIVEL6,Apartamento 101 - TV 2
-TV-101-3,TV,Apple TV 4K,101,IDF10,NIVEL6,Apartamento 101 - TV 3
-TEL-102-1,telefono,Yealink T46S,102,IDF10,NIVEL1,Apartamento 102 - Teléfono 1
-AP-102-1,AP,Meraki MR46,102,IDF10,NIVEL1,Apartamento 102 - AP 1
-AP-102-2,AP,Meraki MR46,102,IDF10,NIVEL1,Apartamento 102 - AP 2
-TV-102-1,TV,Apple TV 4K,102,IDF10,NIVEL1,Apartamento 102 - TV 1
-TV-102-2,TV,Apple TV 4K,102,IDF10,NIVEL1,Apartamento 102 - TV 2
-TV-102-3,TV,Apple TV 4K,102,IDF10,NIVEL1,Apartamento 102 - TV 3
-TEL-103-1,telefono,Yealink T46S,103,IDF11,NIVEL6,Apartamento 103 - Teléfono 1
-AP-103-1,AP,Meraki MR46,103,IDF11,NIVEL6,Apartamento 103 - AP 1
-AP-103-2,AP,Meraki MR46,103,IDF11,NIVEL6,Apartamento 103 - AP 2
-TV-103-1,TV,Apple TV 4K,103,IDF11,NIVEL6,Apartamento 103 - TV 1
-TV-103-2,TV,Apple TV 4K,103,IDF11,NIVEL6,Apartamento 103 - TV 2
-TV-103-3,TV,Apple TV 4K,103,IDF11,NIVEL6,Apartamento 103 - TV 3
-TEL-104-1,telefono,Yealink T46S,104,IDF1,NIVEL4,Apartamento 104 - Teléfono 1
-AP-104-1,AP,Meraki MR46,104,IDF1,NIVEL4,Apartamento 104 - AP 1
-AP-104-2,AP,Meraki MR46,104,IDF1,NIVEL4,Apartamento 104 - AP 2
-TV-104-1,TV,Apple TV 4K,104,IDF1,NIVEL4,Apartamento 104 - TV 1
-TV-104-2,TV,Apple TV 4K,104,IDF1,NIVEL4,Apartamento 104 - TV 2
-TV-104-3,TV,Apple TV 4K,104,IDF1,NIVEL4,Apartamento 104 - TV 3
-TEL-105-1,telefono,Yealink T46S,105,IDF6,NIVEL3,Apartamento 105 - Teléfono 1
-AP-105-1,AP,Meraki MR46,105,IDF6,NIVEL3,Apartamento 105 - AP 1
-AP-105-2,AP,Meraki MR46,105,IDF6,NIVEL3,Apartamento 105 - AP 2
-AP-105-3,AP,Meraki MR46,105,IDF6,NIVEL3,Apartamento 105 - AP 3
-TV-105-1,TV,Apple TV 4K,105,IDF6,NIVEL3,Apartamento 105 - TV 1
-TV-105-2,TV,Apple TV 4K,105,IDF6,NIVEL3,Apartamento 105 - TV 2
-TV-105-3,TV,Apple TV 4K,105,IDF6,NIVEL3,Apartamento 105 - TV 3
-TV-105-4,TV,Apple TV 4K,105,IDF6,NIVEL3,Apartamento 105 - TV 4
-TV-105-5,TV,Apple TV 4K,105,IDF6,NIVEL3,Apartamento 105 - TV 5
-TEL-106-1,telefono,Yealink T46S,106,IDF5,NIVEL1,Apartamento 106 - Teléfono 1
-AP-106-1,AP,Meraki MR46,106,IDF5,NIVEL1,Apartamento 106 - AP 1
-AP-106-2,AP,Meraki MR46,106,IDF5,NIVEL1,Apartamento 106 - AP 2
-TV-106-1,TV,Apple TV 4K,106,IDF5,NIVEL1,Apartamento 106 - TV 1
-TV-106-2,TV,Apple TV 4K,106,IDF5,NIVEL1,Apartamento 106 - TV 2
-TV-106-3,TV,Apple TV 4K,106,IDF5,NIVEL1,Apartamento 106 - TV 3
-TEL-107-1,telefono,Yealink T46S,107,IDF2,NIVEL4,Apartamento 107 - Teléfono 1
-AP-107-1,AP,Meraki MR46,107,IDF2,NIVEL4,Apartamento 107 - AP 1
-AP-107-2,AP,Meraki MR46,107,IDF2,NIVEL4,Apartamento 107 - AP 2
-TV-107-1,TV,Apple TV 4K,107,IDF2,NIVEL4,Apartamento 107 - TV 1
-TV-107-2,TV,Apple TV 4K,107,IDF2,NIVEL4,Apartamento 107 - TV 2
-TV-107-3,TV,Apple TV 4K,107,IDF2,NIVEL4,Apartamento 107 - TV 3
-TEL-108-1,telefono,Yealink T46S,108,IDF6,NIVEL2,Apartamento 108 - Teléfono 1
-AP-108-1,AP,Meraki MR46,108,IDF6,NIVEL2,Apartamento 108 - AP 1
-AP-108-2,AP,Meraki MR46,108,IDF6,NIVEL2,Apartamento 108 - AP 2
-TV-108-1,TV,Apple TV 4K,108,IDF6,NIVEL2,Apartamento 108 - TV 1
-TV-108-2,TV,Apple TV 4K,108,IDF6,NIVEL2,Apartamento 108 - TV 2
-TV-108-3,TV,Apple TV 4K,108,IDF6,NIVEL2,Apartamento 108 - TV 3
-TEL-109-1,telefono,Yealink T46S,109,IDF15,NIVEL1,Apartamento 109 - Teléfono 1
-AP-109-1,AP,Meraki MR46,109,IDF15,NIVEL1,Apartamento 109 - AP 1
-AP-109-2,AP,Meraki MR46,109,IDF15,NIVEL1,Apartamento 109 - AP 2
-TV-109-1,TV,Apple TV 4K,109,IDF15,NIVEL1,Apartamento 109 - TV 1
-TV-109-2,TV,Apple TV 4K,109,IDF15,NIVEL1,Apartamento 109 - TV 2
-TV-109-3,TV,Apple TV 4K,109,IDF15,NIVEL1,Apartamento 109 - TV 3
-TV-109-4,TV,Apple TV 4K,109,IDF15,NIVEL1,Apartamento 109 - TV 4
-TEL-110-1,telefono,Yealink T46S,110,IDF14,NIVEL1,Apartamento 110 - Teléfono 1
-AP-110-1,AP,Meraki MR46,110,IDF14,NIVEL1,Apartamento 110 - AP 1
-AP-110-2,AP,Meraki MR46,110,IDF14,NIVEL1,Apartamento 110 - AP 2
-AP-110-3,AP,Meraki MR46,110,IDF14,NIVEL1,Apartamento 110 - AP 3
-TV-110-1,TV,Apple TV 4K,110,IDF14,NIVEL1,Apartamento 110 - TV 1
-TV-110-2,TV,Apple TV 4K,110,IDF14,NIVEL1,Apartamento 110 - TV 2
-TV-110-3,TV,Apple TV 4K,110,IDF14,NIVEL1,Apartamento 110 - TV 3
-TV-110-4,TV,Apple TV 4K,110,IDF14,NIVEL1,Apartamento 110 - TV 4
-TV-110-5,TV,Apple TV 4K,110,IDF14,NIVEL1,Apartamento 110 - TV 5
-TEL-111-1,telefono,Yealink T46S,111,IDF3,NIVEL5,Apartamento 111 - Teléfono 1
-AP-111-1,AP,Meraki MR46,111,IDF3,NIVEL5,Apartamento 111 - AP 1
-AP-111-2,AP,Meraki MR46,111,IDF3,NIVEL5,Apartamento 111 - AP 2
-TV-111-1,TV,Apple TV 4K,111,IDF3,NIVEL5,Apartamento 111 - TV 1
-TV-111-2,TV,Apple TV 4K,111,IDF3,NIVEL5,Apartamento 111 - TV 2
-TV-111-3,TV,Apple TV 4K,111,IDF3,NIVEL5,Apartamento 111 - TV 3
-TEL-112-1,telefono,Yealink T46S,112,IDF6,NIVEL3,Apartamento 112 - Teléfono 1
-AP-112-1,AP,Meraki MR46,112,IDF6,NIVEL3,Apartamento 112 - AP 1
-AP-112-2,AP,Meraki MR46,112,IDF6,NIVEL3,Apartamento 112 - AP 2
-TV-112-1,TV,Apple TV 4K,112,IDF6,NIVEL3,Apartamento 112 - TV 1
-TV-112-2,TV,Apple TV 4K,112,IDF6,NIVEL3,Apartamento 112 - TV 2
-TV-112-3,TV,Apple TV 4K,112,IDF6,NIVEL3,Apartamento 112 - TV 3
-TV-112-4,TV,Apple TV 4K,112,IDF6,NIVEL3,Apartamento 112 - TV 4
-TEL-113-1,telefono,Yealink T46S,113,IDF2,NIVEL1,Apartamento 113 - Teléfono 1
-AP-113-1,AP,Meraki MR46,113,IDF2,NIVEL1,Apartamento 113 - AP 1
-AP-113-2,AP,Meraki MR46,113,IDF2,NIVEL1,Apartamento 113 - AP 2
-TV-113-1,TV,Apple TV 4K,113,IDF2,NIVEL1,Apartamento 113 - TV 1
-TV-113-2,TV,Apple TV 4K,113,IDF2,NIVEL1,Apartamento 113 - TV 2
-TV-113-3,TV,Apple TV 4K,113,IDF2,NIVEL1,Apartamento 113 - TV 3
-TV-113-4,TV,Apple TV 4K,113,IDF2,NIVEL1,Apartamento 113 - TV 4
-TEL-114-1,telefono,Yealink T46S,114,IDF10,NIVEL3,Apartamento 114 - Teléfono 1
-AP-114-1,AP,Meraki MR46,114,IDF10,NIVEL3,Apartamento 114 - AP 1
-AP-114-2,AP,Meraki MR46,114,IDF10,NIVEL3,Apartamento 114 - AP 2
-TV-114-1,TV,Apple TV 4K,114,IDF10,NIVEL3,Apartamento 114 - TV 1
-TV-114-2,TV,Apple TV 4K,114,IDF10,NIVEL3,Apartamento 114 - TV 2
-TV-114-3,TV,Apple TV 4K,114,IDF10,NIVEL3,Apartamento 114 - TV 3
-TV-114-4,TV,Apple TV 4K,114,IDF10,NIVEL3,Apartamento 114 - TV 4
-TEL-115-1,telefono,Yealink T46S,115,IDF2,NIVEL1,Apartamento 115 - Teléfono 1
-AP-115-1,AP,Meraki MR46,115,IDF2,NIVEL1,Apartamento 115 - AP 1
-AP-115-2,AP,Meraki MR46,115,IDF2,NIVEL1,Apartamento 115 - AP 2
-TV-115-1,TV,Apple TV 4K,115,IDF2,NIVEL1,Apartamento 115 - TV 1
-TV-115-2,TV,Apple TV 4K,115,IDF2,NIVEL1,Apartamento 115 - TV 2
-TV-115-3,TV,Apple TV 4K,115,IDF2,NIVEL1,Apartamento 115 - TV 3
-TV-115-4,TV,Apple TV 4K,115,IDF2,NIVEL1,Apartamento 115 - TV 4
-TEL-116-1,telefono,Yealink T46S,116,IDF3,NIVEL1,Apartamento 116 - Teléfono 1
-AP-116-1,AP,Meraki MR46,116,IDF3,NIVEL1,Apartamento 116 - AP 1
-AP-116-2,AP,Meraki MR46,116,IDF3,NIVEL1,Apartamento 116 - AP 2
-TV-116-1,TV,Apple TV 4K,116,IDF3,NIVEL1,Apartamento 116 - TV 1
-TV-116-2,TV,Apple TV 4K,116,IDF3,NIVEL1,Apartamento 116 - TV 2
-TV-116-3,TV,Apple TV 4K,116,IDF3,NIVEL1,Apartamento 116 - TV 3
-TEL-117-1,telefono,Yealink T46S,117,IDF9,NIVEL5,Apartamento 117 - Teléfono 1
-AP-117-1,AP,Meraki MR46,117,IDF9,NIVEL5,Apartamento 117 - AP 1
-AP-117-2,AP,Meraki MR46,117,IDF9,NIVEL5,Apartamento 117 - AP 2
-TV-117-1,TV,Apple TV 4K,117,IDF9,NIVEL5,Apartamento 117 - TV 1
-TV-117-2,TV,Apple TV 4K,117,IDF9,NIVEL5,Apartamento 117 - TV 2
-TV-117-3,TV,Apple TV 4K,117,IDF9,NIVEL5,Apartamento 117 - TV 3
-TEL-118-1,telefono,Yealink T46S,118,IDF5,NIVEL7,Apartamento 118 - Teléfono 1
-AP-118-1,AP,Meraki MR46,118,IDF5,NIVEL7,Apartamento 118 - AP 1
-AP-118-2,AP,Meraki MR46,118,IDF5,NIVEL7,Apartamento 118 - AP 2
-TV-118-1,TV,Apple TV 4K,118,IDF5,NIVEL7,Apartamento 118 - TV 1
-TV-118-2,TV,Apple TV 4K,118,IDF5,NIVEL7,Apartamento 118 - TV 2
-TV-118-3,TV,Apple TV 4K,118,IDF5,NIVEL7,Apartamento 118 - TV 3
-TEL-119-1,telefono,Yealink T46S,119,IDF4,NIVEL6,Apartamento 119 - Teléfono 1
-AP-119-1,AP,Meraki MR46,119,IDF4,NIVEL6,Apartamento 119 - AP 1
-AP-119-2,AP,Meraki MR46,119,IDF4,NIVEL6,Apartamento 119 - AP 2
-TV-119-1,TV,Apple TV 4K,119,IDF4,NIVEL6,Apartamento 119 - TV 1
-TV-119-2,TV,Apple TV 4K,119,IDF4,NIVEL6,Apartamento 119 - TV 2
-TV-119-3,TV,Apple TV 4K,119,IDF4,NIVEL6,Apartamento 119 - TV 3
-TEL-120-1,telefono,Yealink T46S,120,IDF3,NIVEL7,Apartamento 120 - Teléfono 1
-AP-120-1,AP,Meraki MR46,120,IDF3,NIVEL7,Apartamento 120 - AP 1
-AP-120-2,AP,Meraki MR46,120,IDF3,NIVEL7,Apartamento 120 - AP 2
-TV-120-1,TV,Apple TV 4K,120,IDF3,NIVEL7,Apartamento 120 - TV 1
-TV-120-2,TV,Apple TV 4K,120,IDF3,NIVEL7,Apartamento 120 - TV 2
-TV-120-3,TV,Apple TV 4K,120,IDF3,NIVEL7,Apartamento 120 - TV 3
-TEL-121-1,telefono,Yealink T46S,121,IDF3,NIVEL5,Apartamento 121 - Teléfono 1
-AP-121-1,AP,Meraki MR46,121,IDF3,NIVEL5,Apartamento 121 - AP 1
-AP-121-2,AP,Meraki MR46,121,IDF3,NIVEL5,Apartamento 121 - AP 2
-AP-121-3,AP,Meraki MR46,121,IDF3,NIVEL5,Apartamento 121 - AP 3
-TV-121-1,TV,Apple TV 4K,121,IDF3,NIVEL5,Apartamento 121 - TV 1
-TV-121-2,TV,Apple TV 4K,121,IDF3,NIVEL5,Apartamento 121 - TV 2
-TV-121-3,TV,Apple TV 4K,121,IDF3,NIVEL5,Apartamento 121 - TV 3
-TV-121-4,TV,Apple TV 4K,121,IDF3,NIVEL5,Apartamento 121 - TV 4
-TV-121-5,TV,Apple TV 4K,121,IDF3,NIVEL5,Apartamento 121 - TV 5
-TEL-122-1,telefono,Yealink T46S,122,IDF10,NIVEL2,Apartamento 122 - Teléfono 1
-AP-122-1,AP,Meraki MR46,122,IDF10,NIVEL2,Apartamento 122 - AP 1
-AP-122-2,AP,Meraki MR46,122,IDF10,NIVEL2,Apartamento 122 - AP 2
-TV-122-1,TV,Apple TV 4K,122,IDF10,NIVEL2,Apartamento 122 - TV 1
-TV-122-2,TV,Apple TV 4K,122,IDF10,NIVEL2,Apartamento 122 - TV 2
-TV-122-3,TV,Apple TV 4K,122,IDF10,NIVEL2,Apartamento 122 - TV 3
-TEL-123-1,telefono,Yealink T46S,123,IDF11,NIVEL5,Apartamento 123 - Teléfono 1
-AP-123-1,AP,Meraki MR46,123,IDF11,NIVEL5,Apartamento 123 - AP 1
-AP-123-2,AP,Meraki MR46,123,IDF11,NIVEL5,Apartamento 123 - AP 2
-TV-123-1,TV,Apple TV 4K,123,IDF11,NIVEL5,Apartamento 123 - TV 1
-TV-123-2,TV,Apple TV 4K,123,IDF11,NIVEL5,Apartamento 123 - TV 2
-TV-123-3,TV,Apple TV 4K,123,IDF11,NIVEL5,Apartamento 123 - TV 3
-TV-123-4,TV,Apple TV 4K,123,IDF11,NIVEL5,Apartamento 123 - TV 4
-TEL-124-1,telefono,Yealink T46S,124,IDF4,NIVEL4,Apartamento 124 - Teléfono 1
-AP-124-1,AP,Meraki MR46,124,IDF4,NIVEL4,Apartamento 124 - AP 1
-AP-124-2,AP,Meraki MR46,124,IDF4,NIVEL4,Apartamento 124 - AP 2
-AP-124-3,AP,Meraki MR46,124,IDF4,NIVEL4,Apartamento 124 - AP 3
-TV-124-1,TV,Apple TV 4K,124,IDF4,NIVEL4,Apartamento 124 - TV 1
-TV-124-2,TV,Apple TV 4K,124,IDF4,NIVEL4,Apartamento 124 - TV 2
-TV-124-3,TV,Apple TV 4K,124,IDF4,NIVEL4,Apartamento 124 - TV 3
-TV-124-4,TV,Apple TV 4K,124,IDF4,NIVEL4,Apartamento 124 - TV 4
-TV-124-5,TV,Apple TV 4K,124,IDF4,NIVEL4,Apartamento 124 - TV 5
-TEL-125-1,telefono,Yealink T46S,125,IDF1,NIVEL7,Apartamento 125 - Teléfono 1
-AP-125-1,AP,Meraki MR46,125,IDF1,NIVEL7,Apartamento 125 - AP 1
-AP-125-2,AP,Meraki MR46,125,IDF1,NIVEL7,Apartamento 125 - AP 2
-AP-125-3,AP,Meraki MR46,125,IDF1,NIVEL7,Apartamento 125 - AP 3
-TV-125-1,TV,Apple TV 4K,125,IDF1,NIVEL7,Apartamento 125 - TV 1
-TV-125-2,TV,Apple TV 4K,125,IDF1,NIVEL7,Apartamento 125 - TV 2
-TV-125-3,TV,Apple TV 4K,125,IDF1,NIVEL7,Apartamento 125 - TV 3
-TV-125-4,TV,Apple TV 4K,125,IDF1,NIVEL7,Apartamento 125 - TV 4
-TV-125-5,TV,Apple TV 4K,125,IDF1,NIVEL7,Apartamento 125 - TV 5
-TEL-126-1,telefono,Yealink T46S,126,IDF2,NIVEL1,Apartamento 126 - Teléfono 1
-AP-126-1,AP,Meraki MR46,126,IDF2,NIVEL1,Apartamento 126 - AP 1
-AP-126-2,AP,Meraki MR46,126,IDF2,NIVEL1,Apartamento 126 - AP 2
-TV-126-1,TV,Apple TV 4K,126,IDF2,NIVEL1,Apartamento 126 - TV 1
-TV-126-2,TV,Apple TV 4K,126,IDF2,NIVEL1,Apartamento 126 - TV 2
-TV-126-3,TV,Apple TV 4K,126,IDF2,NIVEL1,Apartamento 126 - TV 3
-TV-126-4,TV,Apple TV 4K,126,IDF2,NIVEL1,Apartamento 126 - TV 4
-TEL-127-1,telefono,Yealink T46S,127,IDF9,NIVEL7,Apartamento 127 - Teléfono 1
-AP-127-1,AP,Meraki MR46,127,IDF9,NIVEL7,Apartamento 127 - AP 1
-AP-127-2,AP,Meraki MR46,127,IDF9,NIVEL7,Apartamento 127 - AP 2
-TV-127-1,TV,Apple TV 4K,127,IDF9,NIVEL7,Apartamento 127 - TV 1
-TV-127-2,TV,Apple TV 4K,127,IDF9,NIVEL7,Apartamento 127 - TV 2
-TV-127-3,TV,Apple TV 4K,127,IDF9,NIVEL7,Apartamento 127 - TV 3
-TV-127-4,TV,Apple TV 4K,127,IDF9,NIVEL7,Apartamento 127 - TV 4
-TEL-128-1,telefono,Yealink T46S,128,IDF11,NIVEL7,Apartamento 128 - Teléfono 1
-AP-128-1,AP,Meraki MR46,128,IDF11,NIVEL7,Apartamento 128 - AP 1
-AP-128-2,AP,Meraki MR46,128,IDF11,NIVEL7,Apartamento 128 - AP 2
-TV-128-1,TV,Apple TV 4K,128,IDF11,NIVEL7,Apartamento 128 - TV 1
-TV-128-2,TV,Apple TV 4K,128,IDF11,NIVEL7,Apartamento 128 - TV 2
-TV-128-3,TV,Apple TV 4K,128,IDF11,NIVEL7,Apartamento 128 - TV 3
-TEL-129-1,telefono,Yealink T46S,129,IDF9,NIVEL4,Apartamento 129 - Teléfono 1
-AP-129-1,AP,Meraki MR46,129,IDF9,NIVEL4,Apartamento 129 - AP 1
-AP-129-2,AP,Meraki MR46,129,IDF9,NIVEL4,Apartamento 129 - AP 2
-TV-129-1,TV,Apple TV 4K,129,IDF9,NIVEL4,Apartamento 129 - TV 1
-TV-129-2,TV,Apple TV 4K,129,IDF9,NIVEL4,Apartamento 129 - TV 2
-TV-129-3,TV,Apple TV 4K,129,IDF9,NIVEL4,Apartamento 129 - TV 3
-TEL-130-1,telefono,Yealink T46S,130,IDF12,NIVEL2,Apartamento 130 - Teléfono 1
-AP-130-1,AP,Meraki MR46,130,IDF12,NIVEL2,Apartamento 130 - AP 1
-AP-130-2,AP,Meraki MR46,130,IDF12,NIVEL2,Apartamento 130 - AP 2
-TV-130-1,TV,Apple TV 4K,130,IDF12,NIVEL2,Apartamento 130 - TV 1
-TV-130-2,TV,Apple TV 4K,130,IDF12,NIVEL2,Apartamento 130 - TV 2
-TV-130-3,TV,Apple TV 4K,130,IDF12,NIVEL2,Apartamento 130 - TV 3
-TV-130-4,TV,Apple TV 4K,130,IDF12,NIVEL2,Apartamento 130 - TV 4
-TEL-131-1,telefono,Yealink T46S,131,IDF2,NIVEL5,Apartamento 131 - Teléfono 1
-AP-131-1,AP,Meraki MR46,131,IDF2,NIVEL5,Apartamento 131 - AP 1
-AP-131-2,AP,Meraki MR46,131,IDF2,NIVEL5,Apartamento 131 - AP 2
-TV-131-1,TV,Apple TV 4K,131,IDF2,NIVEL5,Apartamento 131 - TV 1
-TV-131-2,TV,Apple TV 4K,131,IDF2,NIVEL5,Apartamento 131 - TV 2
-TV-131-3,TV,Apple TV 4K,131,IDF2,NIVEL5,Apartamento 131 - TV 3
-TEL-132-1,telefono,Yealink T46S,132,IDF8,NIVEL6,Apartamento 132 - Teléfono 1
-AP-132-1,AP,Meraki MR46,132,IDF8,NIVEL6,Apartamento 132 - AP 1
-AP-132-2,AP,Meraki MR46,132,IDF8,NIVEL6,Apartamento 132 - AP 2
-TV-132-1,TV,Apple TV 4K,132,IDF8,NIVEL6,Apartamento 132 - TV 1
-TV-132-2,TV,Apple TV 4K,132,IDF8,NIVEL6,Apartamento 132 - TV 2
-TV-132-3,TV,Apple TV 4K,132,IDF8,NIVEL6,Apartamento 132 - TV 3
-TV-132-4,TV,Apple TV 4K,132,IDF8,NIVEL6,Apartamento 132 - TV 4
-TEL-133-1,telefono,Yealink T46S,133,IDF1,NIVEL2,Apartamento 133 - Teléfono 1
-AP-133-1,AP,Meraki MR46,133,IDF1,NIVEL2,Apartamento 133 - AP 1
-AP-133-2,AP,Meraki MR46,133,IDF1,NIVEL2,Apartamento 133 - AP 2
-AP-133-3,AP,Meraki MR46,133,IDF1,NIVEL2,Apartamento 133 - AP 3
-TV-133-1,TV,Apple TV 4K,133,IDF1,NIVEL2,Apartamento 133 - TV 1
-TV-133-2,TV,Apple TV 4K,133,IDF1,NIVEL2,Apartamento 133 - TV 2
-TV-133-3,TV,Apple TV 4K,133,IDF1,NIVEL2,Apartamento 133 - TV 3
-TV-133-4,TV,Apple TV 4K,133,IDF1,NIVEL2,Apartamento 133 - TV 4
-TV-133-5,TV,Apple TV 4K,133,IDF1,NIVEL2,Apartamento 133 - TV 5
-TEL-134-1,telefono,Yealink T46S,134,IDF11,NIVEL3,Apartamento 134 - Teléfono 1
-AP-134-1,AP,Meraki MR46,134,IDF11,NIVEL3,Apartamento 134 - AP 1
-AP-134-2,AP,Meraki MR46,134,IDF11,NIVEL3,Apartamento 134 - AP 2
-TV-134-1,TV,Apple TV 4K,134,IDF11,NIVEL3,Apartamento 134 - TV 1
-TV-134-2,TV,Apple TV 4K,134,IDF11,NIVEL3,Apartamento 134 - TV 2
-TV-134-3,TV,Apple TV 4K,134,IDF11,NIVEL3,Apartamento 134 - TV 3
-TV-134-4,TV,Apple TV 4K,134,IDF11,NIVEL3,Apartamento 134 - TV 4
-TEL-135-1,telefono,Yealink T46S,135,IDF5,NIVEL7,Apartamento 135 - Teléfono 1
-AP-135-1,AP,Meraki MR46,135,IDF5,NIVEL7,Apartamento 135 - AP 1
-AP-135-2,AP,Meraki MR46,135,IDF5,NIVEL7,Apartamento 135 - AP 2
-TV-135-1,TV,Apple TV 4K,135,IDF5,NIVEL7,Apartamento 135 - TV 1
-TV-135-2,TV,Apple TV 4K,135,IDF5,NIVEL7,Apartamento 135 - TV 2
-TV-135-3,TV,Apple TV 4K,135,IDF5,NIVEL7,Apartamento 135 - TV 3
-TV-135-4,TV,Apple TV 4K,135,IDF5,NIVEL7,Apartamento 135 - TV 4
-TEL-136-1,telefono,Yealink T46S,136,IDF7,NIVEL7,Apartamento 136 - Teléfono 1
-AP-136-1,AP,Meraki MR46,136,IDF7,NIVEL7,Apartamento 136 - AP 1
-AP-136-2,AP,Meraki MR46,136,IDF7,NIVEL7,Apartamento 136 - AP 2
-TV-136-1,TV,Apple TV 4K,136,IDF7,NIVEL7,Apartamento 136 - TV 1
-TV-136-2,TV,Apple TV 4K,136,IDF7,NIVEL7,Apartamento 136 - TV 2
-TV-136-3,TV,Apple TV 4K,136,IDF7,NIVEL7,Apartamento 136 - TV 3
-TEL-137-1,telefono,Yealink T46S,137,IDF14,NIVEL1,Apartamento 137 - Teléfono 1
-AP-137-1,AP,Meraki MR46,137,IDF14,NIVEL1,Apartamento 137 - AP 1
-AP-137-2,AP,Meraki MR46,137,IDF14,NIVEL1,Apartamento 137 - AP 2
-TV-137-1,TV,Apple TV 4K,137,IDF14,NIVEL1,Apartamento 137 - TV 1
-TV-137-2,TV,Apple TV 4K,137,IDF14,NIVEL1,Apartamento 137 - TV 2
-TV-137-3,TV,Apple TV 4K,137,IDF14,NIVEL1,Apartamento 137 - TV 3
-TEL-138-1,telefono,Yealink T46S,138,IDF7,NIVEL2,Apartamento 138 - Teléfono 1
-AP-138-1,AP,Meraki MR46,138,IDF7,NIVEL2,Apartamento 138 - AP 1
-AP-138-2,AP,Meraki MR46,138,IDF7,NIVEL2,Apartamento 138 - AP 2
-TV-138-1,TV,Apple TV 4K,138,IDF7,NIVEL2,Apartamento 138 - TV 1
-TV-138-2,TV,Apple TV 4K,138,IDF7,NIVEL2,Apartamento 138 - TV 2
-TV-138-3,TV,Apple TV 4K,138,IDF7,NIVEL2,Apartamento 138 - TV 3
-TV-138-4,TV,Apple TV 4K,138,IDF7,NIVEL2,Apartamento 138 - TV 4
-TEL-139-1,telefono,Yealink T46S,139,IDF2,NIVEL7,Apartamento 139 - Teléfono 1
-AP-139-1,AP,Meraki MR46,139,IDF2,NIVEL7,Apartamento 139 - AP 1
-AP-139-2,AP,Meraki MR46,139,IDF2,NIVEL7,Apartamento 139 - AP 2
-TV-139-1,TV,Apple TV 4K,139,IDF2,NIVEL7,Apartamento 139 - TV 1
-TV-139-2,TV,Apple TV 4K,139,IDF2,NIVEL7,Apartamento 139 - TV 2
-TV-139-3,TV,Apple TV 4K,139,IDF2,NIVEL7,Apartamento 139 - TV 3
-TEL-140-1,telefono,Yealink T46S,140,IDF11,NIVEL2,Apartamento 140 - Teléfono 1
-AP-140-1,AP,Meraki MR46,140,IDF11,NIVEL2,Apartamento 140 - AP 1
-AP-140-2,AP,Meraki MR46,140,IDF11,NIVEL2,Apartamento 140 - AP 2
-TV-140-1,TV,Apple TV 4K,140,IDF11,NIVEL2,Apartamento 140 - TV 1
-TV-140-2,TV,Apple TV 4K,140,IDF11,NIVEL2,Apartamento 140 - TV 2
-TV-140-3,TV,Apple TV 4K,140,IDF11,NIVEL2,Apartamento 140 - TV 3
-TEL-141-1,telefono,Yealink T46S,141,IDF15,NIVEL1,Apartamento 141 - Teléfono 1
-AP-141-1,AP,Meraki MR46,141,IDF15,NIVEL1,Apartamento 141 - AP 1
-AP-141-2,AP,Meraki MR46,141,IDF15,NIVEL1,Apartamento 141 - AP 2
-TV-141-1,TV,Apple TV 4K,141,IDF15,NIVEL1,Apartamento 141 - TV 1
-TV-141-2,TV,Apple TV 4K,141,IDF15,NIVEL1,Apartamento 141 - TV 2
-TV-141-3,TV,Apple TV 4K,141,IDF15,NIVEL1,Apartamento 141 - TV 3
-TV-141-4,TV,Apple TV 4K,141,IDF15,NIVEL1,Apartamento 141 - TV 4
-TEL-142-1,telefono,Yealink T46S,142,IDF3,NIVEL2,Apartamento 142 - Teléfono 1
-AP-142-1,AP,Meraki MR46,142,IDF3,NIVEL2,Apartamento 142 - AP 1
-AP-142-2,AP,Meraki MR46,142,IDF3,NIVEL2,Apartamento 142 - AP 2
-TV-142-1,TV,Apple TV 4K,142,IDF3,NIVEL2,Apartamento 142 - TV 1
-TV-142-2,TV,Apple TV 4K,142,IDF3,NIVEL2,Apartamento 142 - TV 2
-TV-142-3,TV,Apple TV 4K,142,IDF3,NIVEL2,Apartamento 142 - TV 3
-TV-142-4,TV,Apple TV 4K,142,IDF3,NIVEL2,Apartamento 142 - TV 4
-TEL-143-1,telefono,Yealink T46S,143,IDF12,NIVEL5,Apartamento 143 - Teléfono 1
-AP-143-1,AP,Meraki MR46,143,IDF12,NIVEL5,Apartamento 143 - AP 1
-AP-143-2,AP,Meraki MR46,143,IDF12,NIVEL5,Apartamento 143 - AP 2
-TV-143-1,TV,Apple TV 4K,143,IDF12,NIVEL5,Apartamento 143 - TV 1
-TV-143-2,TV,Apple TV 4K,143,IDF12,NIVEL5,Apartamento 143 - TV 2
-TV-143-3,TV,Apple TV 4K,143,IDF12,NIVEL5,Apartamento 143 - TV 3
-TEL-144-1,telefono,Yealink T46S,144,IDF3,NIVEL2,Apartamento 144 - Teléfono 1
-AP-144-1,AP,Meraki MR46,144,IDF3,NIVEL2,Apartamento 144 - AP 1
-AP-144-2,AP,Meraki MR46,144,IDF3,NIVEL2,Apartamento 144 - AP 2
-TV-144-1,TV,Apple TV 4K,144,IDF3,NIVEL2,Apartamento 144 - TV 1
-TV-144-2,TV,Apple TV 4K,144,IDF3,NIVEL2,Apartamento 144 - TV 2
-TV-144-3,TV,Apple TV 4K,144,IDF3,NIVEL2,Apartamento 144 - TV 3
-TEL-145-1,telefono,Yealink T46S,145,IDF1,NIVEL2,Apartamento 145 - Teléfono 1
-AP-145-1,AP,Meraki MR46,145,IDF1,NIVEL2,Apartamento 145 - AP 1
-AP-145-2,AP,Meraki MR46,145,IDF1,NIVEL2,Apartamento 145 - AP 2
-TV-145-1,TV,Apple TV 4K,145,IDF1,NIVEL2,Apartamento 145 - TV 1
-TV-145-2,TV,Apple TV 4K,145,IDF1,NIVEL2,Apartamento 145 - TV 2
-TEL-146-1,telefono,Yealink T46S,146,IDF7,NIVEL5,Apartamento 146 - Teléfono 1
-AP-146-1,AP,Meraki MR46,146,IDF7,NIVEL5,Apartamento 146 - AP 1
-AP-146-2,AP,Meraki MR46,146,IDF7,NIVEL5,Apartamento 146 - AP 2
-TV-146-1,TV,Apple TV 4K,146,IDF7,NIVEL5,Apartamento 146 - TV 1
-TV-146-2,TV,Apple TV 4K,146,IDF7,NIVEL5,Apartamento 146 - TV 2
-TV-146-3,TV,Apple TV 4K,146,IDF7,NIVEL5,Apartamento 146 - TV 3
-TEL-147-1,telefono,Yealink T46S,147,IDF13,NIVEL7,Apartamento 147 - Teléfono 1
-AP-147-1,AP,Meraki MR46,147,IDF13,NIVEL7,Apartamento 147 - AP 1
-AP-147-2,AP,Meraki MR46,147,IDF13,NIVEL7,Apartamento 147 - AP 2
-TV-147-1,TV,Apple TV 4K,147,IDF13,NIVEL7,Apartamento 147 - TV 1
-TV-147-2,TV,Apple TV 4K,147,IDF13,NIVEL7,Apartamento 147 - TV 2
-TV-147-3,TV,Apple TV 4K,147,IDF13,NIVEL7,Apartamento 147 - TV 3
-TV-147-4,TV,Apple TV 4K,147,IDF13,NIVEL7,Apartamento 147 - TV 4
-TEL-148-1,telefono,Yealink T46S,148,IDF13,NIVEL3,Apartamento 148 - Teléfono 1
-AP-148-1,AP,Meraki MR46,148,IDF13,NIVEL3,Apartamento 148 - AP 1
-AP-148-2,AP,Meraki MR46,148,IDF13,NIVEL3,Apartamento 148 - AP 2
-TV-148-1,TV,Apple TV 4K,148,IDF13,NIVEL3,Apartamento 148 - TV 1
-TV-148-2,TV,Apple TV 4K,148,IDF13,NIVEL3,Apartamento 148 - TV 2
-TV-148-3,TV,Apple TV 4K,148,IDF13,NIVEL3,Apartamento 148 - TV 3
-TV-148-4,TV,Apple TV 4K,148,IDF13,NIVEL3,Apartamento 148 - TV 4
-TEL-149-1,telefono,Yealink T46S,149,IDF8,NIVEL5,Apartamento 149 - Teléfono 1
-AP-149-1,AP,Meraki MR46,149,IDF8,NIVEL5,Apartamento 149 - AP 1
-AP-149-2,AP,Meraki MR46,149,IDF8,NIVEL5,Apartamento 149 - AP 2
-TV-149-1,TV,Apple TV 4K,149,IDF8,NIVEL5,Apartamento 149 - TV 1
-TV-149-2,TV,Apple TV 4K,149,IDF8,NIVEL5,Apartamento 149 - TV 2
-TV-149-3,TV,Apple TV 4K,149,IDF8,NIVEL5,Apartamento 149 - TV 3
-TEL-150-1,telefono,Yealink T46S,150,IDF12,NIVEL4,Apartamento 150 - Teléfono 1
-AP-150-1,AP,Meraki MR46,150,IDF12,NIVEL4,Apartamento 150 - AP 1
-AP-150-2,AP,Meraki MR46,150,IDF12,NIVEL4,Apartamento 150 - AP 2
-TV-150-1,TV,Apple TV 4K,150,IDF12,NIVEL4,Apartamento 150 - TV 1
-TV-150-2,TV,Apple TV 4K,150,IDF12,NIVEL4,Apartamento 150 - TV 2
-TV-150-3,TV,Apple TV 4K,150,IDF12,NIVEL4,Apartamento 150 - TV 3
-TEL-151-1,telefono,Yealink T46S,151,IDF7,NIVEL1,Apartamento 151 - Teléfono 1
-AP-151-1,AP,Meraki MR46,151,IDF7,NIVEL1,Apartamento 151 - AP 1
-AP-151-2,AP,Meraki MR46,151,IDF7,NIVEL1,Apartamento 151 - AP 2
-AP-151-3,AP,Meraki MR46,151,IDF7,NIVEL1,Apartamento 151 - AP 3
-TV-151-1,TV,Apple TV 4K,151,IDF7,NIVEL1,Apartamento 151 - TV 1
-TV-151-2,TV,Apple TV 4K,151,IDF7,NIVEL1,Apartamento 151 - TV 2
-TV-151-3,TV,Apple TV 4K,151,IDF7,NIVEL1,Apartamento 151 - TV 3
-TV-151-4,TV,Apple TV 4K,151,IDF7,NIVEL1,Apartamento 151 - TV 4
-TV-151-5,TV,Apple TV 4K,151,IDF7,NIVEL1,Apartamento 151 - TV 5
-TEL-152-1,telefono,Yealink T46S,152,IDF7,NIVEL4,Apartamento 152 - Teléfono 1
-AP-152-1,AP,Meraki MR46,152,IDF7,NIVEL4,Apartamento 152 - AP 1
-AP-152-2,AP,Meraki MR46,152,IDF7,NIVEL4,Apartamento 152 - AP 2
-TV-152-1,TV,Apple TV 4K,152,IDF7,NIVEL4,Apartamento 152 - TV 1
-TV-152-2,TV,Apple TV 4K,152,IDF7,NIVEL4,Apartamento 152 - TV 2
-TV-152-3,TV,Apple TV 4K,152,IDF7,NIVEL4,Apartamento 152 - TV 3
-TV-152-4,TV,Apple TV 4K,152,IDF7,NIVEL4,Apartamento 152 - TV 4
-TEL-153-1,telefono,Yealink T46S,153,IDF6,NIVEL6,Apartamento 153 - Teléfono 1
-AP-153-1,AP,Meraki MR46,153,IDF6,NIVEL6,Apartamento 153 - AP 1
-AP-153-2,AP,Meraki MR46,153,IDF6,NIVEL6,Apartamento 153 - AP 2
-TV-153-1,TV,Apple TV 4K,153,IDF6,NIVEL6,Apartamento 153 - TV 1
-TV-153-2,TV,Apple TV 4K,153,IDF6,NIVEL6,Apartamento 153 - TV 2
-TV-153-3,TV,Apple TV 4K,153,IDF6,NIVEL6,Apartamento 153 - TV 3
-TEL-154-1,telefono,Yealink T46S,154,IDF15,NIVEL1,Apartamento 154 - Teléfono 1
-AP-154-1,AP,Meraki MR46,154,IDF15,NIVEL1,Apartamento 154 - AP 1
-AP-154-2,AP,Meraki MR46,154,IDF15,NIVEL1,Apartamento 154 - AP 2
-TV-154-1,TV,Apple TV 4K,154,IDF15,NIVEL1,Apartamento 154 - TV 1
-TV-154-2,TV,Apple TV 4K,154,IDF15,NIVEL1,Apartamento 154 - TV 2
-TV-154-3,TV,Apple TV 4K,154,IDF15,NIVEL1,Apartamento 154 - TV 3
-TEL-155-1,telefono,Yealink T46S,155,IDF11,NIVEL2,Apartamento 155 - Teléfono 1
-AP-155-1,AP,Meraki MR46,155,IDF11,NIVEL2,Apartamento 155 - AP 1
-AP-155-2,AP,Meraki MR46,155,IDF11,NIVEL2,Apartamento 155 - AP 2
-TV-155-1,TV,Apple TV 4K,155,IDF11,NIVEL2,Apartamento 155 - TV 1
-TV-155-2,TV,Apple TV 4K,155,IDF11,NIVEL2,Apartamento 155 - TV 2
-TV-155-3,TV,Apple TV 4K,155,IDF11,NIVEL2,Apartamento 155 - TV 3
-TV-155-4,TV,Apple TV 4K,155,IDF11,NIVEL2,Apartamento 155 - TV 4
-TEL-156-1,telefono,Yealink T46S,156,IDF14,NIVEL6,Apartamento 156 - Teléfono 1
-AP-156-1,AP,Meraki MR46,156,IDF14,NIVEL6,Apartamento 156 - AP 1
-AP-156-2,AP,Meraki MR46,156,IDF14,NIVEL6,Apartamento 156 - AP 2
-TV-156-1,TV,Apple TV 4K,156,IDF14,NIVEL6,Apartamento 156 - TV 1
-TV-156-2,TV,Apple TV 4K,156,IDF14,NIVEL6,Apartamento 156 - TV 2
-TV-156-3,TV,Apple TV 4K,156,IDF14,NIVEL6,Apartamento 156 - TV 3
-TEL-157-1,telefono,Yealink T46S,157,IDF6,NIVEL3,Apartamento 157 - Teléfono 1
-AP-157-1,AP,Meraki MR46,157,IDF6,NIVEL3,Apartamento 157 - AP 1
-AP-157-2,AP,Meraki MR46,157,IDF6,NIVEL3,Apartamento 157 - AP 2
-TV-157-1,TV,Apple TV 4K,157,IDF6,NIVEL3,Apartamento 157 - TV 1
-TV-157-2,TV,Apple TV 4K,157,IDF6,NIVEL3,Apartamento 157 - TV 2
-TV-157-3,TV,Apple TV 4K,157,IDF6,NIVEL3,Apartamento 157 - TV 3
-TEL-158-1,telefono,Yealink T46S,158,IDF3,NIVEL2,Apartamento 158 - Teléfono 1
-AP-158-1,AP,Meraki MR46,158,IDF3,NIVEL2,Apartamento 158 - AP 1
-AP-158-2,AP,Meraki MR46,158,IDF3,NIVEL2,Apartamento 158 - AP 2
-TV-158-1,TV,Apple TV 4K,158,IDF3,NIVEL2,Apartamento 158 - TV 1
-TV-158-2,TV,Apple TV 4K,158,IDF3,NIVEL2,Apartamento 158 - TV 2
-TV-158-3,TV,Apple TV 4K,158,IDF3,NIVEL2,Apartamento 158 - TV 3
-TV-158-4,TV,Apple TV 4K,158,IDF3,NIVEL2,Apartamento 158 - TV 4
-TEL-159-1,telefono,Yealink T46S,159,IDF13,NIVEL6,Apartamento 159 - Teléfono 1
-AP-159-1,AP,Meraki MR46,159,IDF13,NIVEL6,Apartamento 159 - AP 1
-AP-159-2,AP,Meraki MR46,159,IDF13,NIVEL6,Apartamento 159 - AP 2
-TV-159-1,TV,Apple TV 4K,159,IDF13,NIVEL6,Apartamento 159 - TV 1
-TV-159-2,TV,Apple TV 4K,159,IDF13,NIVEL6,Apartamento 159 - TV 2
-TV-159-3,TV,Apple TV 4K,159,IDF13,NIVEL6,Apartamento 159 - TV 3
-TV-159-4,TV,Apple TV 4K,159,IDF13,NIVEL6,Apartamento 159 - TV 4
-TEL-160-1,telefono,Yealink T46S,160,IDF8,NIVEL5,Apartamento 160 - Teléfono 1
-AP-160-1,AP,Meraki MR46,160,IDF8,NIVEL5,Apartamento 160 - AP 1
-AP-160-2,AP,Meraki MR46,160,IDF8,NIVEL5,Apartamento 160 - AP 2
-TV-160-1,TV,Apple TV 4K,160,IDF8,NIVEL5,Apartamento 160 - TV 1
-TV-160-2,TV,Apple TV 4K,160,IDF8,NIVEL5,Apartamento 160 - TV 2
-TV-160-3,TV,Apple TV 4K,160,IDF8,NIVEL5,Apartamento 160 - TV 3
-TEL-161-1,telefono,Yealink T46S,161,IDF6,NIVEL4,Apartamento 161 - Teléfono 1
-AP-161-1,AP,Meraki MR46,161,IDF6,NIVEL4,Apartamento 161 - AP 1
-AP-161-2,AP,Meraki MR46,161,IDF6,NIVEL4,Apartamento 161 - AP 2
-TV-161-1,TV,Apple TV 4K,161,IDF6,NIVEL4,Apartamento 161 - TV 1
-TV-161-2,TV,Apple TV 4K,161,IDF6,NIVEL4,Apartamento 161 - TV 2
-TV-161-3,TV,Apple TV 4K,161,IDF6,NIVEL4,Apartamento 161 - TV 3
-TV-161-4,TV,Apple TV 4K,161,IDF6,NIVEL4,Apartamento 161 - TV 4
-TEL-162-1,telefono,Yealink T46S,162,IDF9,NIVEL1,Apartamento 162 - Teléfono 1
-AP-162-1,AP,Meraki MR46,162,IDF9,NIVEL1,Apartamento 162 - AP 1
-AP-162-2,AP,Meraki MR46,162,IDF9,NIVEL1,Apartamento 162 - AP 2
-TV-162-1,TV,Apple TV 4K,162,IDF9,NIVEL1,Apartamento 162 - TV 1
-TV-162-2,TV,Apple TV 4K,162,IDF9,NIVEL1,Apartamento 162 - TV 2
-TV-162-3,TV,Apple TV 4K,162,IDF9,NIVEL1,Apartamento 162 - TV 3
-TEL-163-1,telefono,Yealink T46S,163,IDF11,NIVEL6,Apartamento 163 - Teléfono 1
-AP-163-1,AP,Meraki MR46,163,IDF11,NIVEL6,Apartamento 163 - AP 1
-AP-163-2,AP,Meraki MR46,163,IDF11,NIVEL6,Apartamento 163 - AP 2
-TV-163-1,TV,Apple TV 4K,163,IDF11,NIVEL6,Apartamento 163 - TV 1
-TV-163-2,TV,Apple TV 4K,163,IDF11,NIVEL6,Apartamento 163 - TV 2
-TV-163-3,TV,Apple TV 4K,163,IDF11,NIVEL6,Apartamento 163 - TV 3
-TEL-164-1,telefono,Yealink T46S,164,IDF12,NIVEL2,Apartamento 164 - Teléfono 1
-AP-164-1,AP,Meraki MR46,164,IDF12,NIVEL2,Apartamento 164 - AP 1
-AP-164-2,AP,Meraki MR46,164,IDF12,NIVEL2,Apartamento 164 - AP 2
-TV-164-1,TV,Apple TV 4K,164,IDF12,NIVEL2,Apartamento 164 - TV 1
-TV-164-2,TV,Apple TV 4K,164,IDF12,NIVEL2,Apartamento 164 - TV 2
-TV-164-3,TV,Apple TV 4K,164,IDF12,NIVEL2,Apartamento 164 - TV 3
-TV-164-4,TV,Apple TV 4K,164,IDF12,NIVEL2,Apartamento 164 - TV 4
-TEL-165-1,telefono,Yealink T46S,165,IDF14,NIVEL4,Apartamento 165 - Teléfono 1
-AP-165-1,AP,Meraki MR46,165,IDF14,NIVEL4,Apartamento 165 - AP 1
-AP-165-2,AP,Meraki MR46,165,IDF14,NIVEL4,Apartamento 165 - AP 2
-AP-165-3,AP,Meraki MR46,165,IDF14,NIVEL4,Apartamento 165 - AP 3
-TV-165-1,TV,Apple TV 4K,165,IDF14,NIVEL4,Apartamento 165 - TV 1
-TV-165-2,TV,Apple TV 4K,165,IDF14,NIVEL4,Apartamento 165 - TV 2
-TV-165-3,TV,Apple TV 4K,165,IDF14,NIVEL4,Apartamento 165 - TV 3
-TV-165-4,TV,Apple TV 4K,165,IDF14,NIVEL4,Apartamento 165 - TV 4
-TV-165-5,TV,Apple TV 4K,165,IDF14,NIVEL4,Apartamento 165 - TV 5
-TEL-166-1,telefono,Yealink T46S,166,IDF14,NIVEL5,Apartamento 166 - Teléfono 1
-AP-166-1,AP,Meraki MR46,166,IDF14,NIVEL5,Apartamento 166 - AP 1
-AP-166-2,AP,Meraki MR46,166,IDF14,NIVEL5,Apartamento 166 - AP 2
-TV-166-1,TV,Apple TV 4K,166,IDF14,NIVEL5,Apartamento 166 - TV 1
-TV-166-2,TV,Apple TV 4K,166,IDF14,NIVEL5,Apartamento 166 - TV 2
-TV-166-3,TV,Apple TV 4K,166,IDF14,NIVEL5,Apartamento 166 - TV 3
-TEL-167-1,telefono,Yealink T46S,167,IDF4,NIVEL6,Apartamento 167 - Teléfono 1
-AP-167-1,AP,Meraki MR46,167,IDF4,NIVEL6,Apartamento 167 - AP 1
-AP-167-2,AP,Meraki MR46,167,IDF4,NIVEL6,Apartamento 167 - AP 2
-TV-167-1,TV,Apple TV 4K,167,IDF4,NIVEL6,Apartamento 167 - TV 1
-TV-167-2,TV,Apple TV 4K,167,IDF4,NIVEL6,Apartamento 167 - TV 2
-TV-167-3,TV,Apple TV 4K,167,IDF4,NIVEL6,Apartamento 167 - TV 3
-TEL-168-1,telefono,Yealink T46S,168,IDF14,NIVEL6,Apartamento 168 - Teléfono 1
-AP-168-1,AP,Meraki MR46,168,IDF14,NIVEL6,Apartamento 168 - AP 1
-AP-168-2,AP,Meraki MR46,168,IDF14,NIVEL6,Apartamento 168 - AP 2
-TV-168-1,TV,Apple TV 4K,168,IDF14,NIVEL6,Apartamento 168 - TV 1
-TV-168-2,TV,Apple TV 4K,168,IDF14,NIVEL6,Apartamento 168 - TV 2
-TV-168-3,TV,Apple TV 4K,168,IDF14,NIVEL6,Apartamento 168 - TV 3
-TV-168-4,TV,Apple TV 4K,168,IDF14,NIVEL6,Apartamento 168 - TV 4
-TEL-169-1,telefono,Yealink T46S,169,IDF5,NIVEL7,Apartamento 169 - Teléfono 1
-AP-169-1,AP,Meraki MR46,169,IDF5,NIVEL7,Apartamento 169 - AP 1
-AP-169-2,AP,Meraki MR46,169,IDF5,NIVEL7,Apartamento 169 - AP 2
-AP-169-3,AP,Meraki MR46,169,IDF5,NIVEL7,Apartamento 169 - AP 3
-TV-169-1,TV,Apple TV 4K,169,IDF5,NIVEL7,Apartamento 169 - TV 1
-TV-169-2,TV,Apple TV 4K,169,IDF5,NIVEL7,Apartamento 169 - TV 2
-TV-169-3,TV,Apple TV 4K,169,IDF5,NIVEL7,Apartamento 169 - TV 3
-TV-169-4,TV,Apple TV 4K,169,IDF5,NIVEL7,Apartamento 169 - TV 4
-TV-169-5,TV,Apple TV 4K,169,IDF5,NIVEL7,Apartamento 169 - TV 5
-TEL-170-1,telefono,Yealink T46S,170,IDF9,NIVEL4,Apartamento 170 - Teléfono 1
-AP-170-1,AP,Meraki MR46,170,IDF9,NIVEL4,Apartamento 170 - AP 1
-AP-170-2,AP,Meraki MR46,170,IDF9,NIVEL4,Apartamento 170 - AP 2
-TV-170-1,TV,Apple TV 4K,170,IDF9,NIVEL4,Apartamento 170 - TV 1
-TV-170-2,TV,Apple TV 4K,170,IDF9,NIVEL4,Apartamento 170 - TV 2
-TV-170-3,TV,Apple TV 4K,170,IDF9,NIVEL4,Apartamento 170 - TV 3
-TV-170-4,TV,Apple TV 4K,170,IDF9,NIVEL4,Apartamento 170 - TV 4
-TEL-171-1,telefono,Yealink T46S,171,IDF14,NIVEL2,Apartamento 171 - Teléfono 1
-AP-171-1,AP,Meraki MR46,171,IDF14,NIVEL2,Apartamento 171 - AP 1
-AP-171-2,AP,Meraki MR46,171,IDF14,NIVEL2,Apartamento 171 - AP 2
-TV-171-1,TV,Apple TV 4K,171,IDF14,NIVEL2,Apartamento 171 - TV 1
-TV-171-2,TV,Apple TV 4K,171,IDF14,NIVEL2,Apartamento 171 - TV 2
-TV-171-3,TV,Apple TV 4K,171,IDF14,NIVEL2,Apartamento 171 - TV 3
-TEL-172-1,telefono,Yealink T46S,172,IDF8,NIVEL7,Apartamento 172 - Teléfono 1
-AP-172-1,AP,Meraki MR46,172,IDF8,NIVEL7,Apartamento 172 - AP 1
-AP-172-2,AP,Meraki MR46,172,IDF8,NIVEL7,Apartamento 172 - AP 2
-TV-172-1,TV,Apple TV 4K,172,IDF8,NIVEL7,Apartamento 172 - TV 1
-TV-172-2,TV,Apple TV 4K,172,IDF8,NIVEL7,Apartamento 172 - TV 2
-TV-172-3,TV,Apple TV 4K,172,IDF8,NIVEL7,Apartamento 172 - TV 3
-TV-172-4,TV,Apple TV 4K,172,IDF8,NIVEL7,Apartamento 172 - TV 4
-TEL-173-1,telefono,Yealink T46S,173,IDF9,NIVEL3,Apartamento 173 - Teléfono 1
-AP-173-1,AP,Meraki MR46,173,IDF9,NIVEL3,Apartamento 173 - AP 1
-AP-173-2,AP,Meraki MR46,173,IDF9,NIVEL3,Apartamento 173 - AP 2
-TV-173-1,TV,Apple TV 4K,173,IDF9,NIVEL3,Apartamento 173 - TV 1
-TV-173-2,TV,Apple TV 4K,173,IDF9,NIVEL3,Apartamento 173 - TV 2
-TV-173-3,TV,Apple TV 4K,173,IDF9,NIVEL3,Apartamento 173 - TV 3
-TEL-174-1,telefono,Yealink T46S,174,IDF8,NIVEL1,Apartamento 174 - Teléfono 1
-AP-174-1,AP,Meraki MR46,174,IDF8,NIVEL1,Apartamento 174 - AP 1
-AP-174-2,AP,Meraki MR46,174,IDF8,NIVEL1,Apartamento 174 - AP 2
-TV-174-1,TV,Apple TV 4K,174,IDF8,NIVEL1,Apartamento 174 - TV 1
-TV-174-2,TV,Apple TV 4K,174,IDF8,NIVEL1,Apartamento 174 - TV 2
-TV-174-3,TV,Apple TV 4K,174,IDF8,NIVEL1,Apartamento 174 - TV 3
-TEL-175-1,telefono,Yealink T46S,175,IDF5,NIVEL1,Apartamento 175 - Teléfono 1
-AP-175-1,AP,Meraki MR46,175,IDF5,NIVEL1,Apartamento 175 - AP 1
-AP-175-2,AP,Meraki MR46,175,IDF5,NIVEL1,Apartamento 175 - AP 2
-TV-175-1,TV,Apple TV 4K,175,IDF5,NIVEL1,Apartamento 175 - TV 1
-TV-175-2,TV,Apple TV 4K,175,IDF5,NIVEL1,Apartamento 175 - TV 2
-TV-175-3,TV,Apple TV 4K,175,IDF5,NIVEL1,Apartamento 175 - TV 3
-TEL-176-1,telefono,Yealink T46S,176,IDF13,NIVEL5,Apartamento 176 - Teléfono 1
-AP-176-1,AP,Meraki MR46,176,IDF13,NIVEL5,Apartamento 176 - AP 1
-AP-176-2,AP,Meraki MR46,176,IDF13,NIVEL5,Apartamento 176 - AP 2
-AP-176-3,AP,Meraki MR46,176,IDF13,NIVEL5,Apartamento 176 - AP 3
-TV-176-1,TV,Apple TV 4K,176,IDF13,NIVEL5,Apartamento 176 - TV 1
-TV-176-2,TV,Apple TV 4K,176,IDF13,NIVEL5,Apartamento 176 - TV 2
-TV-176-3,TV,Apple TV 4K,176,IDF13,NIVEL5,Apartamento 176 - TV 3
-TV-176-4,TV,Apple TV 4K,176,IDF13,NIVEL5,Apartamento 176 - TV 4
-TV-176-5,TV,Apple TV 4K,176,IDF13,NIVEL5,Apartamento 176 - TV 5
-TEL-177-1,telefono,Yealink T46S,177,IDF6,NIVEL3,Apartamento 177 - Teléfono 1
-AP-177-1,AP,Meraki MR46,177,IDF6,NIVEL3,Apartamento 177 - AP 1
-AP-177-2,AP,Meraki MR46,177,IDF6,NIVEL3,Apartamento 177 - AP 2
-TV-177-1,TV,Apple TV 4K,177,IDF6,NIVEL3,Apartamento 177 - TV 1
-TV-177-2,TV,Apple TV 4K,177,IDF6,NIVEL3,Apartamento 177 - TV 2
-TV-177-3,TV,Apple TV 4K,177,IDF6,NIVEL3,Apartamento 177 - TV 3
-TV-177-4,TV,Apple TV 4K,177,IDF6,NIVEL3,Apartamento 177 - TV 4
-TEL-178-1,telefono,Yealink T46S,178,IDF10,NIVEL2,Apartamento 178 - Teléfono 1
-AP-178-1,AP,Meraki MR46,178,IDF10,NIVEL2,Apartamento 178 - AP 1
-AP-178-2,AP,Meraki MR46,178,IDF10,NIVEL2,Apartamento 178 - AP 2
-TV-178-1,TV,Apple TV 4K,178,IDF10,NIVEL2,Apartamento 178 - TV 1
-TV-178-2,TV,Apple TV 4K,178,IDF10,NIVEL2,Apartamento 178 - TV 2
-TV-178-3,TV,Apple TV 4K,178,IDF10,NIVEL2,Apartamento 178 - TV 3
-TEL-179-1,telefono,Yealink T46S,179,IDF14,NIVEL7,Apartamento 179 - Teléfono 1
-AP-179-1,AP,Meraki MR46,179,IDF14,NIVEL7,Apartamento 179 - AP 1
-AP-179-2,AP,Meraki MR46,179,IDF14,NIVEL7,Apartamento 179 - AP 2
-TV-179-1,TV,Apple TV 4K,179,IDF14,NIVEL7,Apartamento 179 - TV 1
-TV-179-2,TV,Apple TV 4K,179,IDF14,NIVEL7,Apartamento 179 - TV 2
-TV-179-3,TV,Apple TV 4K,179,IDF14,NIVEL7,Apartamento 179 - TV 3
-TEL-180-1,telefono,Yealink T46S,180,IDF7,NIVEL4,Apartamento 180 - Teléfono 1
-AP-180-1,AP,Meraki MR46,180,IDF7,NIVEL4,Apartamento 180 - AP 1
-AP-180-2,AP,Meraki MR46,180,IDF7,NIVEL4,Apartamento 180 - AP 2
-TV-180-1,TV,Apple TV 4K,180,IDF7,NIVEL4,Apartamento 180 - TV 1
-TV-180-2,TV,Apple TV 4K,180,IDF7,NIVEL4,Apartamento 180 - TV 2
-TV-180-3,TV,Apple TV 4K,180,IDF7,NIVEL4,Apartamento 180 - TV 3
-TV-180-4,TV,Apple TV 4K,180,IDF7,NIVEL4,Apartamento 180 - TV 4
-TEL-181-1,telefono,Yealink T46S,181,IDF10,NIVEL1,Apartamento 181 - Teléfono 1
-AP-181-1,AP,Meraki MR46,181,IDF10,NIVEL1,Apartamento 181 - AP 1
-AP-181-2,AP,Meraki MR46,181,IDF10,NIVEL1,Apartamento 181 - AP 2
-TV-181-1,TV,Apple TV 4K,181,IDF10,NIVEL1,Apartamento 181 - TV 1
-TV-181-2,TV,Apple TV 4K,181,IDF10,NIVEL1,Apartamento 181 - TV 2
-TV-181-3,TV,Apple TV 4K,181,IDF10,NIVEL1,Apartamento 181 - TV 3
-TEL-182-1,telefono,Yealink T46S,182,IDF10,NIVEL3,Apartamento 182 - Teléfono 1
-AP-182-1,AP,Meraki MR46,182,IDF10,NIVEL3,Apartamento 182 - AP 1
-AP-182-2,AP,Meraki MR46,182,IDF10,NIVEL3,Apartamento 182 - AP 2
-TV-182-1,TV,Apple TV 4K,182,IDF10,NIVEL3,Apartamento 182 - TV 1
-TV-182-2,TV,Apple TV 4K,182,IDF10,NIVEL3,Apartamento 182 - TV 2
-TV-182-3,TV,Apple TV 4K,182,IDF10,NIVEL3,Apartamento 182 - TV 3
-TEL-183-1,telefono,Yealink T46S,183,IDF15,NIVEL4,Apartamento 183 - Teléfono 1
-AP-183-1,AP,Meraki MR46,183,IDF15,NIVEL4,Apartamento 183 - AP 1
-AP-183-2,AP,Meraki MR46,183,IDF15,NIVEL4,Apartamento 183 - AP 2
-TV-183-1,TV,Apple TV 4K,183,IDF15,NIVEL4,Apartamento 183 - TV 1
-TV-183-2,TV,Apple TV 4K,183,IDF15,NIVEL4,Apartamento 183 - TV 2
-TV-183-3,TV,Apple TV 4K,183,IDF15,NIVEL4,Apartamento 183 - TV 3
-TEL-184-1,telefono,Yealink T46S,184,IDF8,NIVEL3,Apartamento 184 - Teléfono 1
-AP-184-1,AP,Meraki MR46,184,IDF8,NIVEL3,Apartamento 184 - AP 1
-AP-184-2,AP,Meraki MR46,184,IDF8,NIVEL3,Apartamento 184 - AP 2
-TV-184-1,TV,Apple TV 4K,184,IDF8,NIVEL3,Apartamento 184 - TV 1
-TV-184-2,TV,Apple TV 4K,184,IDF8,NIVEL3,Apartamento 184 - TV 2
-TV-184-3,TV,Apple TV 4K,184,IDF8,NIVEL3,Apartamento 184 - TV 3
-TEL-185-1,telefono,Yealink T46S,185,IDF15,NIVEL5,Apartamento 185 - Teléfono 1
-AP-185-1,AP,Meraki MR46,185,IDF15,NIVEL5,Apartamento 185 - AP 1
-AP-185-2,AP,Meraki MR46,185,IDF15,NIVEL5,Apartamento 185 - AP 2
-AP-185-3,AP,Meraki MR46,185,IDF15,NIVEL5,Apartamento 185 - AP 3
-TV-185-1,TV,Apple TV 4K,185,IDF15,NIVEL5,Apartamento 185 - TV 1
-TV-185-2,TV,Apple TV 4K,185,IDF15,NIVEL5,Apartamento 185 - TV 2
-TV-185-3,TV,Apple TV 4K,185,IDF15,NIVEL5,Apartamento 185 - TV 3
-TV-185-4,TV,Apple TV 4K,185,IDF15,NIVEL5,Apartamento 185 - TV 4
-TV-185-5,TV,Apple TV 4K,185,IDF15,NIVEL5,Apartamento 185 - TV 5
-TEL-186-1,telefono,Yealink T46S,186,IDF15,NIVEL6,Apartamento 186 - Teléfono 1
-AP-186-1,AP,Meraki MR46,186,IDF15,NIVEL6,Apartamento 186 - AP 1
-AP-186-2,AP,Meraki MR46,186,IDF15,NIVEL6,Apartamento 186 - AP 2
-TV-186-1,TV,Apple TV 4K,186,IDF15,NIVEL6,Apartamento 186 - TV 1
-TV-186-2,TV,Apple TV 4K,186,IDF15,NIVEL6,Apartamento 186 - TV 2
-TV-186-3,TV,Apple TV 4K,186,IDF15,NIVEL6,Apartamento 186 - TV 3
-TV-186-4,TV,Apple TV 4K,186,IDF15,NIVEL6,Apartamento 186 - TV 4
+TEL-9-1,telefono,Yealink T46S,9,IDF10,NIVEL6,Apartamento 9 - Teléfono 1
+AP-9-1,AP,Meraki MR46,9,IDF10,NIVEL6,Apartamento 9 - AP 1
+AP-9-2,AP,Meraki MR46,9,IDF10,NIVEL6,Apartamento 9 - AP 2
+TV-9-1,TV,Apple TV 4K,9,IDF10,NIVEL6,Apartamento 9 - TV 1
+TV-9-2,TV,Apple TV 4K,9,IDF10,NIVEL6,Apartamento 9 - TV 2
+TV-9-3,TV,Apple TV 4K,9,IDF10,NIVEL6,Apartamento 9 - TV 3
+TEL-10-1,telefono,Yealink T46S,10,IDF2,NIVEL3,Apartamento 10 - Teléfono 1
+AP-10-1,AP,Meraki MR46,10,IDF2,NIVEL3,Apartamento 10 - AP 1
+AP-10-2,AP,Meraki MR46,10,IDF2,NIVEL3,Apartamento 10 - AP 2
+TV-10-1,TV,Apple TV 4K,10,IDF2,NIVEL3,Apartamento 10 - TV 1
+TV-10-2,TV,Apple TV 4K,10,IDF2,NIVEL3,Apartamento 10 - TV 2
+TV-10-3,TV,Apple TV 4K,10,IDF2,NIVEL3,Apartamento 10 - TV 3
+TEL-11-1,telefono,Yealink T46S,11,IDF5,NIVEL6,Apartamento 11 - Teléfono 1
+AP-11-1,AP,Meraki MR46,11,IDF5,NIVEL6,Apartamento 11 - AP 1
+AP-11-2,AP,Meraki MR46,11,IDF5,NIVEL6,Apartamento 11 - AP 2
+TV-11-1,TV,Apple TV 4K,11,IDF5,NIVEL6,Apartamento 11 - TV 1
+TV-11-2,TV,Apple TV 4K,11,IDF5,NIVEL6,Apartamento 11 - TV 2
+TV-11-3,TV,Apple TV 4K,11,IDF5,NIVEL6,Apartamento 11 - TV 3
+TV-11-4,TV,Apple TV 4K,11,IDF5,NIVEL6,Apartamento 11 - TV 4
+TEL-12-1,telefono,Yealink T46S,12,IDF7,NIVEL3,Apartamento 12 - Teléfono 1
+AP-12-1,AP,Meraki MR46,12,IDF7,NIVEL3,Apartamento 12 - AP 1
+AP-12-2,AP,Meraki MR46,12,IDF7,NIVEL3,Apartamento 12 - AP 2
+TV-12-1,TV,Apple TV 4K,12,IDF7,NIVEL3,Apartamento 12 - TV 1
+TV-12-2,TV,Apple TV 4K,12,IDF7,NIVEL3,Apartamento 12 - TV 2
+TV-12-3,TV,Apple TV 4K,12,IDF7,NIVEL3,Apartamento 12 - TV 3
+TV-12-4,TV,Apple TV 4K,12,IDF7,NIVEL3,Apartamento 12 - TV 4
+TEL-13-1,telefono,Yealink T46S,13,IDF8,NIVEL7,Apartamento 13 - Teléfono 1
+AP-13-1,AP,Meraki MR46,13,IDF8,NIVEL7,Apartamento 13 - AP 1
+AP-13-2,AP,Meraki MR46,13,IDF8,NIVEL7,Apartamento 13 - AP 2
+TV-13-1,TV,Apple TV 4K,13,IDF8,NIVEL7,Apartamento 13 - TV 1
+TV-13-2,TV,Apple TV 4K,13,IDF8,NIVEL7,Apartamento 13 - TV 2
+TV-13-3,TV,Apple TV 4K,13,IDF8,NIVEL7,Apartamento 13 - TV 3
+TV-13-4,TV,Apple TV 4K,13,IDF8,NIVEL7,Apartamento 13 - TV 4
+TEL-14-1,telefono,Yealink T46S,14,IDF13,NIVEL1,Apartamento 14 - Teléfono 1
+AP-14-1,AP,Meraki MR46,14,IDF13,NIVEL1,Apartamento 14 - AP 1
+AP-14-2,AP,Meraki MR46,14,IDF13,NIVEL1,Apartamento 14 - AP 2
+AP-14-3,AP,Meraki MR46,14,IDF13,NIVEL1,Apartamento 14 - AP 3
+TV-14-1,TV,Apple TV 4K,14,IDF13,NIVEL1,Apartamento 14 - TV 1
+TV-14-2,TV,Apple TV 4K,14,IDF13,NIVEL1,Apartamento 14 - TV 2
+TV-14-3,TV,Apple TV 4K,14,IDF13,NIVEL1,Apartamento 14 - TV 3
+TV-14-4,TV,Apple TV 4K,14,IDF13,NIVEL1,Apartamento 14 - TV 4
+TV-14-5,TV,Apple TV 4K,14,IDF13,NIVEL1,Apartamento 14 - TV 5
+TEL-15-1,telefono,Yealink T46S,15,IDF5,NIVEL1,Apartamento 15 - Teléfono 1
+AP-15-1,AP,Meraki MR46,15,IDF5,NIVEL1,Apartamento 15 - AP 1
+AP-15-2,AP,Meraki MR46,15,IDF5,NIVEL1,Apartamento 15 - AP 2
+TV-15-1,TV,Apple TV 4K,15,IDF5,NIVEL1,Apartamento 15 - TV 1
+TV-15-2,TV,Apple TV 4K,15,IDF5,NIVEL1,Apartamento 15 - TV 2
+TV-15-3,TV,Apple TV 4K,15,IDF5,NIVEL1,Apartamento 15 - TV 3
+TV-15-4,TV,Apple TV 4K,15,IDF5,NIVEL1,Apartamento 15 - TV 4
+TEL-16-1,telefono,Yealink T46S,16,IDF15,NIVEL3,Apartamento 16 - Teléfono 1
+AP-16-1,AP,Meraki MR46,16,IDF15,NIVEL3,Apartamento 16 - AP 1
+AP-16-2,AP,Meraki MR46,16,IDF15,NIVEL3,Apartamento 16 - AP 2
+TV-16-1,TV,Apple TV 4K,16,IDF15,NIVEL3,Apartamento 16 - TV 1
+TV-16-2,TV,Apple TV 4K,16,IDF15,NIVEL3,Apartamento 16 - TV 2
+TV-16-3,TV,Apple TV 4K,16,IDF15,NIVEL3,Apartamento 16 - TV 3
+TEL-17-1,telefono,Yealink T46S,17,IDF3,NIVEL6,Apartamento 17 - Teléfono 1
+AP-17-1,AP,Meraki MR46,17,IDF3,NIVEL6,Apartamento 17 - AP 1
+AP-17-2,AP,Meraki MR46,17,IDF3,NIVEL6,Apartamento 17 - AP 2
+TV-17-1,TV,Apple TV 4K,17,IDF3,NIVEL6,Apartamento 17 - TV 1
+TV-17-2,TV,Apple TV 4K,17,IDF3,NIVEL6,Apartamento 17 - TV 2
+TV-17-3,TV,Apple TV 4K,17,IDF3,NIVEL6,Apartamento 17 - TV 3
+TEL-18-1,telefono,Yealink T46S,18,IDF7,NIVEL2,Apartamento 18 - Teléfono 1
+AP-18-1,AP,Meraki MR46,18,IDF7,NIVEL2,Apartamento 18 - AP 1
+AP-18-2,AP,Meraki MR46,18,IDF7,NIVEL2,Apartamento 18 - AP 2
+TV-18-1,TV,Apple TV 4K,18,IDF7,NIVEL2,Apartamento 18 - TV 1
+TV-18-2,TV,Apple TV 4K,18,IDF7,NIVEL2,Apartamento 18 - TV 2
+TV-18-3,TV,Apple TV 4K,18,IDF7,NIVEL2,Apartamento 18 - TV 3
+TV-18-4,TV,Apple TV 4K,18,IDF7,NIVEL2,Apartamento 18 - TV 4
+TEL-19-1,telefono,Yealink T46S,19,IDF11,NIVEL6,Apartamento 19 - Teléfono 1
+AP-19-1,AP,Meraki MR46,19,IDF11,NIVEL6,Apartamento 19 - AP 1
+AP-19-2,AP,Meraki MR46,19,IDF11,NIVEL6,Apartamento 19 - AP 2
+AP-19-3,AP,Meraki MR46,19,IDF11,NIVEL6,Apartamento 19 - AP 3
+TV-19-1,TV,Apple TV 4K,19,IDF11,NIVEL6,Apartamento 19 - TV 1
+TV-19-2,TV,Apple TV 4K,19,IDF11,NIVEL6,Apartamento 19 - TV 2
+TV-19-3,TV,Apple TV 4K,19,IDF11,NIVEL6,Apartamento 19 - TV 3
+TV-19-4,TV,Apple TV 4K,19,IDF11,NIVEL6,Apartamento 19 - TV 4
+TV-19-5,TV,Apple TV 4K,19,IDF11,NIVEL6,Apartamento 19 - TV 5
+TEL-20-1,telefono,Yealink T46S,20,IDF2,NIVEL5,Apartamento 20 - Teléfono 1
+AP-20-1,AP,Meraki MR46,20,IDF2,NIVEL5,Apartamento 20 - AP 1
+AP-20-2,AP,Meraki MR46,20,IDF2,NIVEL5,Apartamento 20 - AP 2
+TV-20-1,TV,Apple TV 4K,20,IDF2,NIVEL5,Apartamento 20 - TV 1
+TV-20-2,TV,Apple TV 4K,20,IDF2,NIVEL5,Apartamento 20 - TV 2
+TV-20-3,TV,Apple TV 4K,20,IDF2,NIVEL5,Apartamento 20 - TV 3
+TV-20-4,TV,Apple TV 4K,20,IDF2,NIVEL5,Apartamento 20 - TV 4
+TEL-21-1,telefono,Yealink T46S,21,IDF6,NIVEL2,Apartamento 21 - Teléfono 1
+AP-21-1,AP,Meraki MR46,21,IDF6,NIVEL2,Apartamento 21 - AP 1
+AP-21-2,AP,Meraki MR46,21,IDF6,NIVEL2,Apartamento 21 - AP 2
+TV-21-1,TV,Apple TV 4K,21,IDF6,NIVEL2,Apartamento 21 - TV 1
+TV-21-2,TV,Apple TV 4K,21,IDF6,NIVEL2,Apartamento 21 - TV 2
+TV-21-3,TV,Apple TV 4K,21,IDF6,NIVEL2,Apartamento 21 - TV 3
+TEL-22-1,telefono,Yealink T46S,22,IDF9,NIVEL1,Apartamento 22 - Teléfono 1
+AP-22-1,AP,Meraki MR46,22,IDF9,NIVEL1,Apartamento 22 - AP 1
+AP-22-2,AP,Meraki MR46,22,IDF9,NIVEL1,Apartamento 22 - AP 2
+TV-22-1,TV,Apple TV 4K,22,IDF9,NIVEL1,Apartamento 22 - TV 1
+TV-22-2,TV,Apple TV 4K,22,IDF9,NIVEL1,Apartamento 22 - TV 2
+TV-22-3,TV,Apple TV 4K,22,IDF9,NIVEL1,Apartamento 22 - TV 3
+TEL-23-1,telefono,Yealink T46S,23,IDF14,NIVEL6,Apartamento 23 - Teléfono 1
+AP-23-1,AP,Meraki MR46,23,IDF14,NIVEL6,Apartamento 23 - AP 1
+AP-23-2,AP,Meraki MR46,23,IDF14,NIVEL6,Apartamento 23 - AP 2
+TV-23-1,TV,Apple TV 4K,23,IDF14,NIVEL6,Apartamento 23 - TV 1
+TV-23-2,TV,Apple TV 4K,23,IDF14,NIVEL6,Apartamento 23 - TV 2
+TV-23-3,TV,Apple TV 4K,23,IDF14,NIVEL6,Apartamento 23 - TV 3
+TEL-24-1,telefono,Yealink T46S,24,IDF6,NIVEL3,Apartamento 24 - Teléfono 1
+AP-24-1,AP,Meraki MR46,24,IDF6,NIVEL3,Apartamento 24 - AP 1
+AP-24-2,AP,Meraki MR46,24,IDF6,NIVEL3,Apartamento 24 - AP 2
+AP-24-3,AP,Meraki MR46,24,IDF6,NIVEL3,Apartamento 24 - AP 3
+TV-24-1,TV,Apple TV 4K,24,IDF6,NIVEL3,Apartamento 24 - TV 1
+TV-24-2,TV,Apple TV 4K,24,IDF6,NIVEL3,Apartamento 24 - TV 2
+TV-24-3,TV,Apple TV 4K,24,IDF6,NIVEL3,Apartamento 24 - TV 3
+TV-24-4,TV,Apple TV 4K,24,IDF6,NIVEL3,Apartamento 24 - TV 4
+TV-24-5,TV,Apple TV 4K,24,IDF6,NIVEL3,Apartamento 24 - TV 5
+TEL-25-1,telefono,Yealink T46S,25,IDF14,NIVEL3,Apartamento 25 - Teléfono 1
+AP-25-1,AP,Meraki MR46,25,IDF14,NIVEL3,Apartamento 25 - AP 1
+AP-25-2,AP,Meraki MR46,25,IDF14,NIVEL3,Apartamento 25 - AP 2
+TV-25-1,TV,Apple TV 4K,25,IDF14,NIVEL3,Apartamento 25 - TV 1
+TV-25-2,TV,Apple TV 4K,25,IDF14,NIVEL3,Apartamento 25 - TV 2
+TV-25-3,TV,Apple TV 4K,25,IDF14,NIVEL3,Apartamento 25 - TV 3
+TEL-26-1,telefono,Yealink T46S,26,IDF4,NIVEL2,Apartamento 26 - Teléfono 1
+AP-26-1,AP,Meraki MR46,26,IDF4,NIVEL2,Apartamento 26 - AP 1
+AP-26-2,AP,Meraki MR46,26,IDF4,NIVEL2,Apartamento 26 - AP 2
+TV-26-1,TV,Apple TV 4K,26,IDF4,NIVEL2,Apartamento 26 - TV 1
+TV-26-2,TV,Apple TV 4K,26,IDF4,NIVEL2,Apartamento 26 - TV 2
+TV-26-3,TV,Apple TV 4K,26,IDF4,NIVEL2,Apartamento 26 - TV 3
+TEL-27-1,telefono,Yealink T46S,27,IDF14,NIVEL1,Apartamento 27 - Teléfono 1
+AP-27-1,AP,Meraki MR46,27,IDF14,NIVEL1,Apartamento 27 - AP 1
+AP-27-2,AP,Meraki MR46,27,IDF14,NIVEL1,Apartamento 27 - AP 2
+TV-27-1,TV,Apple TV 4K,27,IDF14,NIVEL1,Apartamento 27 - TV 1
+TV-27-2,TV,Apple TV 4K,27,IDF14,NIVEL1,Apartamento 27 - TV 2
+TV-27-3,TV,Apple TV 4K,27,IDF14,NIVEL1,Apartamento 27 - TV 3
+TEL-28-1,telefono,Yealink T46S,28,IDF12,NIVEL5,Apartamento 28 - Teléfono 1
+AP-28-1,AP,Meraki MR46,28,IDF12,NIVEL5,Apartamento 28 - AP 1
+AP-28-2,AP,Meraki MR46,28,IDF12,NIVEL5,Apartamento 28 - AP 2
+TV-28-1,TV,Apple TV 4K,28,IDF12,NIVEL5,Apartamento 28 - TV 1
+TV-28-2,TV,Apple TV 4K,28,IDF12,NIVEL5,Apartamento 28 - TV 2
+TEL-29-1,telefono,Yealink T46S,29,IDF12,NIVEL1,Apartamento 29 - Teléfono 1
+AP-29-1,AP,Meraki MR46,29,IDF12,NIVEL1,Apartamento 29 - AP 1
+AP-29-2,AP,Meraki MR46,29,IDF12,NIVEL1,Apartamento 29 - AP 2
+TV-29-1,TV,Apple TV 4K,29,IDF12,NIVEL1,Apartamento 29 - TV 1
+TV-29-2,TV,Apple TV 4K,29,IDF12,NIVEL1,Apartamento 29 - TV 2
+TV-29-3,TV,Apple TV 4K,29,IDF12,NIVEL1,Apartamento 29 - TV 3
+TEL-30-1,telefono,Yealink T46S,30,IDF10,NIVEL5,Apartamento 30 - Teléfono 1
+AP-30-1,AP,Meraki MR46,30,IDF10,NIVEL5,Apartamento 30 - AP 1
+AP-30-2,AP,Meraki MR46,30,IDF10,NIVEL5,Apartamento 30 - AP 2
+TV-30-1,TV,Apple TV 4K,30,IDF10,NIVEL5,Apartamento 30 - TV 1
+TV-30-2,TV,Apple TV 4K,30,IDF10,NIVEL5,Apartamento 30 - TV 2
+TV-30-3,TV,Apple TV 4K,30,IDF10,NIVEL5,Apartamento 30 - TV 3
+TV-30-4,TV,Apple TV 4K,30,IDF10,NIVEL5,Apartamento 30 - TV 4
+TEL-31-1,telefono,Yealink T46S,31,IDF2,NIVEL6,Apartamento 31 - Teléfono 1
+AP-31-1,AP,Meraki MR46,31,IDF2,NIVEL6,Apartamento 31 - AP 1
+AP-31-2,AP,Meraki MR46,31,IDF2,NIVEL6,Apartamento 31 - AP 2
+TV-31-1,TV,Apple TV 4K,31,IDF2,NIVEL6,Apartamento 31 - TV 1
+TV-31-2,TV,Apple TV 4K,31,IDF2,NIVEL6,Apartamento 31 - TV 2
+TV-31-3,TV,Apple TV 4K,31,IDF2,NIVEL6,Apartamento 31 - TV 3
+TEL-32-1,telefono,Yealink T46S,32,IDF6,NIVEL1,Apartamento 32 - Teléfono 1
+AP-32-1,AP,Meraki MR46,32,IDF6,NIVEL1,Apartamento 32 - AP 1
+AP-32-2,AP,Meraki MR46,32,IDF6,NIVEL1,Apartamento 32 - AP 2
+TV-32-1,TV,Apple TV 4K,32,IDF6,NIVEL1,Apartamento 32 - TV 1
+TV-32-2,TV,Apple TV 4K,32,IDF6,NIVEL1,Apartamento 32 - TV 2
+TV-32-3,TV,Apple TV 4K,32,IDF6,NIVEL1,Apartamento 32 - TV 3
+TEL-33-1,telefono,Yealink T46S,33,IDF15,NIVEL2,Apartamento 33 - Teléfono 1
+AP-33-1,AP,Meraki MR46,33,IDF15,NIVEL2,Apartamento 33 - AP 1
+AP-33-2,AP,Meraki MR46,33,IDF15,NIVEL2,Apartamento 33 - AP 2
+TV-33-1,TV,Apple TV 4K,33,IDF15,NIVEL2,Apartamento 33 - TV 1
+TV-33-2,TV,Apple TV 4K,33,IDF15,NIVEL2,Apartamento 33 - TV 2
+TV-33-3,TV,Apple TV 4K,33,IDF15,NIVEL2,Apartamento 33 - TV 3
+TEL-34-1,telefono,Yealink T46S,34,IDF13,NIVEL7,Apartamento 34 - Teléfono 1
+AP-34-1,AP,Meraki MR46,34,IDF13,NIVEL7,Apartamento 34 - AP 1
+AP-34-2,AP,Meraki MR46,34,IDF13,NIVEL7,Apartamento 34 - AP 2
+TV-34-1,TV,Apple TV 4K,34,IDF13,NIVEL7,Apartamento 34 - TV 1
+TV-34-2,TV,Apple TV 4K,34,IDF13,NIVEL7,Apartamento 34 - TV 2
+TV-34-3,TV,Apple TV 4K,34,IDF13,NIVEL7,Apartamento 34 - TV 3
+TEL-35-1,telefono,Yealink T46S,35,IDF11,NIVEL5,Apartamento 35 - Teléfono 1
+AP-35-1,AP,Meraki MR46,35,IDF11,NIVEL5,Apartamento 35 - AP 1
+AP-35-2,AP,Meraki MR46,35,IDF11,NIVEL5,Apartamento 35 - AP 2
+TV-35-1,TV,Apple TV 4K,35,IDF11,NIVEL5,Apartamento 35 - TV 1
+TV-35-2,TV,Apple TV 4K,35,IDF11,NIVEL5,Apartamento 35 - TV 2
+TV-35-3,TV,Apple TV 4K,35,IDF11,NIVEL5,Apartamento 35 - TV 3
+TEL-36-1,telefono,Yealink T46S,36,IDF3,NIVEL7,Apartamento 36 - Teléfono 1
+AP-36-1,AP,Meraki MR46,36,IDF3,NIVEL7,Apartamento 36 - AP 1
+AP-36-2,AP,Meraki MR46,36,IDF3,NIVEL7,Apartamento 36 - AP 2
+AP-36-3,AP,Meraki MR46,36,IDF3,NIVEL7,Apartamento 36 - AP 3
+TV-36-1,TV,Apple TV 4K,36,IDF3,NIVEL7,Apartamento 36 - TV 1
+TV-36-2,TV,Apple TV 4K,36,IDF3,NIVEL7,Apartamento 36 - TV 2
+TV-36-3,TV,Apple TV 4K,36,IDF3,NIVEL7,Apartamento 36 - TV 3
+TV-36-4,TV,Apple TV 4K,36,IDF3,NIVEL7,Apartamento 36 - TV 4
+TV-36-5,TV,Apple TV 4K,36,IDF3,NIVEL7,Apartamento 36 - TV 5
+TEL-37-1,telefono,Yealink T46S,37,IDF8,NIVEL3,Apartamento 37 - Teléfono 1
+AP-37-1,AP,Meraki MR46,37,IDF8,NIVEL3,Apartamento 37 - AP 1
+AP-37-2,AP,Meraki MR46,37,IDF8,NIVEL3,Apartamento 37 - AP 2
+TV-37-1,TV,Apple TV 4K,37,IDF8,NIVEL3,Apartamento 37 - TV 1
+TV-37-2,TV,Apple TV 4K,37,IDF8,NIVEL3,Apartamento 37 - TV 2
+TV-37-3,TV,Apple TV 4K,37,IDF8,NIVEL3,Apartamento 37 - TV 3
+TV-37-4,TV,Apple TV 4K,37,IDF8,NIVEL3,Apartamento 37 - TV 4
+TEL-38-1,telefono,Yealink T46S,38,IDF10,NIVEL3,Apartamento 38 - Teléfono 1
+AP-38-1,AP,Meraki MR46,38,IDF10,NIVEL3,Apartamento 38 - AP 1
+AP-38-2,AP,Meraki MR46,38,IDF10,NIVEL3,Apartamento 38 - AP 2
+TV-38-1,TV,Apple TV 4K,38,IDF10,NIVEL3,Apartamento 38 - TV 1
+TV-38-2,TV,Apple TV 4K,38,IDF10,NIVEL3,Apartamento 38 - TV 2
+TV-38-3,TV,Apple TV 4K,38,IDF10,NIVEL3,Apartamento 38 - TV 3
+TEL-39-1,telefono,Yealink T46S,39,IDF6,NIVEL7,Apartamento 39 - Teléfono 1
+AP-39-1,AP,Meraki MR46,39,IDF6,NIVEL7,Apartamento 39 - AP 1
+AP-39-2,AP,Meraki MR46,39,IDF6,NIVEL7,Apartamento 39 - AP 2
+TV-39-1,TV,Apple TV 4K,39,IDF6,NIVEL7,Apartamento 39 - TV 1
+TV-39-2,TV,Apple TV 4K,39,IDF6,NIVEL7,Apartamento 39 - TV 2
+TV-39-3,TV,Apple TV 4K,39,IDF6,NIVEL7,Apartamento 39 - TV 3
+TEL-40-1,telefono,Yealink T46S,40,IDF1,NIVEL2,Apartamento 40 - Teléfono 1
+AP-40-1,AP,Meraki MR46,40,IDF1,NIVEL2,Apartamento 40 - AP 1
+AP-40-2,AP,Meraki MR46,40,IDF1,NIVEL2,Apartamento 40 - AP 2
+TV-40-1,TV,Apple TV 4K,40,IDF1,NIVEL2,Apartamento 40 - TV 1
+TV-40-2,TV,Apple TV 4K,40,IDF1,NIVEL2,Apartamento 40 - TV 2
+TV-40-3,TV,Apple TV 4K,40,IDF1,NIVEL2,Apartamento 40 - TV 3
+TEL-41-1,telefono,Yealink T46S,41,IDF5,NIVEL6,Apartamento 41 - Teléfono 1
+AP-41-1,AP,Meraki MR46,41,IDF5,NIVEL6,Apartamento 41 - AP 1
+AP-41-2,AP,Meraki MR46,41,IDF5,NIVEL6,Apartamento 41 - AP 2
+TV-41-1,TV,Apple TV 4K,41,IDF5,NIVEL6,Apartamento 41 - TV 1
+TV-41-2,TV,Apple TV 4K,41,IDF5,NIVEL6,Apartamento 41 - TV 2
+TV-41-3,TV,Apple TV 4K,41,IDF5,NIVEL6,Apartamento 41 - TV 3
+TV-41-4,TV,Apple TV 4K,41,IDF5,NIVEL6,Apartamento 41 - TV 4
+TEL-42-1,telefono,Yealink T46S,42,IDF1,NIVEL3,Apartamento 42 - Teléfono 1
+AP-42-1,AP,Meraki MR46,42,IDF1,NIVEL3,Apartamento 42 - AP 1
+AP-42-2,AP,Meraki MR46,42,IDF1,NIVEL3,Apartamento 42 - AP 2
+TV-42-1,TV,Apple TV 4K,42,IDF1,NIVEL3,Apartamento 42 - TV 1
+TV-42-2,TV,Apple TV 4K,42,IDF1,NIVEL3,Apartamento 42 - TV 2
+TV-42-3,TV,Apple TV 4K,42,IDF1,NIVEL3,Apartamento 42 - TV 3
+TEL-43-1,telefono,Yealink T46S,43,IDF12,NIVEL3,Apartamento 43 - Teléfono 1
+AP-43-1,AP,Meraki MR46,43,IDF12,NIVEL3,Apartamento 43 - AP 1
+AP-43-2,AP,Meraki MR46,43,IDF12,NIVEL3,Apartamento 43 - AP 2
+TV-43-1,TV,Apple TV 4K,43,IDF12,NIVEL3,Apartamento 43 - TV 1
+TV-43-2,TV,Apple TV 4K,43,IDF12,NIVEL3,Apartamento 43 - TV 2
+TV-43-3,TV,Apple TV 4K,43,IDF12,NIVEL3,Apartamento 43 - TV 3
+TV-43-4,TV,Apple TV 4K,43,IDF12,NIVEL3,Apartamento 43 - TV 4
+TEL-44-1,telefono,Yealink T46S,44,IDF11,NIVEL2,Apartamento 44 - Teléfono 1
+AP-44-1,AP,Meraki MR46,44,IDF11,NIVEL2,Apartamento 44 - AP 1
+AP-44-2,AP,Meraki MR46,44,IDF11,NIVEL2,Apartamento 44 - AP 2
+TV-44-1,TV,Apple TV 4K,44,IDF11,NIVEL2,Apartamento 44 - TV 1
+TV-44-2,TV,Apple TV 4K,44,IDF11,NIVEL2,Apartamento 44 - TV 2
+TV-44-3,TV,Apple TV 4K,44,IDF11,NIVEL2,Apartamento 44 - TV 3
+TV-44-4,TV,Apple TV 4K,44,IDF11,NIVEL2,Apartamento 44 - TV 4
+TEL-45-1,telefono,Yealink T46S,45,IDF8,NIVEL1,Apartamento 45 - Teléfono 1
+AP-45-1,AP,Meraki MR46,45,IDF8,NIVEL1,Apartamento 45 - AP 1
+AP-45-2,AP,Meraki MR46,45,IDF8,NIVEL1,Apartamento 45 - AP 2
+TV-45-1,TV,Apple TV 4K,45,IDF8,NIVEL1,Apartamento 45 - TV 1
+TV-45-2,TV,Apple TV 4K,45,IDF8,NIVEL1,Apartamento 45 - TV 2
+TV-45-3,TV,Apple TV 4K,45,IDF8,NIVEL1,Apartamento 45 - TV 3
+TEL-46-1,telefono,Yealink T46S,46,IDF6,NIVEL7,Apartamento 46 - Teléfono 1
+AP-46-1,AP,Meraki MR46,46,IDF6,NIVEL7,Apartamento 46 - AP 1
+AP-46-2,AP,Meraki MR46,46,IDF6,NIVEL7,Apartamento 46 - AP 2
+TV-46-1,TV,Apple TV 4K,46,IDF6,NIVEL7,Apartamento 46 - TV 1
+TV-46-2,TV,Apple TV 4K,46,IDF6,NIVEL7,Apartamento 46 - TV 2
+TV-46-3,TV,Apple TV 4K,46,IDF6,NIVEL7,Apartamento 46 - TV 3
+TV-46-4,TV,Apple TV 4K,46,IDF6,NIVEL7,Apartamento 46 - TV 4
+TEL-47-1,telefono,Yealink T46S,47,IDF6,NIVEL7,Apartamento 47 - Teléfono 1
+AP-47-1,AP,Meraki MR46,47,IDF6,NIVEL7,Apartamento 47 - AP 1
+AP-47-2,AP,Meraki MR46,47,IDF6,NIVEL7,Apartamento 47 - AP 2
+AP-47-3,AP,Meraki MR46,47,IDF6,NIVEL7,Apartamento 47 - AP 3
+TV-47-1,TV,Apple TV 4K,47,IDF6,NIVEL7,Apartamento 47 - TV 1
+TV-47-2,TV,Apple TV 4K,47,IDF6,NIVEL7,Apartamento 47 - TV 2
+TV-47-3,TV,Apple TV 4K,47,IDF6,NIVEL7,Apartamento 47 - TV 3
+TV-47-4,TV,Apple TV 4K,47,IDF6,NIVEL7,Apartamento 47 - TV 4
+TV-47-5,TV,Apple TV 4K,47,IDF6,NIVEL7,Apartamento 47 - TV 5
+TEL-48-1,telefono,Yealink T46S,48,IDF6,NIVEL2,Apartamento 48 - Teléfono 1
+AP-48-1,AP,Meraki MR46,48,IDF6,NIVEL2,Apartamento 48 - AP 1
+AP-48-2,AP,Meraki MR46,48,IDF6,NIVEL2,Apartamento 48 - AP 2
+TV-48-1,TV,Apple TV 4K,48,IDF6,NIVEL2,Apartamento 48 - TV 1
+TV-48-2,TV,Apple TV 4K,48,IDF6,NIVEL2,Apartamento 48 - TV 2
+TV-48-3,TV,Apple TV 4K,48,IDF6,NIVEL2,Apartamento 48 - TV 3
+TEL-49-1,telefono,Yealink T46S,49,IDF12,NIVEL4,Apartamento 49 - Teléfono 1
+AP-49-1,AP,Meraki MR46,49,IDF12,NIVEL4,Apartamento 49 - AP 1
+AP-49-2,AP,Meraki MR46,49,IDF12,NIVEL4,Apartamento 49 - AP 2
+TV-49-1,TV,Apple TV 4K,49,IDF12,NIVEL4,Apartamento 49 - TV 1
+TV-49-2,TV,Apple TV 4K,49,IDF12,NIVEL4,Apartamento 49 - TV 2
+TV-49-3,TV,Apple TV 4K,49,IDF12,NIVEL4,Apartamento 49 - TV 3
+TEL-50-1,telefono,Yealink T46S,50,IDF11,NIVEL5,Apartamento 50 - Teléfono 1
+AP-50-1,AP,Meraki MR46,50,IDF11,NIVEL5,Apartamento 50 - AP 1
+AP-50-2,AP,Meraki MR46,50,IDF11,NIVEL5,Apartamento 50 - AP 2
+TV-50-1,TV,Apple TV 4K,50,IDF11,NIVEL5,Apartamento 50 - TV 1
+TV-50-2,TV,Apple TV 4K,50,IDF11,NIVEL5,Apartamento 50 - TV 2
+TV-50-3,TV,Apple TV 4K,50,IDF11,NIVEL5,Apartamento 50 - TV 3
+TV-50-4,TV,Apple TV 4K,50,IDF11,NIVEL5,Apartamento 50 - TV 4
+TEL-51-1,telefono,Yealink T46S,51,IDF3,NIVEL2,Apartamento 51 - Teléfono 1
+AP-51-1,AP,Meraki MR46,51,IDF3,NIVEL2,Apartamento 51 - AP 1
+AP-51-2,AP,Meraki MR46,51,IDF3,NIVEL2,Apartamento 51 - AP 2
+TV-51-1,TV,Apple TV 4K,51,IDF3,NIVEL2,Apartamento 51 - TV 1
+TV-51-2,TV,Apple TV 4K,51,IDF3,NIVEL2,Apartamento 51 - TV 2
+TV-51-3,TV,Apple TV 4K,51,IDF3,NIVEL2,Apartamento 51 - TV 3
+TV-51-4,TV,Apple TV 4K,51,IDF3,NIVEL2,Apartamento 51 - TV 4
+TEL-52-1,telefono,Yealink T46S,52,IDF15,NIVEL6,Apartamento 52 - Teléfono 1
+AP-52-1,AP,Meraki MR46,52,IDF15,NIVEL6,Apartamento 52 - AP 1
+AP-52-2,AP,Meraki MR46,52,IDF15,NIVEL6,Apartamento 52 - AP 2
+TV-52-1,TV,Apple TV 4K,52,IDF15,NIVEL6,Apartamento 52 - TV 1
+TV-52-2,TV,Apple TV 4K,52,IDF15,NIVEL6,Apartamento 52 - TV 2
+TV-52-3,TV,Apple TV 4K,52,IDF15,NIVEL6,Apartamento 52 - TV 3
+TEL-53-1,telefono,Yealink T46S,53,IDF6,NIVEL6,Apartamento 53 - Teléfono 1
+AP-53-1,AP,Meraki MR46,53,IDF6,NIVEL6,Apartamento 53 - AP 1
+AP-53-2,AP,Meraki MR46,53,IDF6,NIVEL6,Apartamento 53 - AP 2
+TV-53-1,TV,Apple TV 4K,53,IDF6,NIVEL6,Apartamento 53 - TV 1
+TV-53-2,TV,Apple TV 4K,53,IDF6,NIVEL6,Apartamento 53 - TV 2
+TV-53-3,TV,Apple TV 4K,53,IDF6,NIVEL6,Apartamento 53 - TV 3
+TV-53-4,TV,Apple TV 4K,53,IDF6,NIVEL6,Apartamento 53 - TV 4
+TEL-54-1,telefono,Yealink T46S,54,IDF11,NIVEL6,Apartamento 54 - Teléfono 1
+AP-54-1,AP,Meraki MR46,54,IDF11,NIVEL6,Apartamento 54 - AP 1
+AP-54-2,AP,Meraki MR46,54,IDF11,NIVEL6,Apartamento 54 - AP 2
+TV-54-1,TV,Apple TV 4K,54,IDF11,NIVEL6,Apartamento 54 - TV 1
+TV-54-2,TV,Apple TV 4K,54,IDF11,NIVEL6,Apartamento 54 - TV 2
+TV-54-3,TV,Apple TV 4K,54,IDF11,NIVEL6,Apartamento 54 - TV 3
+TEL-55-1,telefono,Yealink T46S,55,IDF5,NIVEL1,Apartamento 55 - Teléfono 1
+AP-55-1,AP,Meraki MR46,55,IDF5,NIVEL1,Apartamento 55 - AP 1
+AP-55-2,AP,Meraki MR46,55,IDF5,NIVEL1,Apartamento 55 - AP 2
+TV-55-1,TV,Apple TV 4K,55,IDF5,NIVEL1,Apartamento 55 - TV 1
+TV-55-2,TV,Apple TV 4K,55,IDF5,NIVEL1,Apartamento 55 - TV 2
+TV-55-3,TV,Apple TV 4K,55,IDF5,NIVEL1,Apartamento 55 - TV 3
+TEL-56-1,telefono,Yealink T46S,56,IDF12,NIVEL5,Apartamento 56 - Teléfono 1
+AP-56-1,AP,Meraki MR46,56,IDF12,NIVEL5,Apartamento 56 - AP 1
+AP-56-2,AP,Meraki MR46,56,IDF12,NIVEL5,Apartamento 56 - AP 2
+TV-56-1,TV,Apple TV 4K,56,IDF12,NIVEL5,Apartamento 56 - TV 1
+TV-56-2,TV,Apple TV 4K,56,IDF12,NIVEL5,Apartamento 56 - TV 2
+TV-56-3,TV,Apple TV 4K,56,IDF12,NIVEL5,Apartamento 56 - TV 3
+TEL-57-1,telefono,Yealink T46S,57,IDF10,NIVEL1,Apartamento 57 - Teléfono 1
+AP-57-1,AP,Meraki MR46,57,IDF10,NIVEL1,Apartamento 57 - AP 1
+AP-57-2,AP,Meraki MR46,57,IDF10,NIVEL1,Apartamento 57 - AP 2
+TV-57-1,TV,Apple TV 4K,57,IDF10,NIVEL1,Apartamento 57 - TV 1
+TV-57-2,TV,Apple TV 4K,57,IDF10,NIVEL1,Apartamento 57 - TV 2
+TV-57-3,TV,Apple TV 4K,57,IDF10,NIVEL1,Apartamento 57 - TV 3
+TEL-58-1,telefono,Yealink T46S,58,IDF5,NIVEL1,Apartamento 58 - Teléfono 1
+AP-58-1,AP,Meraki MR46,58,IDF5,NIVEL1,Apartamento 58 - AP 1
+AP-58-2,AP,Meraki MR46,58,IDF5,NIVEL1,Apartamento 58 - AP 2
+TV-58-1,TV,Apple TV 4K,58,IDF5,NIVEL1,Apartamento 58 - TV 1
+TV-58-2,TV,Apple TV 4K,58,IDF5,NIVEL1,Apartamento 58 - TV 2
+TEL-59-1,telefono,Yealink T46S,59,IDF15,NIVEL1,Apartamento 59 - Teléfono 1
+AP-59-1,AP,Meraki MR46,59,IDF15,NIVEL1,Apartamento 59 - AP 1
+AP-59-2,AP,Meraki MR46,59,IDF15,NIVEL1,Apartamento 59 - AP 2
+TV-59-1,TV,Apple TV 4K,59,IDF15,NIVEL1,Apartamento 59 - TV 1
+TV-59-2,TV,Apple TV 4K,59,IDF15,NIVEL1,Apartamento 59 - TV 2
+TV-59-3,TV,Apple TV 4K,59,IDF15,NIVEL1,Apartamento 59 - TV 3
+TEL-60-1,telefono,Yealink T46S,60,IDF15,NIVEL3,Apartamento 60 - Teléfono 1
+AP-60-1,AP,Meraki MR46,60,IDF15,NIVEL3,Apartamento 60 - AP 1
+AP-60-2,AP,Meraki MR46,60,IDF15,NIVEL3,Apartamento 60 - AP 2
+TV-60-1,TV,Apple TV 4K,60,IDF15,NIVEL3,Apartamento 60 - TV 1
+TV-60-2,TV,Apple TV 4K,60,IDF15,NIVEL3,Apartamento 60 - TV 2
+TV-60-3,TV,Apple TV 4K,60,IDF15,NIVEL3,Apartamento 60 - TV 3
+TEL-61-1,telefono,Yealink T46S,61,IDF1,NIVEL7,Apartamento 61 - Teléfono 1
+AP-61-1,AP,Meraki MR46,61,IDF1,NIVEL7,Apartamento 61 - AP 1
+AP-61-2,AP,Meraki MR46,61,IDF1,NIVEL7,Apartamento 61 - AP 2
+TV-61-1,TV,Apple TV 4K,61,IDF1,NIVEL7,Apartamento 61 - TV 1
+TV-61-2,TV,Apple TV 4K,61,IDF1,NIVEL7,Apartamento 61 - TV 2
+TV-61-3,TV,Apple TV 4K,61,IDF1,NIVEL7,Apartamento 61 - TV 3
+TV-61-4,TV,Apple TV 4K,61,IDF1,NIVEL7,Apartamento 61 - TV 4
+TEL-62-1,telefono,Yealink T46S,62,IDF7,NIVEL6,Apartamento 62 - Teléfono 1
+AP-62-1,AP,Meraki MR46,62,IDF7,NIVEL6,Apartamento 62 - AP 1
+AP-62-2,AP,Meraki MR46,62,IDF7,NIVEL6,Apartamento 62 - AP 2
+TV-62-1,TV,Apple TV 4K,62,IDF7,NIVEL6,Apartamento 62 - TV 1
+TV-62-2,TV,Apple TV 4K,62,IDF7,NIVEL6,Apartamento 62 - TV 2
+TV-62-3,TV,Apple TV 4K,62,IDF7,NIVEL6,Apartamento 62 - TV 3
+TEL-63-1,telefono,Yealink T46S,63,IDF1,NIVEL5,Apartamento 63 - Teléfono 1
+AP-63-1,AP,Meraki MR46,63,IDF1,NIVEL5,Apartamento 63 - AP 1
+AP-63-2,AP,Meraki MR46,63,IDF1,NIVEL5,Apartamento 63 - AP 2
+AP-63-3,AP,Meraki MR46,63,IDF1,NIVEL5,Apartamento 63 - AP 3
+TV-63-1,TV,Apple TV 4K,63,IDF1,NIVEL5,Apartamento 63 - TV 1
+TV-63-2,TV,Apple TV 4K,63,IDF1,NIVEL5,Apartamento 63 - TV 2
+TV-63-3,TV,Apple TV 4K,63,IDF1,NIVEL5,Apartamento 63 - TV 3
+TV-63-4,TV,Apple TV 4K,63,IDF1,NIVEL5,Apartamento 63 - TV 4
+TV-63-5,TV,Apple TV 4K,63,IDF1,NIVEL5,Apartamento 63 - TV 5
+TEL-64-1,telefono,Yealink T46S,64,IDF8,NIVEL2,Apartamento 64 - Teléfono 1
+AP-64-1,AP,Meraki MR46,64,IDF8,NIVEL2,Apartamento 64 - AP 1
+AP-64-2,AP,Meraki MR46,64,IDF8,NIVEL2,Apartamento 64 - AP 2
+TV-64-1,TV,Apple TV 4K,64,IDF8,NIVEL2,Apartamento 64 - TV 1
+TV-64-2,TV,Apple TV 4K,64,IDF8,NIVEL2,Apartamento 64 - TV 2
+TV-64-3,TV,Apple TV 4K,64,IDF8,NIVEL2,Apartamento 64 - TV 3
+TEL-65-1,telefono,Yealink T46S,65,IDF10,NIVEL4,Apartamento 65 - Teléfono 1
+AP-65-1,AP,Meraki MR46,65,IDF10,NIVEL4,Apartamento 65 - AP 1
+AP-65-2,AP,Meraki MR46,65,IDF10,NIVEL4,Apartamento 65 - AP 2
+TV-65-1,TV,Apple TV 4K,65,IDF10,NIVEL4,Apartamento 65 - TV 1
+TV-65-2,TV,Apple TV 4K,65,IDF10,NIVEL4,Apartamento 65 - TV 2
+TV-65-3,TV,Apple TV 4K,65,IDF10,NIVEL4,Apartamento 65 - TV 3
+TEL-66-1,telefono,Yealink T46S,66,IDF7,NIVEL1,Apartamento 66 - Teléfono 1
+AP-66-1,AP,Meraki MR46,66,IDF7,NIVEL1,Apartamento 66 - AP 1
+AP-66-2,AP,Meraki MR46,66,IDF7,NIVEL1,Apartamento 66 - AP 2
+TV-66-1,TV,Apple TV 4K,66,IDF7,NIVEL1,Apartamento 66 - TV 1
+TV-66-2,TV,Apple TV 4K,66,IDF7,NIVEL1,Apartamento 66 - TV 2
+TV-66-3,TV,Apple TV 4K,66,IDF7,NIVEL1,Apartamento 66 - TV 3
+TV-66-4,TV,Apple TV 4K,66,IDF7,NIVEL1,Apartamento 66 - TV 4
+TEL-67-1,telefono,Yealink T46S,67,IDF1,NIVEL3,Apartamento 67 - Teléfono 1
+AP-67-1,AP,Meraki MR46,67,IDF1,NIVEL3,Apartamento 67 - AP 1
+AP-67-2,AP,Meraki MR46,67,IDF1,NIVEL3,Apartamento 67 - AP 2
+TV-67-1,TV,Apple TV 4K,67,IDF1,NIVEL3,Apartamento 67 - TV 1
+TV-67-2,TV,Apple TV 4K,67,IDF1,NIVEL3,Apartamento 67 - TV 2
+TV-67-3,TV,Apple TV 4K,67,IDF1,NIVEL3,Apartamento 67 - TV 3
+TV-67-4,TV,Apple TV 4K,67,IDF1,NIVEL3,Apartamento 67 - TV 4
+TEL-68-1,telefono,Yealink T46S,68,IDF1,NIVEL3,Apartamento 68 - Teléfono 1
+AP-68-1,AP,Meraki MR46,68,IDF1,NIVEL3,Apartamento 68 - AP 1
+AP-68-2,AP,Meraki MR46,68,IDF1,NIVEL3,Apartamento 68 - AP 2
+TV-68-1,TV,Apple TV 4K,68,IDF1,NIVEL3,Apartamento 68 - TV 1
+TV-68-2,TV,Apple TV 4K,68,IDF1,NIVEL3,Apartamento 68 - TV 2
+TV-68-3,TV,Apple TV 4K,68,IDF1,NIVEL3,Apartamento 68 - TV 3
+TEL-69-1,telefono,Yealink T46S,69,IDF10,NIVEL6,Apartamento 69 - Teléfono 1
+AP-69-1,AP,Meraki MR46,69,IDF10,NIVEL6,Apartamento 69 - AP 1
+AP-69-2,AP,Meraki MR46,69,IDF10,NIVEL6,Apartamento 69 - AP 2
+TV-69-1,TV,Apple TV 4K,69,IDF10,NIVEL6,Apartamento 69 - TV 1
+TV-69-2,TV,Apple TV 4K,69,IDF10,NIVEL6,Apartamento 69 - TV 2
+TV-69-3,TV,Apple TV 4K,69,IDF10,NIVEL6,Apartamento 69 - TV 3
+TV-69-4,TV,Apple TV 4K,69,IDF10,NIVEL6,Apartamento 69 - TV 4
+TEL-70-1,telefono,Yealink T46S,70,IDF3,NIVEL5,Apartamento 70 - Teléfono 1
+AP-70-1,AP,Meraki MR46,70,IDF3,NIVEL5,Apartamento 70 - AP 1
+AP-70-2,AP,Meraki MR46,70,IDF3,NIVEL5,Apartamento 70 - AP 2
+TV-70-1,TV,Apple TV 4K,70,IDF3,NIVEL5,Apartamento 70 - TV 1
+TV-70-2,TV,Apple TV 4K,70,IDF3,NIVEL5,Apartamento 70 - TV 2
+TV-70-3,TV,Apple TV 4K,70,IDF3,NIVEL5,Apartamento 70 - TV 3
+TEL-71-1,telefono,Yealink T46S,71,IDF14,NIVEL6,Apartamento 71 - Teléfono 1
+AP-71-1,AP,Meraki MR46,71,IDF14,NIVEL6,Apartamento 71 - AP 1
+AP-71-2,AP,Meraki MR46,71,IDF14,NIVEL6,Apartamento 71 - AP 2
+TV-71-1,TV,Apple TV 4K,71,IDF14,NIVEL6,Apartamento 71 - TV 1
+TV-71-2,TV,Apple TV 4K,71,IDF14,NIVEL6,Apartamento 71 - TV 2
+TV-71-3,TV,Apple TV 4K,71,IDF14,NIVEL6,Apartamento 71 - TV 3
+TV-71-4,TV,Apple TV 4K,71,IDF14,NIVEL6,Apartamento 71 - TV 4
+TEL-72-1,telefono,Yealink T46S,72,IDF8,NIVEL6,Apartamento 72 - Teléfono 1
+AP-72-1,AP,Meraki MR46,72,IDF8,NIVEL6,Apartamento 72 - AP 1
+AP-72-2,AP,Meraki MR46,72,IDF8,NIVEL6,Apartamento 72 - AP 2
+AP-72-3,AP,Meraki MR46,72,IDF8,NIVEL6,Apartamento 72 - AP 3
+TV-72-1,TV,Apple TV 4K,72,IDF8,NIVEL6,Apartamento 72 - TV 1
+TV-72-2,TV,Apple TV 4K,72,IDF8,NIVEL6,Apartamento 72 - TV 2
+TV-72-3,TV,Apple TV 4K,72,IDF8,NIVEL6,Apartamento 72 - TV 3
+TV-72-4,TV,Apple TV 4K,72,IDF8,NIVEL6,Apartamento 72 - TV 4
+TV-72-5,TV,Apple TV 4K,72,IDF8,NIVEL6,Apartamento 72 - TV 5
+TEL-73-1,telefono,Yealink T46S,73,IDF5,NIVEL1,Apartamento 73 - Teléfono 1
+AP-73-1,AP,Meraki MR46,73,IDF5,NIVEL1,Apartamento 73 - AP 1
+AP-73-2,AP,Meraki MR46,73,IDF5,NIVEL1,Apartamento 73 - AP 2
+TV-73-1,TV,Apple TV 4K,73,IDF5,NIVEL1,Apartamento 73 - TV 1
+TV-73-2,TV,Apple TV 4K,73,IDF5,NIVEL1,Apartamento 73 - TV 2
+TV-73-3,TV,Apple TV 4K,73,IDF5,NIVEL1,Apartamento 73 - TV 3
+TEL-74-1,telefono,Yealink T46S,74,IDF10,NIVEL7,Apartamento 74 - Teléfono 1
+AP-74-1,AP,Meraki MR46,74,IDF10,NIVEL7,Apartamento 74 - AP 1
+AP-74-2,AP,Meraki MR46,74,IDF10,NIVEL7,Apartamento 74 - AP 2
+TV-74-1,TV,Apple TV 4K,74,IDF10,NIVEL7,Apartamento 74 - TV 1
+TV-74-2,TV,Apple TV 4K,74,IDF10,NIVEL7,Apartamento 74 - TV 2
+TV-74-3,TV,Apple TV 4K,74,IDF10,NIVEL7,Apartamento 74 - TV 3
+TEL-75-1,telefono,Yealink T46S,75,IDF8,NIVEL2,Apartamento 75 - Teléfono 1
+AP-75-1,AP,Meraki MR46,75,IDF8,NIVEL2,Apartamento 75 - AP 1
+AP-75-2,AP,Meraki MR46,75,IDF8,NIVEL2,Apartamento 75 - AP 2
+AP-75-3,AP,Meraki MR46,75,IDF8,NIVEL2,Apartamento 75 - AP 3
+TV-75-1,TV,Apple TV 4K,75,IDF8,NIVEL2,Apartamento 75 - TV 1
+TV-75-2,TV,Apple TV 4K,75,IDF8,NIVEL2,Apartamento 75 - TV 2
+TV-75-3,TV,Apple TV 4K,75,IDF8,NIVEL2,Apartamento 75 - TV 3
+TV-75-4,TV,Apple TV 4K,75,IDF8,NIVEL2,Apartamento 75 - TV 4
+TV-75-5,TV,Apple TV 4K,75,IDF8,NIVEL2,Apartamento 75 - TV 5
+TEL-76-1,telefono,Yealink T46S,76,IDF12,NIVEL1,Apartamento 76 - Teléfono 1
+AP-76-1,AP,Meraki MR46,76,IDF12,NIVEL1,Apartamento 76 - AP 1
+AP-76-2,AP,Meraki MR46,76,IDF12,NIVEL1,Apartamento 76 - AP 2
+TV-76-1,TV,Apple TV 4K,76,IDF12,NIVEL1,Apartamento 76 - TV 1
+TV-76-2,TV,Apple TV 4K,76,IDF12,NIVEL1,Apartamento 76 - TV 2
+TV-76-3,TV,Apple TV 4K,76,IDF12,NIVEL1,Apartamento 76 - TV 3
+TV-76-4,TV,Apple TV 4K,76,IDF12,NIVEL1,Apartamento 76 - TV 4
+TEL-77-1,telefono,Yealink T46S,77,IDF11,NIVEL2,Apartamento 77 - Teléfono 1
+AP-77-1,AP,Meraki MR46,77,IDF11,NIVEL2,Apartamento 77 - AP 1
+AP-77-2,AP,Meraki MR46,77,IDF11,NIVEL2,Apartamento 77 - AP 2
+AP-77-3,AP,Meraki MR46,77,IDF11,NIVEL2,Apartamento 77 - AP 3
+TV-77-1,TV,Apple TV 4K,77,IDF11,NIVEL2,Apartamento 77 - TV 1
+TV-77-2,TV,Apple TV 4K,77,IDF11,NIVEL2,Apartamento 77 - TV 2
+TV-77-3,TV,Apple TV 4K,77,IDF11,NIVEL2,Apartamento 77 - TV 3
+TV-77-4,TV,Apple TV 4K,77,IDF11,NIVEL2,Apartamento 77 - TV 4
+TV-77-5,TV,Apple TV 4K,77,IDF11,NIVEL2,Apartamento 77 - TV 5
+TEL-78-1,telefono,Yealink T46S,78,IDF7,NIVEL6,Apartamento 78 - Teléfono 1
+AP-78-1,AP,Meraki MR46,78,IDF7,NIVEL6,Apartamento 78 - AP 1
+AP-78-2,AP,Meraki MR46,78,IDF7,NIVEL6,Apartamento 78 - AP 2
+TV-78-1,TV,Apple TV 4K,78,IDF7,NIVEL6,Apartamento 78 - TV 1
+TV-78-2,TV,Apple TV 4K,78,IDF7,NIVEL6,Apartamento 78 - TV 2
+TV-78-3,TV,Apple TV 4K,78,IDF7,NIVEL6,Apartamento 78 - TV 3
+TEL-79-1,telefono,Yealink T46S,79,IDF7,NIVEL2,Apartamento 79 - Teléfono 1
+AP-79-1,AP,Meraki MR46,79,IDF7,NIVEL2,Apartamento 79 - AP 1
+AP-79-2,AP,Meraki MR46,79,IDF7,NIVEL2,Apartamento 79 - AP 2
+TV-79-1,TV,Apple TV 4K,79,IDF7,NIVEL2,Apartamento 79 - TV 1
+TV-79-2,TV,Apple TV 4K,79,IDF7,NIVEL2,Apartamento 79 - TV 2
+TV-79-3,TV,Apple TV 4K,79,IDF7,NIVEL2,Apartamento 79 - TV 3
+TV-79-4,TV,Apple TV 4K,79,IDF7,NIVEL2,Apartamento 79 - TV 4
+TEL-80-1,telefono,Yealink T46S,80,IDF15,NIVEL2,Apartamento 80 - Teléfono 1
+AP-80-1,AP,Meraki MR46,80,IDF15,NIVEL2,Apartamento 80 - AP 1
+AP-80-2,AP,Meraki MR46,80,IDF15,NIVEL2,Apartamento 80 - AP 2
+TV-80-1,TV,Apple TV 4K,80,IDF15,NIVEL2,Apartamento 80 - TV 1
+TV-80-2,TV,Apple TV 4K,80,IDF15,NIVEL2,Apartamento 80 - TV 2
+TV-80-3,TV,Apple TV 4K,80,IDF15,NIVEL2,Apartamento 80 - TV 3
+TEL-81-1,telefono,Yealink T46S,81,IDF4,NIVEL3,Apartamento 81 - Teléfono 1
+AP-81-1,AP,Meraki MR46,81,IDF4,NIVEL3,Apartamento 81 - AP 1
+AP-81-2,AP,Meraki MR46,81,IDF4,NIVEL3,Apartamento 81 - AP 2
+TV-81-1,TV,Apple TV 4K,81,IDF4,NIVEL3,Apartamento 81 - TV 1
+TV-81-2,TV,Apple TV 4K,81,IDF4,NIVEL3,Apartamento 81 - TV 2
+TV-81-3,TV,Apple TV 4K,81,IDF4,NIVEL3,Apartamento 81 - TV 3
+TV-81-4,TV,Apple TV 4K,81,IDF4,NIVEL3,Apartamento 81 - TV 4
+TEL-82-1,telefono,Yealink T46S,82,IDF9,NIVEL4,Apartamento 82 - Teléfono 1
+AP-82-1,AP,Meraki MR46,82,IDF9,NIVEL4,Apartamento 82 - AP 1
+AP-82-2,AP,Meraki MR46,82,IDF9,NIVEL4,Apartamento 82 - AP 2
+TV-82-1,TV,Apple TV 4K,82,IDF9,NIVEL4,Apartamento 82 - TV 1
+TV-82-2,TV,Apple TV 4K,82,IDF9,NIVEL4,Apartamento 82 - TV 2
+TV-82-3,TV,Apple TV 4K,82,IDF9,NIVEL4,Apartamento 82 - TV 3
+TEL-83-1,telefono,Yealink T46S,83,IDF12,NIVEL6,Apartamento 83 - Teléfono 1
+AP-83-1,AP,Meraki MR46,83,IDF12,NIVEL6,Apartamento 83 - AP 1
+AP-83-2,AP,Meraki MR46,83,IDF12,NIVEL6,Apartamento 83 - AP 2
+TV-83-1,TV,Apple TV 4K,83,IDF12,NIVEL6,Apartamento 83 - TV 1
+TV-83-2,TV,Apple TV 4K,83,IDF12,NIVEL6,Apartamento 83 - TV 2
+TV-83-3,TV,Apple TV 4K,83,IDF12,NIVEL6,Apartamento 83 - TV 3
+TEL-84-1,telefono,Yealink T46S,84,IDF13,NIVEL4,Apartamento 84 - Teléfono 1
+AP-84-1,AP,Meraki MR46,84,IDF13,NIVEL4,Apartamento 84 - AP 1
+AP-84-2,AP,Meraki MR46,84,IDF13,NIVEL4,Apartamento 84 - AP 2
+TV-84-1,TV,Apple TV 4K,84,IDF13,NIVEL4,Apartamento 84 - TV 1
+TV-84-2,TV,Apple TV 4K,84,IDF13,NIVEL4,Apartamento 84 - TV 2
+TV-84-3,TV,Apple TV 4K,84,IDF13,NIVEL4,Apartamento 84 - TV 3
+TEL-85-1,telefono,Yealink T46S,85,IDF15,NIVEL1,Apartamento 85 - Teléfono 1
+AP-85-1,AP,Meraki MR46,85,IDF15,NIVEL1,Apartamento 85 - AP 1
+AP-85-2,AP,Meraki MR46,85,IDF15,NIVEL1,Apartamento 85 - AP 2
+TV-85-1,TV,Apple TV 4K,85,IDF15,NIVEL1,Apartamento 85 - TV 1
+TV-85-2,TV,Apple TV 4K,85,IDF15,NIVEL1,Apartamento 85 - TV 2
+TV-85-3,TV,Apple TV 4K,85,IDF15,NIVEL1,Apartamento 85 - TV 3
+TEL-86-1,telefono,Yealink T46S,86,IDF8,NIVEL1,Apartamento 86 - Teléfono 1
+AP-86-1,AP,Meraki MR46,86,IDF8,NIVEL1,Apartamento 86 - AP 1
+AP-86-2,AP,Meraki MR46,86,IDF8,NIVEL1,Apartamento 86 - AP 2
+TV-86-1,TV,Apple TV 4K,86,IDF8,NIVEL1,Apartamento 86 - TV 1
+TV-86-2,TV,Apple TV 4K,86,IDF8,NIVEL1,Apartamento 86 - TV 2
+TV-86-3,TV,Apple TV 4K,86,IDF8,NIVEL1,Apartamento 86 - TV 3
+TEL-87-1,telefono,Yealink T46S,87,IDF8,NIVEL3,Apartamento 87 - Teléfono 1
+AP-87-1,AP,Meraki MR46,87,IDF8,NIVEL3,Apartamento 87 - AP 1
+AP-87-2,AP,Meraki MR46,87,IDF8,NIVEL3,Apartamento 87 - AP 2
+TV-87-1,TV,Apple TV 4K,87,IDF8,NIVEL3,Apartamento 87 - TV 1
+TV-87-2,TV,Apple TV 4K,87,IDF8,NIVEL3,Apartamento 87 - TV 2
+TV-87-3,TV,Apple TV 4K,87,IDF8,NIVEL3,Apartamento 87 - TV 3
+TEL-88-1,telefono,Yealink T46S,88,IDF2,NIVEL3,Apartamento 88 - Teléfono 1
+AP-88-1,AP,Meraki MR46,88,IDF2,NIVEL3,Apartamento 88 - AP 1
+AP-88-2,AP,Meraki MR46,88,IDF2,NIVEL3,Apartamento 88 - AP 2
+TV-88-1,TV,Apple TV 4K,88,IDF2,NIVEL3,Apartamento 88 - TV 1
+TV-88-2,TV,Apple TV 4K,88,IDF2,NIVEL3,Apartamento 88 - TV 2
+TV-88-3,TV,Apple TV 4K,88,IDF2,NIVEL3,Apartamento 88 - TV 3
+TEL-89-1,telefono,Yealink T46S,89,IDF3,NIVEL1,Apartamento 89 - Teléfono 1
+AP-89-1,AP,Meraki MR46,89,IDF3,NIVEL1,Apartamento 89 - AP 1
+AP-89-2,AP,Meraki MR46,89,IDF3,NIVEL1,Apartamento 89 - AP 2
+TV-89-1,TV,Apple TV 4K,89,IDF3,NIVEL1,Apartamento 89 - TV 1
+TV-89-2,TV,Apple TV 4K,89,IDF3,NIVEL1,Apartamento 89 - TV 2
+TV-89-3,TV,Apple TV 4K,89,IDF3,NIVEL1,Apartamento 89 - TV 3
+TV-89-4,TV,Apple TV 4K,89,IDF3,NIVEL1,Apartamento 89 - TV 4
+TEL-90-1,telefono,Yealink T46S,90,IDF5,NIVEL4,Apartamento 90 - Teléfono 1
+AP-90-1,AP,Meraki MR46,90,IDF5,NIVEL4,Apartamento 90 - AP 1
+AP-90-2,AP,Meraki MR46,90,IDF5,NIVEL4,Apartamento 90 - AP 2
+TV-90-1,TV,Apple TV 4K,90,IDF5,NIVEL4,Apartamento 90 - TV 1
+TV-90-2,TV,Apple TV 4K,90,IDF5,NIVEL4,Apartamento 90 - TV 2
+TV-90-3,TV,Apple TV 4K,90,IDF5,NIVEL4,Apartamento 90 - TV 3
+TEL-91-1,telefono,Yealink T46S,91,IDF2,NIVEL3,Apartamento 91 - Teléfono 1
+AP-91-1,AP,Meraki MR46,91,IDF2,NIVEL3,Apartamento 91 - AP 1
+AP-91-2,AP,Meraki MR46,91,IDF2,NIVEL3,Apartamento 91 - AP 2
+TV-91-1,TV,Apple TV 4K,91,IDF2,NIVEL3,Apartamento 91 - TV 1
+TV-91-2,TV,Apple TV 4K,91,IDF2,NIVEL3,Apartamento 91 - TV 2
+TEL-92-1,telefono,Yealink T46S,92,IDF3,NIVEL2,Apartamento 92 - Teléfono 1
+AP-92-1,AP,Meraki MR46,92,IDF3,NIVEL2,Apartamento 92 - AP 1
+AP-92-2,AP,Meraki MR46,92,IDF3,NIVEL2,Apartamento 92 - AP 2
+AP-92-3,AP,Meraki MR46,92,IDF3,NIVEL2,Apartamento 92 - AP 3
+TV-92-1,TV,Apple TV 4K,92,IDF3,NIVEL2,Apartamento 92 - TV 1
+TV-92-2,TV,Apple TV 4K,92,IDF3,NIVEL2,Apartamento 92 - TV 2
+TV-92-3,TV,Apple TV 4K,92,IDF3,NIVEL2,Apartamento 92 - TV 3
+TV-92-4,TV,Apple TV 4K,92,IDF3,NIVEL2,Apartamento 92 - TV 4
+TV-92-5,TV,Apple TV 4K,92,IDF3,NIVEL2,Apartamento 92 - TV 5
+TEL-93-1,telefono,Yealink T46S,93,IDF8,NIVEL2,Apartamento 93 - Teléfono 1
+AP-93-1,AP,Meraki MR46,93,IDF8,NIVEL2,Apartamento 93 - AP 1
+AP-93-2,AP,Meraki MR46,93,IDF8,NIVEL2,Apartamento 93 - AP 2
+TV-93-1,TV,Apple TV 4K,93,IDF8,NIVEL2,Apartamento 93 - TV 1
+TV-93-2,TV,Apple TV 4K,93,IDF8,NIVEL2,Apartamento 93 - TV 2
+TV-93-3,TV,Apple TV 4K,93,IDF8,NIVEL2,Apartamento 93 - TV 3
+TEL-94-1,telefono,Yealink T46S,94,IDF14,NIVEL2,Apartamento 94 - Teléfono 1
+AP-94-1,AP,Meraki MR46,94,IDF14,NIVEL2,Apartamento 94 - AP 1
+AP-94-2,AP,Meraki MR46,94,IDF14,NIVEL2,Apartamento 94 - AP 2
+TV-94-1,TV,Apple TV 4K,94,IDF14,NIVEL2,Apartamento 94 - TV 1
+TV-94-2,TV,Apple TV 4K,94,IDF14,NIVEL2,Apartamento 94 - TV 2
+TV-94-3,TV,Apple TV 4K,94,IDF14,NIVEL2,Apartamento 94 - TV 3
+TV-94-4,TV,Apple TV 4K,94,IDF14,NIVEL2,Apartamento 94 - TV 4
+TEL-95-1,telefono,Yealink T46S,95,IDF10,NIVEL5,Apartamento 95 - Teléfono 1
+AP-95-1,AP,Meraki MR46,95,IDF10,NIVEL5,Apartamento 95 - AP 1
+AP-95-2,AP,Meraki MR46,95,IDF10,NIVEL5,Apartamento 95 - AP 2
+TV-95-1,TV,Apple TV 4K,95,IDF10,NIVEL5,Apartamento 95 - TV 1
+TV-95-2,TV,Apple TV 4K,95,IDF10,NIVEL5,Apartamento 95 - TV 2
+TV-95-3,TV,Apple TV 4K,95,IDF10,NIVEL5,Apartamento 95 - TV 3
+TV-95-4,TV,Apple TV 4K,95,IDF10,NIVEL5,Apartamento 95 - TV 4
+TEL-96-1,telefono,Yealink T46S,96,IDF15,NIVEL7,Apartamento 96 - Teléfono 1
+AP-96-1,AP,Meraki MR46,96,IDF15,NIVEL7,Apartamento 96 - AP 1
+AP-96-2,AP,Meraki MR46,96,IDF15,NIVEL7,Apartamento 96 - AP 2
+TV-96-1,TV,Apple TV 4K,96,IDF15,NIVEL7,Apartamento 96 - TV 1
+TV-96-2,TV,Apple TV 4K,96,IDF15,NIVEL7,Apartamento 96 - TV 2
+TV-96-3,TV,Apple TV 4K,96,IDF15,NIVEL7,Apartamento 96 - TV 3
+TV-96-4,TV,Apple TV 4K,96,IDF15,NIVEL7,Apartamento 96 - TV 4
+TEL-97-1,telefono,Yealink T46S,97,IDF12,NIVEL4,Apartamento 97 - Teléfono 1
+AP-97-1,AP,Meraki MR46,97,IDF12,NIVEL4,Apartamento 97 - AP 1
+AP-97-2,AP,Meraki MR46,97,IDF12,NIVEL4,Apartamento 97 - AP 2
+TV-97-1,TV,Apple TV 4K,97,IDF12,NIVEL4,Apartamento 97 - TV 1
+TV-97-2,TV,Apple TV 4K,97,IDF12,NIVEL4,Apartamento 97 - TV 2
+TV-97-3,TV,Apple TV 4K,97,IDF12,NIVEL4,Apartamento 97 - TV 3
+TEL-98-1,telefono,Yealink T46S,98,IDF11,NIVEL6,Apartamento 98 - Teléfono 1
+AP-98-1,AP,Meraki MR46,98,IDF11,NIVEL6,Apartamento 98 - AP 1
+AP-98-2,AP,Meraki MR46,98,IDF11,NIVEL6,Apartamento 98 - AP 2
+TV-98-1,TV,Apple TV 4K,98,IDF11,NIVEL6,Apartamento 98 - TV 1
+TV-98-2,TV,Apple TV 4K,98,IDF11,NIVEL6,Apartamento 98 - TV 2
+TV-98-3,TV,Apple TV 4K,98,IDF11,NIVEL6,Apartamento 98 - TV 3
+TEL-99-1,telefono,Yealink T46S,99,IDF3,NIVEL7,Apartamento 99 - Teléfono 1
+AP-99-1,AP,Meraki MR46,99,IDF3,NIVEL7,Apartamento 99 - AP 1
+AP-99-2,AP,Meraki MR46,99,IDF3,NIVEL7,Apartamento 99 - AP 2
+TV-99-1,TV,Apple TV 4K,99,IDF3,NIVEL7,Apartamento 99 - TV 1
+TV-99-2,TV,Apple TV 4K,99,IDF3,NIVEL7,Apartamento 99 - TV 2
+TV-99-3,TV,Apple TV 4K,99,IDF3,NIVEL7,Apartamento 99 - TV 3
+TV-99-4,TV,Apple TV 4K,99,IDF3,NIVEL7,Apartamento 99 - TV 4
+TEL-100-1,telefono,Yealink T46S,100,IDF4,NIVEL3,Apartamento 100 - Teléfono 1
+AP-100-1,AP,Meraki MR46,100,IDF4,NIVEL3,Apartamento 100 - AP 1
+AP-100-2,AP,Meraki MR46,100,IDF4,NIVEL3,Apartamento 100 - AP 2
+TV-100-1,TV,Apple TV 4K,100,IDF4,NIVEL3,Apartamento 100 - TV 1
+TV-100-2,TV,Apple TV 4K,100,IDF4,NIVEL3,Apartamento 100 - TV 2
+TV-100-3,TV,Apple TV 4K,100,IDF4,NIVEL3,Apartamento 100 - TV 3
+TV-100-4,TV,Apple TV 4K,100,IDF4,NIVEL3,Apartamento 100 - TV 4
+TEL-101-1,telefono,Yealink T46S,101,IDF4,NIVEL4,Apartamento 101 - Teléfono 1
+AP-101-1,AP,Meraki MR46,101,IDF4,NIVEL4,Apartamento 101 - AP 1
+AP-101-2,AP,Meraki MR46,101,IDF4,NIVEL4,Apartamento 101 - AP 2
+TV-101-1,TV,Apple TV 4K,101,IDF4,NIVEL4,Apartamento 101 - TV 1
+TV-101-2,TV,Apple TV 4K,101,IDF4,NIVEL4,Apartamento 101 - TV 2
+TV-101-3,TV,Apple TV 4K,101,IDF4,NIVEL4,Apartamento 101 - TV 3
+TV-101-4,TV,Apple TV 4K,101,IDF4,NIVEL4,Apartamento 101 - TV 4
+TEL-102-1,telefono,Yealink T46S,102,IDF4,NIVEL1,Apartamento 102 - Teléfono 1
+AP-102-1,AP,Meraki MR46,102,IDF4,NIVEL1,Apartamento 102 - AP 1
+AP-102-2,AP,Meraki MR46,102,IDF4,NIVEL1,Apartamento 102 - AP 2
+AP-102-3,AP,Meraki MR46,102,IDF4,NIVEL1,Apartamento 102 - AP 3
+TV-102-1,TV,Apple TV 4K,102,IDF4,NIVEL1,Apartamento 102 - TV 1
+TV-102-2,TV,Apple TV 4K,102,IDF4,NIVEL1,Apartamento 102 - TV 2
+TV-102-3,TV,Apple TV 4K,102,IDF4,NIVEL1,Apartamento 102 - TV 3
+TV-102-4,TV,Apple TV 4K,102,IDF4,NIVEL1,Apartamento 102 - TV 4
+TV-102-5,TV,Apple TV 4K,102,IDF4,NIVEL1,Apartamento 102 - TV 5
+TEL-103-1,telefono,Yealink T46S,103,IDF11,NIVEL3,Apartamento 103 - Teléfono 1
+AP-103-1,AP,Meraki MR46,103,IDF11,NIVEL3,Apartamento 103 - AP 1
+AP-103-2,AP,Meraki MR46,103,IDF11,NIVEL3,Apartamento 103 - AP 2
+TV-103-1,TV,Apple TV 4K,103,IDF11,NIVEL3,Apartamento 103 - TV 1
+TV-103-2,TV,Apple TV 4K,103,IDF11,NIVEL3,Apartamento 103 - TV 2
+TV-103-3,TV,Apple TV 4K,103,IDF11,NIVEL3,Apartamento 103 - TV 3
+TV-103-4,TV,Apple TV 4K,103,IDF11,NIVEL3,Apartamento 103 - TV 4
+TEL-104-1,telefono,Yealink T46S,104,IDF7,NIVEL4,Apartamento 104 - Teléfono 1
+AP-104-1,AP,Meraki MR46,104,IDF7,NIVEL4,Apartamento 104 - AP 1
+AP-104-2,AP,Meraki MR46,104,IDF7,NIVEL4,Apartamento 104 - AP 2
+TV-104-1,TV,Apple TV 4K,104,IDF7,NIVEL4,Apartamento 104 - TV 1
+TV-104-2,TV,Apple TV 4K,104,IDF7,NIVEL4,Apartamento 104 - TV 2
+TV-104-3,TV,Apple TV 4K,104,IDF7,NIVEL4,Apartamento 104 - TV 3
+TV-104-4,TV,Apple TV 4K,104,IDF7,NIVEL4,Apartamento 104 - TV 4
+TEL-105-1,telefono,Yealink T46S,105,IDF1,NIVEL7,Apartamento 105 - Teléfono 1
+AP-105-1,AP,Meraki MR46,105,IDF1,NIVEL7,Apartamento 105 - AP 1
+AP-105-2,AP,Meraki MR46,105,IDF1,NIVEL7,Apartamento 105 - AP 2
+TV-105-1,TV,Apple TV 4K,105,IDF1,NIVEL7,Apartamento 105 - TV 1
+TV-105-2,TV,Apple TV 4K,105,IDF1,NIVEL7,Apartamento 105 - TV 2
+TV-105-3,TV,Apple TV 4K,105,IDF1,NIVEL7,Apartamento 105 - TV 3
+TV-105-4,TV,Apple TV 4K,105,IDF1,NIVEL7,Apartamento 105 - TV 4
+TEL-106-1,telefono,Yealink T46S,106,IDF8,NIVEL7,Apartamento 106 - Teléfono 1
+AP-106-1,AP,Meraki MR46,106,IDF8,NIVEL7,Apartamento 106 - AP 1
+AP-106-2,AP,Meraki MR46,106,IDF8,NIVEL7,Apartamento 106 - AP 2
+TV-106-1,TV,Apple TV 4K,106,IDF8,NIVEL7,Apartamento 106 - TV 1
+TV-106-2,TV,Apple TV 4K,106,IDF8,NIVEL7,Apartamento 106 - TV 2
+TV-106-3,TV,Apple TV 4K,106,IDF8,NIVEL7,Apartamento 106 - TV 3
+TEL-107-1,telefono,Yealink T46S,107,IDF6,NIVEL7,Apartamento 107 - Teléfono 1
+AP-107-1,AP,Meraki MR46,107,IDF6,NIVEL7,Apartamento 107 - AP 1
+AP-107-2,AP,Meraki MR46,107,IDF6,NIVEL7,Apartamento 107 - AP 2
+TV-107-1,TV,Apple TV 4K,107,IDF6,NIVEL7,Apartamento 107 - TV 1
+TV-107-2,TV,Apple TV 4K,107,IDF6,NIVEL7,Apartamento 107 - TV 2
+TV-107-3,TV,Apple TV 4K,107,IDF6,NIVEL7,Apartamento 107 - TV 3
+TV-107-4,TV,Apple TV 4K,107,IDF6,NIVEL7,Apartamento 107 - TV 4
+TEL-108-1,telefono,Yealink T46S,108,IDF3,NIVEL7,Apartamento 108 - Teléfono 1
+AP-108-1,AP,Meraki MR46,108,IDF3,NIVEL7,Apartamento 108 - AP 1
+AP-108-2,AP,Meraki MR46,108,IDF3,NIVEL7,Apartamento 108 - AP 2
+TV-108-1,TV,Apple TV 4K,108,IDF3,NIVEL7,Apartamento 108 - TV 1
+TV-108-2,TV,Apple TV 4K,108,IDF3,NIVEL7,Apartamento 108 - TV 2
+TV-108-3,TV,Apple TV 4K,108,IDF3,NIVEL7,Apartamento 108 - TV 3
+TEL-109-1,telefono,Yealink T46S,109,IDF11,NIVEL4,Apartamento 109 - Teléfono 1
+AP-109-1,AP,Meraki MR46,109,IDF11,NIVEL4,Apartamento 109 - AP 1
+AP-109-2,AP,Meraki MR46,109,IDF11,NIVEL4,Apartamento 109 - AP 2
+TV-109-1,TV,Apple TV 4K,109,IDF11,NIVEL4,Apartamento 109 - TV 1
+TV-109-2,TV,Apple TV 4K,109,IDF11,NIVEL4,Apartamento 109 - TV 2
+TV-109-3,TV,Apple TV 4K,109,IDF11,NIVEL4,Apartamento 109 - TV 3
+TEL-110-1,telefono,Yealink T46S,110,IDF8,NIVEL3,Apartamento 110 - Teléfono 1
+AP-110-1,AP,Meraki MR46,110,IDF8,NIVEL3,Apartamento 110 - AP 1
+AP-110-2,AP,Meraki MR46,110,IDF8,NIVEL3,Apartamento 110 - AP 2
+TV-110-1,TV,Apple TV 4K,110,IDF8,NIVEL3,Apartamento 110 - TV 1
+TV-110-2,TV,Apple TV 4K,110,IDF8,NIVEL3,Apartamento 110 - TV 2
+TV-110-3,TV,Apple TV 4K,110,IDF8,NIVEL3,Apartamento 110 - TV 3
+TEL-111-1,telefono,Yealink T46S,111,IDF15,NIVEL7,Apartamento 111 - Teléfono 1
+AP-111-1,AP,Meraki MR46,111,IDF15,NIVEL7,Apartamento 111 - AP 1
+AP-111-2,AP,Meraki MR46,111,IDF15,NIVEL7,Apartamento 111 - AP 2
+TV-111-1,TV,Apple TV 4K,111,IDF15,NIVEL7,Apartamento 111 - TV 1
+TV-111-2,TV,Apple TV 4K,111,IDF15,NIVEL7,Apartamento 111 - TV 2
+TV-111-3,TV,Apple TV 4K,111,IDF15,NIVEL7,Apartamento 111 - TV 3
+TEL-112-1,telefono,Yealink T46S,112,IDF6,NIVEL1,Apartamento 112 - Teléfono 1
+AP-112-1,AP,Meraki MR46,112,IDF6,NIVEL1,Apartamento 112 - AP 1
+AP-112-2,AP,Meraki MR46,112,IDF6,NIVEL1,Apartamento 112 - AP 2
+TV-112-1,TV,Apple TV 4K,112,IDF6,NIVEL1,Apartamento 112 - TV 1
+TV-112-2,TV,Apple TV 4K,112,IDF6,NIVEL1,Apartamento 112 - TV 2
+TV-112-3,TV,Apple TV 4K,112,IDF6,NIVEL1,Apartamento 112 - TV 3
+TV-112-4,TV,Apple TV 4K,112,IDF6,NIVEL1,Apartamento 112 - TV 4
+TEL-113-1,telefono,Yealink T46S,113,IDF5,NIVEL3,Apartamento 113 - Teléfono 1
+AP-113-1,AP,Meraki MR46,113,IDF5,NIVEL3,Apartamento 113 - AP 1
+AP-113-2,AP,Meraki MR46,113,IDF5,NIVEL3,Apartamento 113 - AP 2
+TV-113-1,TV,Apple TV 4K,113,IDF5,NIVEL3,Apartamento 113 - TV 1
+TV-113-2,TV,Apple TV 4K,113,IDF5,NIVEL3,Apartamento 113 - TV 2
+TV-113-3,TV,Apple TV 4K,113,IDF5,NIVEL3,Apartamento 113 - TV 3
+TEL-114-1,telefono,Yealink T46S,114,IDF6,NIVEL1,Apartamento 114 - Teléfono 1
+AP-114-1,AP,Meraki MR46,114,IDF6,NIVEL1,Apartamento 114 - AP 1
+AP-114-2,AP,Meraki MR46,114,IDF6,NIVEL1,Apartamento 114 - AP 2
+TV-114-1,TV,Apple TV 4K,114,IDF6,NIVEL1,Apartamento 114 - TV 1
+TV-114-2,TV,Apple TV 4K,114,IDF6,NIVEL1,Apartamento 114 - TV 2
+TV-114-3,TV,Apple TV 4K,114,IDF6,NIVEL1,Apartamento 114 - TV 3
+TV-114-4,TV,Apple TV 4K,114,IDF6,NIVEL1,Apartamento 114 - TV 4
+TEL-115-1,telefono,Yealink T46S,115,IDF10,NIVEL2,Apartamento 115 - Teléfono 1
+AP-115-1,AP,Meraki MR46,115,IDF10,NIVEL2,Apartamento 115 - AP 1
+AP-115-2,AP,Meraki MR46,115,IDF10,NIVEL2,Apartamento 115 - AP 2
+TV-115-1,TV,Apple TV 4K,115,IDF10,NIVEL2,Apartamento 115 - TV 1
+TV-115-2,TV,Apple TV 4K,115,IDF10,NIVEL2,Apartamento 115 - TV 2
+TV-115-3,TV,Apple TV 4K,115,IDF10,NIVEL2,Apartamento 115 - TV 3
+TV-115-4,TV,Apple TV 4K,115,IDF10,NIVEL2,Apartamento 115 - TV 4
+TEL-116-1,telefono,Yealink T46S,116,IDF10,NIVEL7,Apartamento 116 - Teléfono 1
+AP-116-1,AP,Meraki MR46,116,IDF10,NIVEL7,Apartamento 116 - AP 1
+AP-116-2,AP,Meraki MR46,116,IDF10,NIVEL7,Apartamento 116 - AP 2
+TV-116-1,TV,Apple TV 4K,116,IDF10,NIVEL7,Apartamento 116 - TV 1
+TV-116-2,TV,Apple TV 4K,116,IDF10,NIVEL7,Apartamento 116 - TV 2
+TV-116-3,TV,Apple TV 4K,116,IDF10,NIVEL7,Apartamento 116 - TV 3
+TEL-117-1,telefono,Yealink T46S,117,IDF5,NIVEL3,Apartamento 117 - Teléfono 1
+AP-117-1,AP,Meraki MR46,117,IDF5,NIVEL3,Apartamento 117 - AP 1
+AP-117-2,AP,Meraki MR46,117,IDF5,NIVEL3,Apartamento 117 - AP 2
+TV-117-1,TV,Apple TV 4K,117,IDF5,NIVEL3,Apartamento 117 - TV 1
+TV-117-2,TV,Apple TV 4K,117,IDF5,NIVEL3,Apartamento 117 - TV 2
+TV-117-3,TV,Apple TV 4K,117,IDF5,NIVEL3,Apartamento 117 - TV 3
+TEL-118-1,telefono,Yealink T46S,118,IDF9,NIVEL2,Apartamento 118 - Teléfono 1
+AP-118-1,AP,Meraki MR46,118,IDF9,NIVEL2,Apartamento 118 - AP 1
+AP-118-2,AP,Meraki MR46,118,IDF9,NIVEL2,Apartamento 118 - AP 2
+TV-118-1,TV,Apple TV 4K,118,IDF9,NIVEL2,Apartamento 118 - TV 1
+TV-118-2,TV,Apple TV 4K,118,IDF9,NIVEL2,Apartamento 118 - TV 2
+TV-118-3,TV,Apple TV 4K,118,IDF9,NIVEL2,Apartamento 118 - TV 3
+TEL-119-1,telefono,Yealink T46S,119,IDF15,NIVEL7,Apartamento 119 - Teléfono 1
+AP-119-1,AP,Meraki MR46,119,IDF15,NIVEL7,Apartamento 119 - AP 1
+AP-119-2,AP,Meraki MR46,119,IDF15,NIVEL7,Apartamento 119 - AP 2
+TV-119-1,TV,Apple TV 4K,119,IDF15,NIVEL7,Apartamento 119 - TV 1
+TV-119-2,TV,Apple TV 4K,119,IDF15,NIVEL7,Apartamento 119 - TV 2
+TV-119-3,TV,Apple TV 4K,119,IDF15,NIVEL7,Apartamento 119 - TV 3
+TEL-120-1,telefono,Yealink T46S,120,IDF13,NIVEL7,Apartamento 120 - Teléfono 1
+AP-120-1,AP,Meraki MR46,120,IDF13,NIVEL7,Apartamento 120 - AP 1
+AP-120-2,AP,Meraki MR46,120,IDF13,NIVEL7,Apartamento 120 - AP 2
+TV-120-1,TV,Apple TV 4K,120,IDF13,NIVEL7,Apartamento 120 - TV 1
+TV-120-2,TV,Apple TV 4K,120,IDF13,NIVEL7,Apartamento 120 - TV 2
+TV-120-3,TV,Apple TV 4K,120,IDF13,NIVEL7,Apartamento 120 - TV 3
+TEL-121-1,telefono,Yealink T46S,121,IDF14,NIVEL5,Apartamento 121 - Teléfono 1
+AP-121-1,AP,Meraki MR46,121,IDF14,NIVEL5,Apartamento 121 - AP 1
+AP-121-2,AP,Meraki MR46,121,IDF14,NIVEL5,Apartamento 121 - AP 2
+TV-121-1,TV,Apple TV 4K,121,IDF14,NIVEL5,Apartamento 121 - TV 1
+TV-121-2,TV,Apple TV 4K,121,IDF14,NIVEL5,Apartamento 121 - TV 2
+TV-121-3,TV,Apple TV 4K,121,IDF14,NIVEL5,Apartamento 121 - TV 3
+TEL-122-1,telefono,Yealink T46S,122,IDF4,NIVEL1,Apartamento 122 - Teléfono 1
+AP-122-1,AP,Meraki MR46,122,IDF4,NIVEL1,Apartamento 122 - AP 1
+AP-122-2,AP,Meraki MR46,122,IDF4,NIVEL1,Apartamento 122 - AP 2
+TV-122-1,TV,Apple TV 4K,122,IDF4,NIVEL1,Apartamento 122 - TV 1
+TV-122-2,TV,Apple TV 4K,122,IDF4,NIVEL1,Apartamento 122 - TV 2
+TV-122-3,TV,Apple TV 4K,122,IDF4,NIVEL1,Apartamento 122 - TV 3
+TV-122-4,TV,Apple TV 4K,122,IDF4,NIVEL1,Apartamento 122 - TV 4
+TEL-123-1,telefono,Yealink T46S,123,IDF3,NIVEL3,Apartamento 123 - Teléfono 1
+AP-123-1,AP,Meraki MR46,123,IDF3,NIVEL3,Apartamento 123 - AP 1
+AP-123-2,AP,Meraki MR46,123,IDF3,NIVEL3,Apartamento 123 - AP 2
+TV-123-1,TV,Apple TV 4K,123,IDF3,NIVEL3,Apartamento 123 - TV 1
+TV-123-2,TV,Apple TV 4K,123,IDF3,NIVEL3,Apartamento 123 - TV 2
+TV-123-3,TV,Apple TV 4K,123,IDF3,NIVEL3,Apartamento 123 - TV 3
+TV-123-4,TV,Apple TV 4K,123,IDF3,NIVEL3,Apartamento 123 - TV 4
+TEL-124-1,telefono,Yealink T46S,124,IDF3,NIVEL1,Apartamento 124 - Teléfono 1
+AP-124-1,AP,Meraki MR46,124,IDF3,NIVEL1,Apartamento 124 - AP 1
+AP-124-2,AP,Meraki MR46,124,IDF3,NIVEL1,Apartamento 124 - AP 2
+TV-124-1,TV,Apple TV 4K,124,IDF3,NIVEL1,Apartamento 124 - TV 1
+TV-124-2,TV,Apple TV 4K,124,IDF3,NIVEL1,Apartamento 124 - TV 2
+TV-124-3,TV,Apple TV 4K,124,IDF3,NIVEL1,Apartamento 124 - TV 3
+TEL-125-1,telefono,Yealink T46S,125,IDF11,NIVEL5,Apartamento 125 - Teléfono 1
+AP-125-1,AP,Meraki MR46,125,IDF11,NIVEL5,Apartamento 125 - AP 1
+AP-125-2,AP,Meraki MR46,125,IDF11,NIVEL5,Apartamento 125 - AP 2
+TV-125-1,TV,Apple TV 4K,125,IDF11,NIVEL5,Apartamento 125 - TV 1
+TV-125-2,TV,Apple TV 4K,125,IDF11,NIVEL5,Apartamento 125 - TV 2
+TV-125-3,TV,Apple TV 4K,125,IDF11,NIVEL5,Apartamento 125 - TV 3
+TEL-126-1,telefono,Yealink T46S,126,IDF15,NIVEL7,Apartamento 126 - Teléfono 1
+AP-126-1,AP,Meraki MR46,126,IDF15,NIVEL7,Apartamento 126 - AP 1
+AP-126-2,AP,Meraki MR46,126,IDF15,NIVEL7,Apartamento 126 - AP 2
+TV-126-1,TV,Apple TV 4K,126,IDF15,NIVEL7,Apartamento 126 - TV 1
+TV-126-2,TV,Apple TV 4K,126,IDF15,NIVEL7,Apartamento 126 - TV 2
+TV-126-3,TV,Apple TV 4K,126,IDF15,NIVEL7,Apartamento 126 - TV 3
+TV-126-4,TV,Apple TV 4K,126,IDF15,NIVEL7,Apartamento 126 - TV 4
+TEL-127-1,telefono,Yealink T46S,127,IDF11,NIVEL3,Apartamento 127 - Teléfono 1
+AP-127-1,AP,Meraki MR46,127,IDF11,NIVEL3,Apartamento 127 - AP 1
+AP-127-2,AP,Meraki MR46,127,IDF11,NIVEL3,Apartamento 127 - AP 2
+TV-127-1,TV,Apple TV 4K,127,IDF11,NIVEL3,Apartamento 127 - TV 1
+TV-127-2,TV,Apple TV 4K,127,IDF11,NIVEL3,Apartamento 127 - TV 2
+TV-127-3,TV,Apple TV 4K,127,IDF11,NIVEL3,Apartamento 127 - TV 3
+TEL-128-1,telefono,Yealink T46S,128,IDF2,NIVEL3,Apartamento 128 - Teléfono 1
+AP-128-1,AP,Meraki MR46,128,IDF2,NIVEL3,Apartamento 128 - AP 1
+AP-128-2,AP,Meraki MR46,128,IDF2,NIVEL3,Apartamento 128 - AP 2
+TV-128-1,TV,Apple TV 4K,128,IDF2,NIVEL3,Apartamento 128 - TV 1
+TV-128-2,TV,Apple TV 4K,128,IDF2,NIVEL3,Apartamento 128 - TV 2
+TV-128-3,TV,Apple TV 4K,128,IDF2,NIVEL3,Apartamento 128 - TV 3
+TEL-129-1,telefono,Yealink T46S,129,IDF7,NIVEL4,Apartamento 129 - Teléfono 1
+AP-129-1,AP,Meraki MR46,129,IDF7,NIVEL4,Apartamento 129 - AP 1
+AP-129-2,AP,Meraki MR46,129,IDF7,NIVEL4,Apartamento 129 - AP 2
+TV-129-1,TV,Apple TV 4K,129,IDF7,NIVEL4,Apartamento 129 - TV 1
+TV-129-2,TV,Apple TV 4K,129,IDF7,NIVEL4,Apartamento 129 - TV 2
+TV-129-3,TV,Apple TV 4K,129,IDF7,NIVEL4,Apartamento 129 - TV 3
+TV-129-4,TV,Apple TV 4K,129,IDF7,NIVEL4,Apartamento 129 - TV 4
+TEL-130-1,telefono,Yealink T46S,130,IDF13,NIVEL4,Apartamento 130 - Teléfono 1
+AP-130-1,AP,Meraki MR46,130,IDF13,NIVEL4,Apartamento 130 - AP 1
+AP-130-2,AP,Meraki MR46,130,IDF13,NIVEL4,Apartamento 130 - AP 2
+TV-130-1,TV,Apple TV 4K,130,IDF13,NIVEL4,Apartamento 130 - TV 1
+TV-130-2,TV,Apple TV 4K,130,IDF13,NIVEL4,Apartamento 130 - TV 2
+TV-130-3,TV,Apple TV 4K,130,IDF13,NIVEL4,Apartamento 130 - TV 3
+TEL-131-1,telefono,Yealink T46S,131,IDF4,NIVEL6,Apartamento 131 - Teléfono 1
+AP-131-1,AP,Meraki MR46,131,IDF4,NIVEL6,Apartamento 131 - AP 1
+AP-131-2,AP,Meraki MR46,131,IDF4,NIVEL6,Apartamento 131 - AP 2
+TV-131-1,TV,Apple TV 4K,131,IDF4,NIVEL6,Apartamento 131 - TV 1
+TV-131-2,TV,Apple TV 4K,131,IDF4,NIVEL6,Apartamento 131 - TV 2
+TV-131-3,TV,Apple TV 4K,131,IDF4,NIVEL6,Apartamento 131 - TV 3
+TV-131-4,TV,Apple TV 4K,131,IDF4,NIVEL6,Apartamento 131 - TV 4
+TEL-132-1,telefono,Yealink T46S,132,IDF5,NIVEL1,Apartamento 132 - Teléfono 1
+AP-132-1,AP,Meraki MR46,132,IDF5,NIVEL1,Apartamento 132 - AP 1
+AP-132-2,AP,Meraki MR46,132,IDF5,NIVEL1,Apartamento 132 - AP 2
+TV-132-1,TV,Apple TV 4K,132,IDF5,NIVEL1,Apartamento 132 - TV 1
+TV-132-2,TV,Apple TV 4K,132,IDF5,NIVEL1,Apartamento 132 - TV 2
+TV-132-3,TV,Apple TV 4K,132,IDF5,NIVEL1,Apartamento 132 - TV 3
+TEL-133-1,telefono,Yealink T46S,133,IDF8,NIVEL3,Apartamento 133 - Teléfono 1
+AP-133-1,AP,Meraki MR46,133,IDF8,NIVEL3,Apartamento 133 - AP 1
+AP-133-2,AP,Meraki MR46,133,IDF8,NIVEL3,Apartamento 133 - AP 2
+TV-133-1,TV,Apple TV 4K,133,IDF8,NIVEL3,Apartamento 133 - TV 1
+TV-133-2,TV,Apple TV 4K,133,IDF8,NIVEL3,Apartamento 133 - TV 2
+TV-133-3,TV,Apple TV 4K,133,IDF8,NIVEL3,Apartamento 133 - TV 3
+TEL-134-1,telefono,Yealink T46S,134,IDF5,NIVEL7,Apartamento 134 - Teléfono 1
+AP-134-1,AP,Meraki MR46,134,IDF5,NIVEL7,Apartamento 134 - AP 1
+AP-134-2,AP,Meraki MR46,134,IDF5,NIVEL7,Apartamento 134 - AP 2
+AP-134-3,AP,Meraki MR46,134,IDF5,NIVEL7,Apartamento 134 - AP 3
+TV-134-1,TV,Apple TV 4K,134,IDF5,NIVEL7,Apartamento 134 - TV 1
+TV-134-2,TV,Apple TV 4K,134,IDF5,NIVEL7,Apartamento 134 - TV 2
+TV-134-3,TV,Apple TV 4K,134,IDF5,NIVEL7,Apartamento 134 - TV 3
+TV-134-4,TV,Apple TV 4K,134,IDF5,NIVEL7,Apartamento 134 - TV 4
+TV-134-5,TV,Apple TV 4K,134,IDF5,NIVEL7,Apartamento 134 - TV 5
+TEL-135-1,telefono,Yealink T46S,135,IDF13,NIVEL2,Apartamento 135 - Teléfono 1
+AP-135-1,AP,Meraki MR46,135,IDF13,NIVEL2,Apartamento 135 - AP 1
+AP-135-2,AP,Meraki MR46,135,IDF13,NIVEL2,Apartamento 135 - AP 2
+TV-135-1,TV,Apple TV 4K,135,IDF13,NIVEL2,Apartamento 135 - TV 1
+TV-135-2,TV,Apple TV 4K,135,IDF13,NIVEL2,Apartamento 135 - TV 2
+TV-135-3,TV,Apple TV 4K,135,IDF13,NIVEL2,Apartamento 135 - TV 3
+TEL-136-1,telefono,Yealink T46S,136,IDF9,NIVEL5,Apartamento 136 - Teléfono 1
+AP-136-1,AP,Meraki MR46,136,IDF9,NIVEL5,Apartamento 136 - AP 1
+AP-136-2,AP,Meraki MR46,136,IDF9,NIVEL5,Apartamento 136 - AP 2
+TV-136-1,TV,Apple TV 4K,136,IDF9,NIVEL5,Apartamento 136 - TV 1
+TV-136-2,TV,Apple TV 4K,136,IDF9,NIVEL5,Apartamento 136 - TV 2
+TV-136-3,TV,Apple TV 4K,136,IDF9,NIVEL5,Apartamento 136 - TV 3
+TV-136-4,TV,Apple TV 4K,136,IDF9,NIVEL5,Apartamento 136 - TV 4
+TEL-137-1,telefono,Yealink T46S,137,IDF6,NIVEL2,Apartamento 137 - Teléfono 1
+AP-137-1,AP,Meraki MR46,137,IDF6,NIVEL2,Apartamento 137 - AP 1
+AP-137-2,AP,Meraki MR46,137,IDF6,NIVEL2,Apartamento 137 - AP 2
+TV-137-1,TV,Apple TV 4K,137,IDF6,NIVEL2,Apartamento 137 - TV 1
+TV-137-2,TV,Apple TV 4K,137,IDF6,NIVEL2,Apartamento 137 - TV 2
+TV-137-3,TV,Apple TV 4K,137,IDF6,NIVEL2,Apartamento 137 - TV 3
+TEL-138-1,telefono,Yealink T46S,138,IDF8,NIVEL2,Apartamento 138 - Teléfono 1
+AP-138-1,AP,Meraki MR46,138,IDF8,NIVEL2,Apartamento 138 - AP 1
+AP-138-2,AP,Meraki MR46,138,IDF8,NIVEL2,Apartamento 138 - AP 2
+TV-138-1,TV,Apple TV 4K,138,IDF8,NIVEL2,Apartamento 138 - TV 1
+TV-138-2,TV,Apple TV 4K,138,IDF8,NIVEL2,Apartamento 138 - TV 2
+TV-138-3,TV,Apple TV 4K,138,IDF8,NIVEL2,Apartamento 138 - TV 3
+TEL-139-1,telefono,Yealink T46S,139,IDF3,NIVEL2,Apartamento 139 - Teléfono 1
+AP-139-1,AP,Meraki MR46,139,IDF3,NIVEL2,Apartamento 139 - AP 1
+AP-139-2,AP,Meraki MR46,139,IDF3,NIVEL2,Apartamento 139 - AP 2
+TV-139-1,TV,Apple TV 4K,139,IDF3,NIVEL2,Apartamento 139 - TV 1
+TV-139-2,TV,Apple TV 4K,139,IDF3,NIVEL2,Apartamento 139 - TV 2
+TV-139-3,TV,Apple TV 4K,139,IDF3,NIVEL2,Apartamento 139 - TV 3
+TV-139-4,TV,Apple TV 4K,139,IDF3,NIVEL2,Apartamento 139 - TV 4
+TEL-140-1,telefono,Yealink T46S,140,IDF11,NIVEL4,Apartamento 140 - Teléfono 1
+AP-140-1,AP,Meraki MR46,140,IDF11,NIVEL4,Apartamento 140 - AP 1
+AP-140-2,AP,Meraki MR46,140,IDF11,NIVEL4,Apartamento 140 - AP 2
+TV-140-1,TV,Apple TV 4K,140,IDF11,NIVEL4,Apartamento 140 - TV 1
+TV-140-2,TV,Apple TV 4K,140,IDF11,NIVEL4,Apartamento 140 - TV 2
+TEL-141-1,telefono,Yealink T46S,141,IDF7,NIVEL1,Apartamento 141 - Teléfono 1
+AP-141-1,AP,Meraki MR46,141,IDF7,NIVEL1,Apartamento 141 - AP 1
+AP-141-2,AP,Meraki MR46,141,IDF7,NIVEL1,Apartamento 141 - AP 2
+TV-141-1,TV,Apple TV 4K,141,IDF7,NIVEL1,Apartamento 141 - TV 1
+TV-141-2,TV,Apple TV 4K,141,IDF7,NIVEL1,Apartamento 141 - TV 2
+TV-141-3,TV,Apple TV 4K,141,IDF7,NIVEL1,Apartamento 141 - TV 3
+TEL-142-1,telefono,Yealink T46S,142,IDF8,NIVEL7,Apartamento 142 - Teléfono 1
+AP-142-1,AP,Meraki MR46,142,IDF8,NIVEL7,Apartamento 142 - AP 1
+AP-142-2,AP,Meraki MR46,142,IDF8,NIVEL7,Apartamento 142 - AP 2
+TV-142-1,TV,Apple TV 4K,142,IDF8,NIVEL7,Apartamento 142 - TV 1
+TV-142-2,TV,Apple TV 4K,142,IDF8,NIVEL7,Apartamento 142 - TV 2
+TV-142-3,TV,Apple TV 4K,142,IDF8,NIVEL7,Apartamento 142 - TV 3
+TEL-143-1,telefono,Yealink T46S,143,IDF8,NIVEL3,Apartamento 143 - Teléfono 1
+AP-143-1,AP,Meraki MR46,143,IDF8,NIVEL3,Apartamento 143 - AP 1
+AP-143-2,AP,Meraki MR46,143,IDF8,NIVEL3,Apartamento 143 - AP 2
+TV-143-1,TV,Apple TV 4K,143,IDF8,NIVEL3,Apartamento 143 - TV 1
+TV-143-2,TV,Apple TV 4K,143,IDF8,NIVEL3,Apartamento 143 - TV 2
+TV-143-3,TV,Apple TV 4K,143,IDF8,NIVEL3,Apartamento 143 - TV 3
+TV-143-4,TV,Apple TV 4K,143,IDF8,NIVEL3,Apartamento 143 - TV 4
+TEL-144-1,telefono,Yealink T46S,144,IDF7,NIVEL1,Apartamento 144 - Teléfono 1
+AP-144-1,AP,Meraki MR46,144,IDF7,NIVEL1,Apartamento 144 - AP 1
+AP-144-2,AP,Meraki MR46,144,IDF7,NIVEL1,Apartamento 144 - AP 2
+TV-144-1,TV,Apple TV 4K,144,IDF7,NIVEL1,Apartamento 144 - TV 1
+TV-144-2,TV,Apple TV 4K,144,IDF7,NIVEL1,Apartamento 144 - TV 2
+TV-144-3,TV,Apple TV 4K,144,IDF7,NIVEL1,Apartamento 144 - TV 3
+TEL-145-1,telefono,Yealink T46S,145,IDF14,NIVEL4,Apartamento 145 - Teléfono 1
+AP-145-1,AP,Meraki MR46,145,IDF14,NIVEL4,Apartamento 145 - AP 1
+AP-145-2,AP,Meraki MR46,145,IDF14,NIVEL4,Apartamento 145 - AP 2
+TV-145-1,TV,Apple TV 4K,145,IDF14,NIVEL4,Apartamento 145 - TV 1
+TV-145-2,TV,Apple TV 4K,145,IDF14,NIVEL4,Apartamento 145 - TV 2
+TV-145-3,TV,Apple TV 4K,145,IDF14,NIVEL4,Apartamento 145 - TV 3
+TV-145-4,TV,Apple TV 4K,145,IDF14,NIVEL4,Apartamento 145 - TV 4
+TEL-146-1,telefono,Yealink T46S,146,IDF8,NIVEL5,Apartamento 146 - Teléfono 1
+AP-146-1,AP,Meraki MR46,146,IDF8,NIVEL5,Apartamento 146 - AP 1
+AP-146-2,AP,Meraki MR46,146,IDF8,NIVEL5,Apartamento 146 - AP 2
+TV-146-1,TV,Apple TV 4K,146,IDF8,NIVEL5,Apartamento 146 - TV 1
+TV-146-2,TV,Apple TV 4K,146,IDF8,NIVEL5,Apartamento 146 - TV 2
+TV-146-3,TV,Apple TV 4K,146,IDF8,NIVEL5,Apartamento 146 - TV 3
+TEL-147-1,telefono,Yealink T46S,147,IDF3,NIVEL2,Apartamento 147 - Teléfono 1
+AP-147-1,AP,Meraki MR46,147,IDF3,NIVEL2,Apartamento 147 - AP 1
+AP-147-2,AP,Meraki MR46,147,IDF3,NIVEL2,Apartamento 147 - AP 2
+AP-147-3,AP,Meraki MR46,147,IDF3,NIVEL2,Apartamento 147 - AP 3
+TV-147-1,TV,Apple TV 4K,147,IDF3,NIVEL2,Apartamento 147 - TV 1
+TV-147-2,TV,Apple TV 4K,147,IDF3,NIVEL2,Apartamento 147 - TV 2
+TV-147-3,TV,Apple TV 4K,147,IDF3,NIVEL2,Apartamento 147 - TV 3
+TV-147-4,TV,Apple TV 4K,147,IDF3,NIVEL2,Apartamento 147 - TV 4
+TV-147-5,TV,Apple TV 4K,147,IDF3,NIVEL2,Apartamento 147 - TV 5
+TEL-148-1,telefono,Yealink T46S,148,IDF8,NIVEL7,Apartamento 148 - Teléfono 1
+AP-148-1,AP,Meraki MR46,148,IDF8,NIVEL7,Apartamento 148 - AP 1
+AP-148-2,AP,Meraki MR46,148,IDF8,NIVEL7,Apartamento 148 - AP 2
+AP-148-3,AP,Meraki MR46,148,IDF8,NIVEL7,Apartamento 148 - AP 3
+TV-148-1,TV,Apple TV 4K,148,IDF8,NIVEL7,Apartamento 148 - TV 1
+TV-148-2,TV,Apple TV 4K,148,IDF8,NIVEL7,Apartamento 148 - TV 2
+TV-148-3,TV,Apple TV 4K,148,IDF8,NIVEL7,Apartamento 148 - TV 3
+TV-148-4,TV,Apple TV 4K,148,IDF8,NIVEL7,Apartamento 148 - TV 4
+TV-148-5,TV,Apple TV 4K,148,IDF8,NIVEL7,Apartamento 148 - TV 5
+TEL-149-1,telefono,Yealink T46S,149,IDF1,NIVEL2,Apartamento 149 - Teléfono 1
+AP-149-1,AP,Meraki MR46,149,IDF1,NIVEL2,Apartamento 149 - AP 1
+AP-149-2,AP,Meraki MR46,149,IDF1,NIVEL2,Apartamento 149 - AP 2
+TV-149-1,TV,Apple TV 4K,149,IDF1,NIVEL2,Apartamento 149 - TV 1
+TV-149-2,TV,Apple TV 4K,149,IDF1,NIVEL2,Apartamento 149 - TV 2
+TV-149-3,TV,Apple TV 4K,149,IDF1,NIVEL2,Apartamento 149 - TV 3
+TV-149-4,TV,Apple TV 4K,149,IDF1,NIVEL2,Apartamento 149 - TV 4
+TEL-150-1,telefono,Yealink T46S,150,IDF8,NIVEL6,Apartamento 150 - Teléfono 1
+AP-150-1,AP,Meraki MR46,150,IDF8,NIVEL6,Apartamento 150 - AP 1
+AP-150-2,AP,Meraki MR46,150,IDF8,NIVEL6,Apartamento 150 - AP 2
+TV-150-1,TV,Apple TV 4K,150,IDF8,NIVEL6,Apartamento 150 - TV 1
+TV-150-2,TV,Apple TV 4K,150,IDF8,NIVEL6,Apartamento 150 - TV 2
+TV-150-3,TV,Apple TV 4K,150,IDF8,NIVEL6,Apartamento 150 - TV 3
+TEL-151-1,telefono,Yealink T46S,151,IDF14,NIVEL3,Apartamento 151 - Teléfono 1
+AP-151-1,AP,Meraki MR46,151,IDF14,NIVEL3,Apartamento 151 - AP 1
+AP-151-2,AP,Meraki MR46,151,IDF14,NIVEL3,Apartamento 151 - AP 2
+TV-151-1,TV,Apple TV 4K,151,IDF14,NIVEL3,Apartamento 151 - TV 1
+TV-151-2,TV,Apple TV 4K,151,IDF14,NIVEL3,Apartamento 151 - TV 2
+TV-151-3,TV,Apple TV 4K,151,IDF14,NIVEL3,Apartamento 151 - TV 3
+TEL-152-1,telefono,Yealink T46S,152,IDF13,NIVEL3,Apartamento 152 - Teléfono 1
+AP-152-1,AP,Meraki MR46,152,IDF13,NIVEL3,Apartamento 152 - AP 1
+AP-152-2,AP,Meraki MR46,152,IDF13,NIVEL3,Apartamento 152 - AP 2
+AP-152-3,AP,Meraki MR46,152,IDF13,NIVEL3,Apartamento 152 - AP 3
+TV-152-1,TV,Apple TV 4K,152,IDF13,NIVEL3,Apartamento 152 - TV 1
+TV-152-2,TV,Apple TV 4K,152,IDF13,NIVEL3,Apartamento 152 - TV 2
+TV-152-3,TV,Apple TV 4K,152,IDF13,NIVEL3,Apartamento 152 - TV 3
+TV-152-4,TV,Apple TV 4K,152,IDF13,NIVEL3,Apartamento 152 - TV 4
+TV-152-5,TV,Apple TV 4K,152,IDF13,NIVEL3,Apartamento 152 - TV 5
+TEL-153-1,telefono,Yealink T46S,153,IDF13,NIVEL5,Apartamento 153 - Teléfono 1
+AP-153-1,AP,Meraki MR46,153,IDF13,NIVEL5,Apartamento 153 - AP 1
+AP-153-2,AP,Meraki MR46,153,IDF13,NIVEL5,Apartamento 153 - AP 2
+TV-153-1,TV,Apple TV 4K,153,IDF13,NIVEL5,Apartamento 153 - TV 1
+TV-153-2,TV,Apple TV 4K,153,IDF13,NIVEL5,Apartamento 153 - TV 2
+TV-153-3,TV,Apple TV 4K,153,IDF13,NIVEL5,Apartamento 153 - TV 3
+TEL-154-1,telefono,Yealink T46S,154,IDF10,NIVEL5,Apartamento 154 - Teléfono 1
+AP-154-1,AP,Meraki MR46,154,IDF10,NIVEL5,Apartamento 154 - AP 1
+AP-154-2,AP,Meraki MR46,154,IDF10,NIVEL5,Apartamento 154 - AP 2
+TV-154-1,TV,Apple TV 4K,154,IDF10,NIVEL5,Apartamento 154 - TV 1
+TV-154-2,TV,Apple TV 4K,154,IDF10,NIVEL5,Apartamento 154 - TV 2
+TV-154-3,TV,Apple TV 4K,154,IDF10,NIVEL5,Apartamento 154 - TV 3
+TEL-155-1,telefono,Yealink T46S,155,IDF11,NIVEL6,Apartamento 155 - Teléfono 1
+AP-155-1,AP,Meraki MR46,155,IDF11,NIVEL6,Apartamento 155 - AP 1
+AP-155-2,AP,Meraki MR46,155,IDF11,NIVEL6,Apartamento 155 - AP 2
+TV-155-1,TV,Apple TV 4K,155,IDF11,NIVEL6,Apartamento 155 - TV 1
+TV-155-2,TV,Apple TV 4K,155,IDF11,NIVEL6,Apartamento 155 - TV 2
+TV-155-3,TV,Apple TV 4K,155,IDF11,NIVEL6,Apartamento 155 - TV 3
+TEL-156-1,telefono,Yealink T46S,156,IDF2,NIVEL7,Apartamento 156 - Teléfono 1
+AP-156-1,AP,Meraki MR46,156,IDF2,NIVEL7,Apartamento 156 - AP 1
+AP-156-2,AP,Meraki MR46,156,IDF2,NIVEL7,Apartamento 156 - AP 2
+TV-156-1,TV,Apple TV 4K,156,IDF2,NIVEL7,Apartamento 156 - TV 1
+TV-156-2,TV,Apple TV 4K,156,IDF2,NIVEL7,Apartamento 156 - TV 2
+TV-156-3,TV,Apple TV 4K,156,IDF2,NIVEL7,Apartamento 156 - TV 3
+TEL-157-1,telefono,Yealink T46S,157,IDF2,NIVEL1,Apartamento 157 - Teléfono 1
+AP-157-1,AP,Meraki MR46,157,IDF2,NIVEL1,Apartamento 157 - AP 1
+AP-157-2,AP,Meraki MR46,157,IDF2,NIVEL1,Apartamento 157 - AP 2
+AP-157-3,AP,Meraki MR46,157,IDF2,NIVEL1,Apartamento 157 - AP 3
+TV-157-1,TV,Apple TV 4K,157,IDF2,NIVEL1,Apartamento 157 - TV 1
+TV-157-2,TV,Apple TV 4K,157,IDF2,NIVEL1,Apartamento 157 - TV 2
+TV-157-3,TV,Apple TV 4K,157,IDF2,NIVEL1,Apartamento 157 - TV 3
+TV-157-4,TV,Apple TV 4K,157,IDF2,NIVEL1,Apartamento 157 - TV 4
+TV-157-5,TV,Apple TV 4K,157,IDF2,NIVEL1,Apartamento 157 - TV 5
+TEL-158-1,telefono,Yealink T46S,158,IDF5,NIVEL2,Apartamento 158 - Teléfono 1
+AP-158-1,AP,Meraki MR46,158,IDF5,NIVEL2,Apartamento 158 - AP 1
+AP-158-2,AP,Meraki MR46,158,IDF5,NIVEL2,Apartamento 158 - AP 2
+TV-158-1,TV,Apple TV 4K,158,IDF5,NIVEL2,Apartamento 158 - TV 1
+TV-158-2,TV,Apple TV 4K,158,IDF5,NIVEL2,Apartamento 158 - TV 2
+TV-158-3,TV,Apple TV 4K,158,IDF5,NIVEL2,Apartamento 158 - TV 3
+TV-158-4,TV,Apple TV 4K,158,IDF5,NIVEL2,Apartamento 158 - TV 4
+TEL-159-1,telefono,Yealink T46S,159,IDF3,NIVEL4,Apartamento 159 - Teléfono 1
+AP-159-1,AP,Meraki MR46,159,IDF3,NIVEL4,Apartamento 159 - AP 1
+AP-159-2,AP,Meraki MR46,159,IDF3,NIVEL4,Apartamento 159 - AP 2
+TV-159-1,TV,Apple TV 4K,159,IDF3,NIVEL4,Apartamento 159 - TV 1
+TV-159-2,TV,Apple TV 4K,159,IDF3,NIVEL4,Apartamento 159 - TV 2
+TV-159-3,TV,Apple TV 4K,159,IDF3,NIVEL4,Apartamento 159 - TV 3
+TV-159-4,TV,Apple TV 4K,159,IDF3,NIVEL4,Apartamento 159 - TV 4
+TEL-160-1,telefono,Yealink T46S,160,IDF14,NIVEL6,Apartamento 160 - Teléfono 1
+AP-160-1,AP,Meraki MR46,160,IDF14,NIVEL6,Apartamento 160 - AP 1
+AP-160-2,AP,Meraki MR46,160,IDF14,NIVEL6,Apartamento 160 - AP 2
+TV-160-1,TV,Apple TV 4K,160,IDF14,NIVEL6,Apartamento 160 - TV 1
+TV-160-2,TV,Apple TV 4K,160,IDF14,NIVEL6,Apartamento 160 - TV 2
+TV-160-3,TV,Apple TV 4K,160,IDF14,NIVEL6,Apartamento 160 - TV 3
+TEL-161-1,telefono,Yealink T46S,161,IDF4,NIVEL4,Apartamento 161 - Teléfono 1
+AP-161-1,AP,Meraki MR46,161,IDF4,NIVEL4,Apartamento 161 - AP 1
+AP-161-2,AP,Meraki MR46,161,IDF4,NIVEL4,Apartamento 161 - AP 2
+TV-161-1,TV,Apple TV 4K,161,IDF4,NIVEL4,Apartamento 161 - TV 1
+TV-161-2,TV,Apple TV 4K,161,IDF4,NIVEL4,Apartamento 161 - TV 2
+TV-161-3,TV,Apple TV 4K,161,IDF4,NIVEL4,Apartamento 161 - TV 3
+TV-161-4,TV,Apple TV 4K,161,IDF4,NIVEL4,Apartamento 161 - TV 4
+TEL-162-1,telefono,Yealink T46S,162,IDF2,NIVEL5,Apartamento 162 - Teléfono 1
+AP-162-1,AP,Meraki MR46,162,IDF2,NIVEL5,Apartamento 162 - AP 1
+AP-162-2,AP,Meraki MR46,162,IDF2,NIVEL5,Apartamento 162 - AP 2
+TV-162-1,TV,Apple TV 4K,162,IDF2,NIVEL5,Apartamento 162 - TV 1
+TV-162-2,TV,Apple TV 4K,162,IDF2,NIVEL5,Apartamento 162 - TV 2
+TV-162-3,TV,Apple TV 4K,162,IDF2,NIVEL5,Apartamento 162 - TV 3
+TEL-163-1,telefono,Yealink T46S,163,IDF12,NIVEL7,Apartamento 163 - Teléfono 1
+AP-163-1,AP,Meraki MR46,163,IDF12,NIVEL7,Apartamento 163 - AP 1
+AP-163-2,AP,Meraki MR46,163,IDF12,NIVEL7,Apartamento 163 - AP 2
+TV-163-1,TV,Apple TV 4K,163,IDF12,NIVEL7,Apartamento 163 - TV 1
+TV-163-2,TV,Apple TV 4K,163,IDF12,NIVEL7,Apartamento 163 - TV 2
+TV-163-3,TV,Apple TV 4K,163,IDF12,NIVEL7,Apartamento 163 - TV 3
+TEL-164-1,telefono,Yealink T46S,164,IDF15,NIVEL3,Apartamento 164 - Teléfono 1
+AP-164-1,AP,Meraki MR46,164,IDF15,NIVEL3,Apartamento 164 - AP 1
+AP-164-2,AP,Meraki MR46,164,IDF15,NIVEL3,Apartamento 164 - AP 2
+TV-164-1,TV,Apple TV 4K,164,IDF15,NIVEL3,Apartamento 164 - TV 1
+TV-164-2,TV,Apple TV 4K,164,IDF15,NIVEL3,Apartamento 164 - TV 2
+TV-164-3,TV,Apple TV 4K,164,IDF15,NIVEL3,Apartamento 164 - TV 3
+TEL-165-1,telefono,Yealink T46S,165,IDF12,NIVEL1,Apartamento 165 - Teléfono 1
+AP-165-1,AP,Meraki MR46,165,IDF12,NIVEL1,Apartamento 165 - AP 1
+AP-165-2,AP,Meraki MR46,165,IDF12,NIVEL1,Apartamento 165 - AP 2
+TV-165-1,TV,Apple TV 4K,165,IDF12,NIVEL1,Apartamento 165 - TV 1
+TV-165-2,TV,Apple TV 4K,165,IDF12,NIVEL1,Apartamento 165 - TV 2
+TV-165-3,TV,Apple TV 4K,165,IDF12,NIVEL1,Apartamento 165 - TV 3
+TEL-166-1,telefono,Yealink T46S,166,IDF10,NIVEL2,Apartamento 166 - Teléfono 1
+AP-166-1,AP,Meraki MR46,166,IDF10,NIVEL2,Apartamento 166 - AP 1
+AP-166-2,AP,Meraki MR46,166,IDF10,NIVEL2,Apartamento 166 - AP 2
+TV-166-1,TV,Apple TV 4K,166,IDF10,NIVEL2,Apartamento 166 - TV 1
+TV-166-2,TV,Apple TV 4K,166,IDF10,NIVEL2,Apartamento 166 - TV 2
+TV-166-3,TV,Apple TV 4K,166,IDF10,NIVEL2,Apartamento 166 - TV 3
+TEL-167-1,telefono,Yealink T46S,167,IDF14,NIVEL2,Apartamento 167 - Teléfono 1
+AP-167-1,AP,Meraki MR46,167,IDF14,NIVEL2,Apartamento 167 - AP 1
+AP-167-2,AP,Meraki MR46,167,IDF14,NIVEL2,Apartamento 167 - AP 2
+TV-167-1,TV,Apple TV 4K,167,IDF14,NIVEL2,Apartamento 167 - TV 1
+TV-167-2,TV,Apple TV 4K,167,IDF14,NIVEL2,Apartamento 167 - TV 2
+TV-167-3,TV,Apple TV 4K,167,IDF14,NIVEL2,Apartamento 167 - TV 3
+TEL-168-1,telefono,Yealink T46S,168,IDF13,NIVEL1,Apartamento 168 - Teléfono 1
+AP-168-1,AP,Meraki MR46,168,IDF13,NIVEL1,Apartamento 168 - AP 1
+AP-168-2,AP,Meraki MR46,168,IDF13,NIVEL1,Apartamento 168 - AP 2
+TV-168-1,TV,Apple TV 4K,168,IDF13,NIVEL1,Apartamento 168 - TV 1
+TV-168-2,TV,Apple TV 4K,168,IDF13,NIVEL1,Apartamento 168 - TV 2
+TV-168-3,TV,Apple TV 4K,168,IDF13,NIVEL1,Apartamento 168 - TV 3
+TV-168-4,TV,Apple TV 4K,168,IDF13,NIVEL1,Apartamento 168 - TV 4
+TEL-169-1,telefono,Yealink T46S,169,IDF4,NIVEL1,Apartamento 169 - Teléfono 1
+AP-169-1,AP,Meraki MR46,169,IDF4,NIVEL1,Apartamento 169 - AP 1
+AP-169-2,AP,Meraki MR46,169,IDF4,NIVEL1,Apartamento 169 - AP 2
+TV-169-1,TV,Apple TV 4K,169,IDF4,NIVEL1,Apartamento 169 - TV 1
+TV-169-2,TV,Apple TV 4K,169,IDF4,NIVEL1,Apartamento 169 - TV 2
+TV-169-3,TV,Apple TV 4K,169,IDF4,NIVEL1,Apartamento 169 - TV 3
+TEL-170-1,telefono,Yealink T46S,170,IDF6,NIVEL1,Apartamento 170 - Teléfono 1
+AP-170-1,AP,Meraki MR46,170,IDF6,NIVEL1,Apartamento 170 - AP 1
+AP-170-2,AP,Meraki MR46,170,IDF6,NIVEL1,Apartamento 170 - AP 2
+TV-170-1,TV,Apple TV 4K,170,IDF6,NIVEL1,Apartamento 170 - TV 1
+TV-170-2,TV,Apple TV 4K,170,IDF6,NIVEL1,Apartamento 170 - TV 2
+TV-170-3,TV,Apple TV 4K,170,IDF6,NIVEL1,Apartamento 170 - TV 3
+TEL-171-1,telefono,Yealink T46S,171,IDF8,NIVEL4,Apartamento 171 - Teléfono 1
+AP-171-1,AP,Meraki MR46,171,IDF8,NIVEL4,Apartamento 171 - AP 1
+AP-171-2,AP,Meraki MR46,171,IDF8,NIVEL4,Apartamento 171 - AP 2
+TV-171-1,TV,Apple TV 4K,171,IDF8,NIVEL4,Apartamento 171 - TV 1
+TV-171-2,TV,Apple TV 4K,171,IDF8,NIVEL4,Apartamento 171 - TV 2
+TV-171-3,TV,Apple TV 4K,171,IDF8,NIVEL4,Apartamento 171 - TV 3
+TEL-172-1,telefono,Yealink T46S,172,IDF15,NIVEL7,Apartamento 172 - Teléfono 1
+AP-172-1,AP,Meraki MR46,172,IDF15,NIVEL7,Apartamento 172 - AP 1
+AP-172-2,AP,Meraki MR46,172,IDF15,NIVEL7,Apartamento 172 - AP 2
+TV-172-1,TV,Apple TV 4K,172,IDF15,NIVEL7,Apartamento 172 - TV 1
+TV-172-2,TV,Apple TV 4K,172,IDF15,NIVEL7,Apartamento 172 - TV 2
+TV-172-3,TV,Apple TV 4K,172,IDF15,NIVEL7,Apartamento 172 - TV 3
+TEL-173-1,telefono,Yealink T46S,173,IDF14,NIVEL5,Apartamento 173 - Teléfono 1
+AP-173-1,AP,Meraki MR46,173,IDF14,NIVEL5,Apartamento 173 - AP 1
+AP-173-2,AP,Meraki MR46,173,IDF14,NIVEL5,Apartamento 173 - AP 2
+TV-173-1,TV,Apple TV 4K,173,IDF14,NIVEL5,Apartamento 173 - TV 1
+TV-173-2,TV,Apple TV 4K,173,IDF14,NIVEL5,Apartamento 173 - TV 2
+TV-173-3,TV,Apple TV 4K,173,IDF14,NIVEL5,Apartamento 173 - TV 3
+TEL-174-1,telefono,Yealink T46S,174,IDF1,NIVEL7,Apartamento 174 - Teléfono 1
+AP-174-1,AP,Meraki MR46,174,IDF1,NIVEL7,Apartamento 174 - AP 1
+AP-174-2,AP,Meraki MR46,174,IDF1,NIVEL7,Apartamento 174 - AP 2
+TV-174-1,TV,Apple TV 4K,174,IDF1,NIVEL7,Apartamento 174 - TV 1
+TV-174-2,TV,Apple TV 4K,174,IDF1,NIVEL7,Apartamento 174 - TV 2
+TV-174-3,TV,Apple TV 4K,174,IDF1,NIVEL7,Apartamento 174 - TV 3
+TV-174-4,TV,Apple TV 4K,174,IDF1,NIVEL7,Apartamento 174 - TV 4
+TEL-175-1,telefono,Yealink T46S,175,IDF5,NIVEL3,Apartamento 175 - Teléfono 1
+AP-175-1,AP,Meraki MR46,175,IDF5,NIVEL3,Apartamento 175 - AP 1
+AP-175-2,AP,Meraki MR46,175,IDF5,NIVEL3,Apartamento 175 - AP 2
+TV-175-1,TV,Apple TV 4K,175,IDF5,NIVEL3,Apartamento 175 - TV 1
+TV-175-2,TV,Apple TV 4K,175,IDF5,NIVEL3,Apartamento 175 - TV 2
+TV-175-3,TV,Apple TV 4K,175,IDF5,NIVEL3,Apartamento 175 - TV 3
+TV-175-4,TV,Apple TV 4K,175,IDF5,NIVEL3,Apartamento 175 - TV 4
+TEL-176-1,telefono,Yealink T46S,176,IDF1,NIVEL4,Apartamento 176 - Teléfono 1
+AP-176-1,AP,Meraki MR46,176,IDF1,NIVEL4,Apartamento 176 - AP 1
+AP-176-2,AP,Meraki MR46,176,IDF1,NIVEL4,Apartamento 176 - AP 2
+TV-176-1,TV,Apple TV 4K,176,IDF1,NIVEL4,Apartamento 176 - TV 1
+TV-176-2,TV,Apple TV 4K,176,IDF1,NIVEL4,Apartamento 176 - TV 2
+TV-176-3,TV,Apple TV 4K,176,IDF1,NIVEL4,Apartamento 176 - TV 3
+TV-176-4,TV,Apple TV 4K,176,IDF1,NIVEL4,Apartamento 176 - TV 4
+TEL-177-1,telefono,Yealink T46S,177,IDF11,NIVEL6,Apartamento 177 - Teléfono 1
+AP-177-1,AP,Meraki MR46,177,IDF11,NIVEL6,Apartamento 177 - AP 1
+AP-177-2,AP,Meraki MR46,177,IDF11,NIVEL6,Apartamento 177 - AP 2
+TV-177-1,TV,Apple TV 4K,177,IDF11,NIVEL6,Apartamento 177 - TV 1
+TV-177-2,TV,Apple TV 4K,177,IDF11,NIVEL6,Apartamento 177 - TV 2
+TV-177-3,TV,Apple TV 4K,177,IDF11,NIVEL6,Apartamento 177 - TV 3
+TEL-178-1,telefono,Yealink T46S,178,IDF9,NIVEL4,Apartamento 178 - Teléfono 1
+AP-178-1,AP,Meraki MR46,178,IDF9,NIVEL4,Apartamento 178 - AP 1
+AP-178-2,AP,Meraki MR46,178,IDF9,NIVEL4,Apartamento 178 - AP 2
+TV-178-1,TV,Apple TV 4K,178,IDF9,NIVEL4,Apartamento 178 - TV 1
+TV-178-2,TV,Apple TV 4K,178,IDF9,NIVEL4,Apartamento 178 - TV 2
+TV-178-3,TV,Apple TV 4K,178,IDF9,NIVEL4,Apartamento 178 - TV 3
+TEL-179-1,telefono,Yealink T46S,179,IDF9,NIVEL7,Apartamento 179 - Teléfono 1
+AP-179-1,AP,Meraki MR46,179,IDF9,NIVEL7,Apartamento 179 - AP 1
+AP-179-2,AP,Meraki MR46,179,IDF9,NIVEL7,Apartamento 179 - AP 2
+TV-179-1,TV,Apple TV 4K,179,IDF9,NIVEL7,Apartamento 179 - TV 1
+TV-179-2,TV,Apple TV 4K,179,IDF9,NIVEL7,Apartamento 179 - TV 2
+TV-179-3,TV,Apple TV 4K,179,IDF9,NIVEL7,Apartamento 179 - TV 3
+TEL-180-1,telefono,Yealink T46S,180,IDF7,NIVEL3,Apartamento 180 - Teléfono 1
+AP-180-1,AP,Meraki MR46,180,IDF7,NIVEL3,Apartamento 180 - AP 1
+AP-180-2,AP,Meraki MR46,180,IDF7,NIVEL3,Apartamento 180 - AP 2
+TV-180-1,TV,Apple TV 4K,180,IDF7,NIVEL3,Apartamento 180 - TV 1
+TV-180-2,TV,Apple TV 4K,180,IDF7,NIVEL3,Apartamento 180 - TV 2
+TV-180-3,TV,Apple TV 4K,180,IDF7,NIVEL3,Apartamento 180 - TV 3
+TV-180-4,TV,Apple TV 4K,180,IDF7,NIVEL3,Apartamento 180 - TV 4
+TEL-181-1,telefono,Yealink T46S,181,IDF1,NIVEL2,Apartamento 181 - Teléfono 1
+AP-181-1,AP,Meraki MR46,181,IDF1,NIVEL2,Apartamento 181 - AP 1
+AP-181-2,AP,Meraki MR46,181,IDF1,NIVEL2,Apartamento 181 - AP 2
+TV-181-1,TV,Apple TV 4K,181,IDF1,NIVEL2,Apartamento 181 - TV 1
+TV-181-2,TV,Apple TV 4K,181,IDF1,NIVEL2,Apartamento 181 - TV 2
+TV-181-3,TV,Apple TV 4K,181,IDF1,NIVEL2,Apartamento 181 - TV 3
+TEL-182-1,telefono,Yealink T46S,182,IDF1,NIVEL4,Apartamento 182 - Teléfono 1
+AP-182-1,AP,Meraki MR46,182,IDF1,NIVEL4,Apartamento 182 - AP 1
+AP-182-2,AP,Meraki MR46,182,IDF1,NIVEL4,Apartamento 182 - AP 2
+TV-182-1,TV,Apple TV 4K,182,IDF1,NIVEL4,Apartamento 182 - TV 1
+TV-182-2,TV,Apple TV 4K,182,IDF1,NIVEL4,Apartamento 182 - TV 2
+TV-182-3,TV,Apple TV 4K,182,IDF1,NIVEL4,Apartamento 182 - TV 3
+TEL-183-1,telefono,Yealink T46S,183,IDF1,NIVEL6,Apartamento 183 - Teléfono 1
+AP-183-1,AP,Meraki MR46,183,IDF1,NIVEL6,Apartamento 183 - AP 1
+AP-183-2,AP,Meraki MR46,183,IDF1,NIVEL6,Apartamento 183 - AP 2
+AP-183-3,AP,Meraki MR46,183,IDF1,NIVEL6,Apartamento 183 - AP 3
+TV-183-1,TV,Apple TV 4K,183,IDF1,NIVEL6,Apartamento 183 - TV 1
+TV-183-2,TV,Apple TV 4K,183,IDF1,NIVEL6,Apartamento 183 - TV 2
+TV-183-3,TV,Apple TV 4K,183,IDF1,NIVEL6,Apartamento 183 - TV 3
+TV-183-4,TV,Apple TV 4K,183,IDF1,NIVEL6,Apartamento 183 - TV 4
+TV-183-5,TV,Apple TV 4K,183,IDF1,NIVEL6,Apartamento 183 - TV 5
+TEL-184-1,telefono,Yealink T46S,184,IDF9,NIVEL7,Apartamento 184 - Teléfono 1
+AP-184-1,AP,Meraki MR46,184,IDF9,NIVEL7,Apartamento 184 - AP 1
+AP-184-2,AP,Meraki MR46,184,IDF9,NIVEL7,Apartamento 184 - AP 2
+TV-184-1,TV,Apple TV 4K,184,IDF9,NIVEL7,Apartamento 184 - TV 1
+TV-184-2,TV,Apple TV 4K,184,IDF9,NIVEL7,Apartamento 184 - TV 2
+TV-184-3,TV,Apple TV 4K,184,IDF9,NIVEL7,Apartamento 184 - TV 3
+TV-184-4,TV,Apple TV 4K,184,IDF9,NIVEL7,Apartamento 184 - TV 4
+TEL-185-1,telefono,Yealink T46S,185,IDF15,NIVEL4,Apartamento 185 - Teléfono 1
+AP-185-1,AP,Meraki MR46,185,IDF15,NIVEL4,Apartamento 185 - AP 1
+AP-185-2,AP,Meraki MR46,185,IDF15,NIVEL4,Apartamento 185 - AP 2
+TV-185-1,TV,Apple TV 4K,185,IDF15,NIVEL4,Apartamento 185 - TV 1
+TV-185-2,TV,Apple TV 4K,185,IDF15,NIVEL4,Apartamento 185 - TV 2
+TV-185-3,TV,Apple TV 4K,185,IDF15,NIVEL4,Apartamento 185 - TV 3
+TEL-186-1,telefono,Yealink T46S,186,IDF13,NIVEL5,Apartamento 186 - Teléfono 1
+AP-186-1,AP,Meraki MR46,186,IDF13,NIVEL5,Apartamento 186 - AP 1
+AP-186-2,AP,Meraki MR46,186,IDF13,NIVEL5,Apartamento 186 - AP 2
+TV-186-1,TV,Apple TV 4K,186,IDF13,NIVEL5,Apartamento 186 - TV 1
+TV-186-2,TV,Apple TV 4K,186,IDF13,NIVEL5,Apartamento 186 - TV 2
+TV-186-3,TV,Apple TV 4K,186,IDF13,NIVEL5,Apartamento 186 - TV 3
+TV-186-4,TV,Apple TV 4K,186,IDF13,NIVEL5,Apartamento 186 - TV 4
