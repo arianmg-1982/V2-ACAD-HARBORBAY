@@ -1,7 +1,7 @@
 ============================================================
       LISTADO DE MATERIALES (BOM) - PROYECTO HARBORBAY
 ============================================================
-Fecha de Generación: 2025-08-07 06:16:43
+Fecha de Generación: 2025-08-07 12:45:59
 
 --- RESUMEN DEL PROYECTO ---
 Total de Torres (MDF+IDF): 16
@@ -31,7 +31,7 @@ Total de Puntos de Red:    1224
 - Fibra Óptica:    ~5,250 metros (estimación bruta)
 
 --- OBSERVACIONES ---
-- Las cantidades se basan en el archivo 'torres.csv'.
+- Las cantidades se basan en los archivos de entrada CSV.
 - La longitud del cableado es una estimación y requiere verificación en sitio.
 - Se incluye 1 UPS centralizada en el MDF.
 ============================================================
