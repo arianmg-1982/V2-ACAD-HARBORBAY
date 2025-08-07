@@ -313,7 +313,8 @@ def dibujar_cableado_fibra(f, cfg, torres, coords):
     lisp_seleccionar_capa_y_color(f, "Fibra_Data", 2)
     mdf_torre = torres[0]
     idfs = [t for t in torres if t['id'] != 0]
-    y_bandeja_start = coords[0]['switches']['SW-UPS'][1] - cfg['UPS_ALTO'] - 80
+    # Ajuste para bajar las líneas de fibra óptica
+    y_bandeja_start = coords[0]['switches']['SW-UPS'][1] - cfg['UPS_ALTO'] - 80 - 200
     y_offset = 0
     sw_tipos_fibra = [sw for sw in cfg['SWITCH_DRAW_ORDER'] if sw != 'SW-UPS']
     for sw_tipo in sw_tipos_fibra:
