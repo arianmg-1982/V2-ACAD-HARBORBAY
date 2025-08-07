@@ -9,8 +9,9 @@
     "TORRE_LABEL_OFFSET_Y": -50,
     "TORRE_LABEL_ALTURA": 25,
     "DISPOSITIVO_ESPACIADO_X": 100,
-    "DISPOSITIVO_ESPACIADO_Y": 60,
+    "DISPOSITIVO_ESPACIADO_Y": 80,
     "DISPOSITIVO_Y_OFFSET": 50,
+    "DISPOSITIVO_ANCHO": 40,
     "SWITCH_VERTICAL_SPACING": 60,
     "SWITCH_ANCHO": 120,
     "SWITCH_ALTO": 40,
@@ -67,5 +68,13 @@
         "tvQty": { "capa": "TVs", "label": "TV", "icono": "tv" },
         "camQty": { "capa": "Camaras", "label": "CCTV", "icono": "camara" },
         "datQty": { "capa": "Datos", "label": "DATO", "icono": "dato" }
-    }
+    },
+
+    "SWITCH_DRAW_ORDER": [
+        "SW-CCTV",
+        "SW-DATA",
+        "SW-IPTV",
+        "SW-TEL",
+        "SW-WIFI"
+    ]
 }
