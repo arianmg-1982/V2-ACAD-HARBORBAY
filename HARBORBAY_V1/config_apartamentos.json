@@ -1,0 +1,22 @@
+{
+    "1H": {
+        "count": 4,
+        "habitaciones": 1,
+        "dispositivos": {"telefono": 1, "AP": 2, "TV": 2}
+    },
+    "2H": {
+        "count": 106,
+        "habitaciones": 2,
+        "dispositivos": {"telefono": 1, "AP": 2, "TV": 3}
+    },
+    "3H": {
+        "count": 58,
+        "habitaciones": 3,
+        "dispositivos": {"telefono": 1, "AP": 2, "TV": 4}
+    },
+    "4H": {
+        "count": 18,
+        "habitaciones": 4,
+        "dispositivos": {"telefono": 1, "AP": 3, "TV": 5}
+    }
+}
