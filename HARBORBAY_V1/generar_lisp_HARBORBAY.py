@@ -272,7 +272,6 @@ def dibujar_cableado_utp(f, cfg, torres, coords, alturas_niveles):
     """Dibuja el cableado UTP desde los switches a los dispositivos con el nuevo enrutamiento."""
     lisp_escribir(f, "\n; === DIBUJAR CABLES UTP ===")
     lisp_escribir(f, '(princ "\\nDibujando cables UTP...")')
-    lisp_seleccionar_capa_y_color(f, "Cables_UTP", 5) # Color azul para UTP
 
     device_draw_order = ["apQty", "telQty", "tvQty", "datQty", "camQty"]
 
@@ -293,6 +292,7 @@ def dibujar_cableado_utp(f, cfg, torres, coords, alturas_niveles):
 
         offset_troncal_x = 0
         for tipo_qty in device_draw_order:
+            lisp_seleccionar_capa_y_color(f, "Cables_UTP", 5)
             conf_disp = cfg['DISPOSITIVOS'].get(tipo_qty)
             if not conf_disp: continue
 
@@ -304,7 +304,7 @@ def dibujar_cableado_utp(f, cfg, torres, coords, alturas_niveles):
             if not niveles_con_dispositivo: continue
 
             total_cables = sum(torre['niveles'][nid].get(tipo_qty, 0) for nid in niveles_con_dispositivo)
-            if total_cables > 0 and torre_id == 0: # Solo etiquetar en el MDF/sotano
+            if total_cables > 0 and torre_id == 0:
                 label_total_text = f"{total_cables}xCAT6A"
                 sw_coords = coords[torre_id]['switches'][sw_tipo_mapeado]
                 p_sw_lado = (sw_coords[0] + cfg['SWITCH_ANCHO'], sw_coords[1] + cfg['SWITCH_ALTO'] / 2)
@@ -499,25 +499,26 @@ def generar_lisp(cfg, torres):
             lisp_escribir(f, '(princ "\\n   - Dibujando switches y UPS...")')
             y_sotano = alturas_niveles.get(0, cfg['Y_INICIAL'])
             x_pos = x_base + 50
-            draw_order = cfg['SWITCH_DRAW_ORDER']
-            items_a_dibujar = [item for item in draw_order if item in torre['switches']]
 
             y_cursor = y_sotano - 50
-
             coords[torre_id]['switches'] = {}
 
+            # Dibujar UPS primero si existe en el MDF
+            if 'SW-UPS' in torres[0]['switches'] and torre_id == 0:
+                y_cursor -= cfg['UPS_ALTO']
+                dibujar_ups(f, cfg, x_pos, y_cursor)
+                coords[torre_id]['switches']['SW-UPS'] = (x_pos, y_cursor)
+                y_cursor -= cfg.get('UPS_SWITCH_GAP', 30)
+
+            # Dibujar el resto de los switches
+            draw_order = cfg['SWITCH_DRAW_ORDER']
+            items_a_dibujar = [item for item in draw_order if item in torre['switches'] and item != 'SW-UPS']
+
             for item_nombre in reversed(items_a_dibujar):
-                if item_nombre == 'SW-UPS':
-                    if torre_id == 0: # Solo dibujar UPS en MDF
-                        y_cursor -= cfg['UPS_ALTO']
-                        dibujar_ups(f, cfg, x_pos, y_cursor)
-                        coords[torre_id]['switches'][item_nombre] = (x_pos, y_cursor)
-                        y_cursor -= cfg['SWITCH_VERTICAL_SPACING']
-                else:
-                    y_cursor -= cfg['SWITCH_ALTO']
-                    dibujar_switch(f, cfg, x_pos, y_cursor, item_nombre, torre['switches'].get(item_nombre, ''))
-                    coords[torre_id]['switches'][item_nombre] = (x_pos, y_cursor)
-                    y_cursor -= cfg['SWITCH_VERTICAL_SPACING']
+                y_cursor -= cfg['SWITCH_ALTO']
+                dibujar_switch(f, cfg, x_pos, y_cursor, item_nombre, torre['switches'].get(item_nombre, ''))
+                coords[torre_id]['switches'][item_nombre] = (x_pos, y_cursor)
+                y_cursor -= cfg['SWITCH_VERTICAL_SPACING']
             lisp_escribir(f, '(princ "DONE.")')
 
             # Dibujar Dispositivos por nivel en orden vertical
