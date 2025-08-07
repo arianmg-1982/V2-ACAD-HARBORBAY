@@ -1,7 +1,7 @@
 ============================================================
       LISTADO DE MATERIALES (BOM) - PROYECTO HARBORBAY
 ============================================================
-Fecha de Generación: 2025-08-06 23:31:10
+Fecha de Generación: 2025-08-07 01:56:46
 
 --- RESUMEN DEL PROYECTO ---
 Total de Torres (MDF+IDF): 16
@@ -23,8 +23,6 @@ Total de Puntos de Red:    2263
     - Modelo: RG-NBS6002 (16 uds)
 - SW-TEL         : 16 unidades
     - Modelo: Meraki MS225 (16 uds)
-- SW-UPS         : 1 unidades
-    - Modelo: UPS (1 uds)
 - SW-WIFI        : 16 unidades
     - Modelo: Meraki MS225 (16 uds)
 
