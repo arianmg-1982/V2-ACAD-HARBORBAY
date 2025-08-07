@@ -1,7 +1,7 @@
 ============================================================
       LISTADO DE MATERIALES (BOM) - PROYECTO HARBORBAY
 ============================================================
-Fecha de Generación: 2025-08-07 05:37:42
+Fecha de Generación: 2025-08-07 05:51:23
 
 --- RESUMEN DEL PROYECTO ---
 Total de Torres (MDF+IDF): 16
