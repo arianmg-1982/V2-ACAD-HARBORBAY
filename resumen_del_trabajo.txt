@@ -1,0 +1,59 @@
+Resumen del Trabajo Realizado - Proyecto Harbor Bay LISP
+
+Este documento resume todas las tareas, mejoras y correcciones implementadas en el proyecto de generación de planos AutoLISP para Harbor Bay.
+
+---
+### Fase 1: Generación de Datos Inicial
+
+1.  **Creación de Script de Datos (`generador_auxiliar_de_csv.py`)**:
+    *   Se desarrolló un script en Python para generar automáticamente un conjunto de siete (7) archivos CSV normalizados a partir de un conjunto de constantes predefinidas.
+    *   Los archivos generados incluyen: `apartamentos.csv`, `dispositivos.csv`, `tipos_apartamento.csv`, `dispositivos_por_apartamento.csv`, `distribucion_apartamentos_por_nivel.csv`, `resumen_global.csv`, y `switches.csv`.
+    *   El objetivo era crear un modelo de datos completo y estructurado del proyecto.
+
+---
+### Fase 2: Integración y Configuración
+
+2.  **Integración con el Generador LISP**:
+    *   Se analizó el script existente `generar_lisp_HARBORBAY.py` y su dependencia del fichero `torres.csv`.
+    *   Se modificó el `generador_auxiliar_de_csv.py` para que, además de los otros ficheros, generara el `torres.csv` final, asegurando la compatibilidad y automatizando todo el flujo de datos desde la definición hasta el dibujo.
+
+3.  **Externalización de la Configuración**:
+    *   Para eliminar las constantes hardcodeadas y hacer el sistema flexible, se creó el fichero `config_apartamentos.json`.
+    *   Este fichero JSON centraliza la definición de todos los tipos de apartamentos, su cantidad total, y la carga de dispositivos (teléfonos, APs, TVs) para cada uno.
+    *   El script `generador_auxiliar_de_csv.py` fue refactorizado para leer esta configuración, permitiendo modificar todo el proyecto sin tocar el código Python.
+
+---
+### Fase 3: Refinamiento del Dibujo AutoLISP
+
+Se realizaron una serie de mejoras significativas en el script `generar_lisp_HARBORBAY.py` para cumplir con los requisitos detallados de visualización:
+
+4.  **Colocación Precisa de Componentes**:
+    *   Se ajustó toda la lógica de cálculo de coordenadas para asegurar que todos los equipos (switches en el sótano, dispositivos en los niveles) se dibujen consistentemente *por encima* de su línea de nivel correspondiente.
+
+5.  **Alturas de Nivel Dinámicas**:
+    *   Se refactorizó el cálculo de la posición vertical de las líneas de nivel. Ahora, la separación entre niveles se ajusta dinámicamente en función de la altura ocupada por los equipos del nivel inferior, evitando colisiones visuales y creando un diagrama más limpio y realista.
+
+6.  **Disposición Vertical de Dispositivos**:
+    *   Se modificó el bucle de dibujo de dispositivos para que los iconos de AP, Teléfono y TV en cada nivel se apilen en una columna vertical, mejorando la claridad y organización del plano.
+
+7.  **Implementación de Cableado UTP**:
+    *   Se añadió una nueva función para dibujar el cableado UTP desde los switches de cada torre hasta los grupos de dispositivos en los niveles. La lógica dibuja un riser vertical desde el switch, una troncal horizontal por encima del dispositivo más alto, y acometidas verticales a cada grupo de dispositivos.
+
+8.  **Cableado de Fibra y UPS con Trazado Diagonal**:
+    *   Se eliminó por completo el antiguo sistema de cableado que usaba "bandejas" o troncales horizontales para la fibra óptica y la alimentación del UPS.
+    *   Fue sustituido por un trazado de líneas diagonales directas, que conectan el switch de origen en el MDF (o el UPS) con cada switch de destino en las torres IDF. Esto simplificó enormemente el código y resultó en un diagrama mucho más limpio y fácil de interpretar.
+
+---
+### Fase 4: Documentación y Verificación Final
+
+9.  **Documentación (`README.txt`)**:
+    *   Se creó un fichero `README.txt` explicando el propósito de los ficheros de configuración clave (`config.json` y `config_apartamentos.json`) y sus parámetros.
+
+10. **Corrección de Errores y Verificación**:
+    *   Durante las pruebas finales, se identificó y corrigió un error de tipo `NameError` en la función de dibujo de cableado UTP.
+    *   Se ejecutó un ciclo completo de verificación: se corrió el script de generación de datos, seguido por el script de generación de LISP, y finalmente se inspeccionó manualmente el archivo `.lsp` resultante para confirmar que todos los cambios visuales y lógicos se habían aplicado correctamente.
+
+11. **Entrega Final (`submit`)**:
+    *   Se empaquetó todo el trabajo en un commit con un mensaje descriptivo y se subió al repositorio.
+
+El resultado final es un sistema robusto, modular y altamente configurable que genera un plano de red profesional y detallado en formato AutoLISP, cumpliendo con todos los requisitos especificados.
